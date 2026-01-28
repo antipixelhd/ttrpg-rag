@@ -1,0 +1,73 @@
+# ============================================================================
+# Base Configuration for TTRPG RAG System
+# ============================================================================
+#
+# This file contains non-sensitive configuration parameters.
+# Secrets (API keys) should be stored in secrets.yaml (not committed).
+#
+# ============================================================================
+
+# Data paths
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  summaries_dir: "summaries"
+
+# Run configuration
+run:
+  output_dir: "runs"
+  # run_id will be auto-generated with timestamp
+
+# Embedding configuration
+embeddings:
+  model: "text-embedding-3-small"
+  provider: "openai"  # or "gemini"
+  batch_size: 100
+
+# Vector database configuration
+vector_db:
+  provider: "qdrant"
+  collection_name: "rpg_sessions"
+  distance_metric: "cosine"
+  local_storage: "qdrant_storage"
+
+# Chunking configuration
+chunking:
+  strategy: "bullet_point"  # or "semantic", "fixed"
+  # For fixed chunking:
+  chunk_size: 512
+  chunk_overlap: 50
+
+# Retrieval configuration
+retrieval:
+  top_k: 10
+  strategies:
+    - "dense"  # vector similarity
+    # - "hybrid"  # dense + sparse
+
+# Reranking configuration
+reranking:
+  enabled: true
+  method: "cross_encoder"  # or "llm", "rule_based"
+  top_n: 5
+
+# Generation configuration
+generation:
+  provider: "openai"  # or "gemini"
+  model: "gpt-4"
+  temperature: 0.7
+  max_tokens: 1000
+
+# Evaluation configuration
+evaluation:
+  enabled: false
+  test_set_path: null
+  metrics:
+    - "precision"
+    - "recall"
+    - "mrr"
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
