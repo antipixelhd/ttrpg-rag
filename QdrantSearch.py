@@ -25,7 +25,7 @@ def get_embedding(text):
     """
     response = openai_client.embeddings.create(
         input=text,
-        model="text-embedding-3-large"
+        model="text-embedding-3-small"
     )
     return response.data[0].embedding
 

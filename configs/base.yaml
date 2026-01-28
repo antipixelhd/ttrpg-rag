@@ -1,73 +1,52 @@
-# ============================================================================
+# =============================================================================
 # Base Configuration for TTRPG RAG System
-# ============================================================================
-#
-# This file contains non-sensitive configuration parameters.
-# Secrets (API keys) should be stored in secrets.yaml (not committed).
-#
-# ============================================================================
+# =============================================================================
+# This file contains default settings for the RAG pipeline.
+# You can override these values with a custom config file or CLI arguments.
 
-# Data paths
-data:
-  raw_dir: "data/raw"
-  processed_dir: "data/processed"
-  summaries_dir: "summaries"
+# -----------------------------------------------------------------------------
+# Paths - Where to find and store data
+# -----------------------------------------------------------------------------
+paths:
+  raw_notes: "data/raw"           # Input: Raw markdown session notes
+  processed: "data/processed"     # Output: Cleaned summaries
+  qdrant_storage: "qdrant_storage" # Vector database storage location
 
-# Run configuration
-run:
-  output_dir: "runs"
-  # run_id will be auto-generated with timestamp
+# -----------------------------------------------------------------------------
+# Preprocessing - How to extract summaries from raw notes
+# -----------------------------------------------------------------------------
+preprocess:
+  input_pattern: "Session *.md"   # Which files to process
+  extract_section: "# Session Start"  # Section header to extract from
 
-# Embedding configuration
-embeddings:
-  model: "text-embedding-3-small"
-  provider: "openai"  # or "gemini"
-  batch_size: 100
-
-# Vector database configuration
-vector_db:
-  provider: "qdrant"
-  collection_name: "rpg_sessions"
-  distance_metric: "cosine"
-  local_storage: "qdrant_storage"
-
-# Chunking configuration
+# -----------------------------------------------------------------------------
+# Chunking - How to split summaries into smaller pieces
+# -----------------------------------------------------------------------------
 chunking:
-  strategy: "bullet_point"  # or "semantic", "fixed"
-  # For fixed chunking:
-  chunk_size: 512
-  chunk_overlap: 50
+  strategy: "bullet_points"       # Split by top-level bullet points
 
-# Retrieval configuration
+# -----------------------------------------------------------------------------
+# Embedding - How to convert text to vectors
+# -----------------------------------------------------------------------------
+embedding:
+  model: "text-embedding-3-small" # OpenAI embedding model to use
+
+# -----------------------------------------------------------------------------
+# Indexing - Qdrant vector store settings
+# -----------------------------------------------------------------------------
+indexing:
+  collection_name: "rpg_sessions" # Name of the Qdrant collection
+
+# -----------------------------------------------------------------------------
+# Retrieval - Search settings
+# -----------------------------------------------------------------------------
 retrieval:
-  top_k: 10
-  strategies:
-    - "dense"  # vector similarity
-    # - "hybrid"  # dense + sparse
+  top_k: 5                        # Number of results to return
+  limit_per_query: 10             # Results per individual query
 
-# Reranking configuration
-reranking:
-  enabled: true
-  method: "cross_encoder"  # or "llm", "rule_based"
-  top_n: 5
-
-# Generation configuration
-generation:
-  provider: "openai"  # or "gemini"
-  model: "gpt-4"
-  temperature: 0.7
-  max_tokens: 1000
-
-# Evaluation configuration
-evaluation:
-  enabled: false
-  test_set_path: null
-  metrics:
-    - "precision"
-    - "recall"
-    - "mrr"
-
-# Logging
-logging:
-  level: "INFO"
-  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+# -----------------------------------------------------------------------------
+# Query Expansion (optional) - Generate multiple search queries
+# -----------------------------------------------------------------------------
+query_expansion:
+  enabled: false                  # Set to true to enable query expansion
+  model: "gpt-4o-mini"            # Model to use for generating queries
