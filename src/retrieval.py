@@ -9,7 +9,6 @@ from openai import OpenAI
 from src.config import resolve_path, get_secrets
 from src.embedding import create_embedder, get_embedding
 from src.indexing import create_qdrant_client
-from src.reranking import rerank_results
 
 
 def generate_search_queries(question, config):
@@ -234,6 +233,10 @@ def search(question, config, logger=None):
             logger.info(message)
         else:
             print(f"\n{message}")
+        
+        # Lazy import - only load reranking module when needed
+        # This avoids slow sentence_transformers import when reranking is disabled
+        from src.reranking import rerank_results
         
         formatted_results = rerank_results(question, formatted_results, config, logger)
         
