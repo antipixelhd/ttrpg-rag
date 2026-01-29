@@ -113,7 +113,12 @@ def cmd_index(args):
             save_embeddings(run_dir, result['chunks'])
     
     if result:
-        print(f"\nDone! Indexed {result['count']} chunks.")
+        total = result['count']
+        new = result.get('new_count', 0)
+        if new > 0:
+            print(f"\nDone! Indexed {new} new chunks (total: {total} chunks).")
+        else:
+            print(f"\nDone! All {total} chunks already indexed.")
     else:
         print("\nIndexing failed or no data to index.")
         return 1

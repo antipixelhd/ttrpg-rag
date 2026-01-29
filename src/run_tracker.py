@@ -2,8 +2,7 @@
 # Run Tracker Module
 # =============================================================================
 # This module tracks experiment runs by saving configs, logs, and results
-# to timestamped folders in ./runs. This is essential for thesis work
-# where you need to reproduce and compare different experiments.
+# to timestamped folders in ./runs.
 
 import json
 import logging

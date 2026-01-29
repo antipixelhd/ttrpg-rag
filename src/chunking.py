@@ -6,9 +6,8 @@
 
 import re
 from pathlib import Path
-
+from src.config import load_config
 from src.config import resolve_path
-
 
 def extract_session_number(filename):
     """
@@ -55,7 +54,7 @@ def chunk_by_bullets(file_path):
                 'chunk_number': 1,
                 'content': '- The party arrived at the castle...',
                 'name': 'Session 5 - Part 1',
-                'source_file': 'Session 5 Summary.md'
+                'source_file': 'Session 5 Summary.txt'
             },
             ...
         ]
@@ -85,7 +84,7 @@ def chunk_by_bullets(file_path):
                     'chunk_number': chunk_number,
                     'content': chunk_content,
                     'name': f"Session {session_number} - Part {chunk_number}",
-                    'source_file': f"Session {session_number} Summary.md"
+                    'source_file': f"Session {session_number} Summary.txt"
                 })
                 
                 # Reset for the next chunk
@@ -114,7 +113,7 @@ def chunk_by_bullets(file_path):
             'chunk_number': chunk_number,
             'content': chunk_content,
             'name': f"Session {session_number} - Part {chunk_number}",
-            'source_file': f"Session {session_number} Summary.md"
+            'source_file': f"Session {session_number} Summary.txt"
         })
     
     return chunks
@@ -141,7 +140,7 @@ def get_all_chunks(config, logger=None):
     processed_path = resolve_path(config['paths']['processed'])
     
     # Find all summary files and sort by session number
-    summary_files = list(processed_path.glob('Session * Summary.md'))
+    summary_files = list(processed_path.glob('Session * Summary.txt'))
     summary_files.sort(key=lambda x: extract_session_number(x.name))
     
     if not summary_files:
@@ -156,8 +155,8 @@ def get_all_chunks(config, logger=None):
     all_chunks = []
     
     for file_path in summary_files:
-        # For now, we only support bullet point chunking
-        # This could be extended to support other strategies based on config
+        # For now, we onlybullet point chunking
+        #TODO this could be extended to support other strategies based on config
         chunks = chunk_by_bullets(file_path)
         all_chunks.extend(chunks)
         

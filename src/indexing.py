@@ -29,6 +29,72 @@ def create_qdrant_client(config):
     return QdrantClient(path=str(storage_path))
 
 
+def collection_exists(client, collection_name):
+    """
+    Check if a collection exists in Qdrant.
+    
+    Args:
+        client: The Qdrant client
+        collection_name: Name of the collection to check
+        
+    Returns:
+        bool: True if collection exists, False otherwise
+    """
+    try:
+        client.get_collection(collection_name)
+        return True
+    except Exception:
+        return False
+
+
+def get_existing_chunk_ids(client, collection_name):
+    """
+    Get all chunk IDs that are already stored in the collection.
+    
+    This allows us to skip re-embedding chunks that are already indexed.
+    
+    Args:
+        client: The Qdrant client
+        collection_name: Name of the collection
+        
+    Returns:
+        set: Set of chunk IDs (integers) that exist in the collection
+    """
+    try:
+        # Scroll through all points to get their IDs
+        # We use scroll instead of search to get all points efficiently
+        existing_ids = set()
+        offset = None
+        
+        while True:
+            # Get a batch of points (just IDs, no vectors or payloads)
+            result = client.scroll(
+                collection_name=collection_name,
+                limit=100,  # Process 100 at a time
+                with_payload=False,  # We don't need the payload
+                with_vectors=False,  # We don't need the vectors
+                offset=offset,
+            )
+            
+            points, next_offset = result
+            
+            # Add IDs to our set
+            for point in points:
+                existing_ids.add(point.id)
+            
+            # If no more points, we're done
+            if next_offset is None:
+                break
+            
+            offset = next_offset
+        
+        return existing_ids
+    
+    except Exception as e:
+        print(f"Warning: Could not get existing chunk IDs: {e}")
+        return set()
+
+
 def create_collection(client, collection_name, vector_size):
     """
     Create a new collection in Qdrant for storing vectors.
@@ -45,21 +111,21 @@ def create_collection(client, collection_name, vector_size):
         bool: True if collection was created, False if it already existed
     """
     # Check if collection already exists
-    try:
+    if collection_exists(client, collection_name):
         collection_info = client.get_collection(collection_name)
         print(f"Collection '{collection_name}' already exists with {collection_info.points_count} points")
         return False
-    except Exception:
-        # Collection doesn't exist, create it
-        client.create_collection(
-            collection_name=collection_name,
-            vectors_config=models.VectorParams(
-                size=vector_size,
-                distance=models.Distance.COSINE,  # Use cosine similarity
-            ),
-        )
-        print(f"Created new collection '{collection_name}'")
-        return True
+    
+    # Collection doesn't exist, create it
+    client.create_collection(
+        collection_name=collection_name,
+        vectors_config=models.VectorParams(
+            size=vector_size,
+            distance=models.Distance.COSINE,  # Use cosine similarity
+        ),
+    )
+    print(f"Created new collection '{collection_name}'")
+    return True
 
 
 def upload_chunks(client, collection_name, chunks_with_embeddings, logger=None):
@@ -126,8 +192,9 @@ def index_all(config, logger=None):
     
     This is the main function for indexing. It:
     1. Loads and chunks all processed summaries
-    2. Generates embeddings for each chunk
-    3. Uploads everything to Qdrant
+    2. Checks if collection exists and what's already indexed
+    3. Generates embeddings only for new chunks
+    4. Uploads only new chunks to Qdrant
     
     Args:
         config: Configuration dictionary
@@ -135,9 +202,10 @@ def index_all(config, logger=None):
         
     Returns:
         dict: Summary of the indexing operation containing:
-            - chunks: The list of chunks (with embeddings)
+            - chunks: The list of all chunks (with embeddings)
             - collection_name: Name of the Qdrant collection
-            - count: Number of chunks indexed
+            - count: Total number of chunks in collection
+            - new_count: Number of new chunks added in this run
     """
     collection_name = config['indexing']['collection_name']
     
@@ -158,47 +226,100 @@ def index_all(config, logger=None):
             print(f"Error: {message}")
         return None
     
-    # Step 2: Generate embeddings
-    message = "Step 2: Generating embeddings..."
+    # Step 2: Check if collection exists and what's already indexed
+    message = "Step 2: Checking existing collection..."
     if logger:
         logger.info(message)
     else:
         print(message)
     
-    chunks = embed_chunks(chunks, config, logger)
-    
-    # Step 3: Upload to Qdrant
-    message = "Step 3: Uploading to Qdrant..."
-    if logger:
-        logger.info(message)
-    else:
-        print(message)
-    
-    # Create client and collection
     client = create_qdrant_client(config)
     
     try:
-        # Get embedding dimension from the first chunk
-        vector_size = len(chunks[0]['embedding'])
-        
-        # Create collection (or check if it exists)
-        created = create_collection(client, collection_name, vector_size)
-        
-        if created:
-            # Only upload if we just created the collection
-            upload_chunks(client, collection_name, chunks, logger)
-        else:
-            message = "Skipping upload - collection already has data. Delete qdrant_storage to re-index."
+        # Check if collection exists
+        if collection_exists(client, collection_name):
+            # Get existing chunk IDs
+            existing_ids = get_existing_chunk_ids(client, collection_name)
+            
+            message = f"Collection exists with {len(existing_ids)} chunks already indexed"
             if logger:
-                logger.warning(message)
+                logger.info(message)
             else:
-                print(f"Warning: {message}")
-    
+                print(message)
+            
+            # Filter out chunks that are already indexed
+            new_chunks = []
+            for chunk in chunks:
+                chunk_id = create_chunk_id(chunk)
+                if chunk_id not in existing_ids:
+                    new_chunks.append(chunk)
+            
+            message = f"Found {len(new_chunks)} new chunks to index"
+            if logger:
+                logger.info(message)
+            else:
+                print(message)
+            
+            # If no new chunks, we're done
+            if not new_chunks:
+                message = "All chunks are already indexed. Nothing to do!"
+                if logger:
+                    logger.info(message)
+                else:
+                    print(message)
+                
+                return {
+                    'chunks': chunks,
+                    'collection_name': collection_name,
+                    'count': len(chunks),
+                    'new_count': 0,
+                }
+        else:
+            # Collection doesn't exist - all chunks are new
+            new_chunks = chunks
+            message = f"Collection does not exist. Will create and index all {len(new_chunks)} chunks"
+            if logger:
+                logger.info(message)
+            else:
+                print(message)
+        
+        # Step 3: Generate embeddings only for new chunks
+        message = f"Step 3: Generating embeddings for {len(new_chunks)} new chunks..."
+        if logger:
+            logger.info(message)
+        else:
+            print(message)
+        
+        if new_chunks:
+            new_chunks = embed_chunks(new_chunks, config, logger)
+        
+        # Step 4: Create collection if needed
+        message = "Step 4: Setting up collection..."
+        if logger:
+            logger.info(message)
+        else:
+            print(message)
+        
+        if not collection_exists(client, collection_name):
+            # Get embedding dimension from the first chunk
+            vector_size = len(new_chunks[0]['embedding'])
+            create_collection(client, collection_name, vector_size)
+        
+        # Step 5: Upload new chunks
+        if new_chunks:
+            message = f"Step 5: Uploading {len(new_chunks)} new chunks..."
+            if logger:
+                logger.info(message)
+            else:
+                print(message)
+            
+            upload_chunks(client, collection_name, new_chunks, logger)
+        
     finally:
         # Always close the client properly
         client.close()
     
-    message = f"Indexing complete: {len(chunks)} chunks in collection '{collection_name}'"
+    message = f"Indexing complete: {len(chunks)} total chunks ({len(new_chunks)} new)"
     if logger:
         logger.info(message)
     else:
@@ -208,6 +329,7 @@ def index_all(config, logger=None):
         'chunks': chunks,
         'collection_name': collection_name,
         'count': len(chunks),
+        'new_count': len(new_chunks),
     }
 
 

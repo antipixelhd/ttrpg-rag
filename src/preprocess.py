@@ -11,6 +11,25 @@ from pathlib import Path
 from src.config import resolve_path
 
 
+def extract_session_number(filename):
+    """
+    Extract the session number from a filename.
+    
+    Args:
+        filename: A filename like "Session 20.md"
+        
+    Returns:
+        int: The session number (e.g., 20), or None if not found
+        
+    Example:
+        extract_session_number("Session 20.md") -> 20
+    """
+    match = re.search(r'Session (\d+)', filename)
+    if match:
+        return int(match.group(1))
+    return None
+
+
 def remove_obsidian_links(text):
     """
     Remove Obsidian wiki-link syntax and replace with plain text.
@@ -100,6 +119,10 @@ def preprocess_all(config, logger=None):
     2. Extracts and cleans the summary from each file
     3. Saves the cleaned summaries to the processed folder
     
+    Important: Each input file contains data for the PREVIOUS session.
+    For example, "Session 5.md" contains the summary for Session 4,
+    so the output will be "Session 4 Summary.md".
+    
     Args:
         config: Configuration dictionary with paths and settings
         logger: Optional logger for tracking progress
@@ -132,9 +155,32 @@ def preprocess_all(config, logger=None):
     total = len(input_files)
     
     for i, input_file in enumerate(input_files, 1):
-        # Extract session number from filename for the output name
-        # "Session 5.md" -> "Session 5 Summary.md"
-        output_name = input_file.stem + " Summary.md"
+        # Extract session number from the input filename
+        # Important: Each file contains data for the PREVIOUS session
+        # e.g., "Session 5.md" contains the summary for Session 4
+        session_num = extract_session_number(input_file.name)
+        
+        if session_num is None:
+            message = f"Skipping {input_file.name} - could not extract session number"
+            if logger:
+                logger.warning(message)
+            else:
+                print(f"Warning: {message}")
+            continue
+        
+        # Decrement session number for output (Session 5.md -> Session 4 Summary.md)
+        output_session_num = session_num - 1
+        
+        # Skip if output session number is 0 or negative
+        if output_session_num <= 0:
+            message = f"Skipping {input_file.name} - output session number would be {output_session_num}"
+            if logger:
+                logger.warning(message)
+            else:
+                print(f"Warning: {message}")
+            continue
+        
+        output_name = f"Session {output_session_num} Summary.txt"
         output_path = processed_path / output_name
         
         # Process the file
