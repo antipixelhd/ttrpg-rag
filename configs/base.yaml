@@ -29,7 +29,7 @@ chunking:
 # Embedding - How to convert text to vectors
 # -----------------------------------------------------------------------------
 embedding:
-  model: "text-embedding-3-small" # OpenAI embedding model to use
+  model: "text-embedding-3-large" # OpenAI embedding model to use
 
 # -----------------------------------------------------------------------------
 # Indexing - Qdrant vector store settings

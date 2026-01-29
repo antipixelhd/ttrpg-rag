@@ -30,7 +30,6 @@ from src.run_tracker import (
     get_logger,
 )
 
-
 # =============================================================================
 # Command Handlers
 # =============================================================================
@@ -89,10 +88,13 @@ def cmd_index(args):
         print_config(config)
         print()
     
-    # Handle --delete flag to clear existing collection
+    # Handle --delete flag to clear existing storage
     if args.delete:
-        print("\nDeleting existing collection...")
-        delete_collection(config)
+        print("\nDeleting Qdrant storage...")
+        success = delete_collection(config)
+        if not success:
+            print("Failed to delete storage. Aborting.")
+            return 1
     
     # Create a run folder if tracking is enabled
     if args.track:
@@ -219,7 +221,12 @@ def cmd_run(args):
     
     if not args.skip_index:
         if args.delete:
-            delete_collection(config, logger)
+            logger.info("Deleting Qdrant storage...")
+            success = delete_collection(config, logger)
+            if not success:
+                logger.error("Failed to delete storage. Aborting.")
+                return 1
+        
         result = index_all(config, logger)
         if result:
             save_chunks(run_dir, result['chunks'])
@@ -243,6 +250,7 @@ def cmd_run(args):
     logger.info("=" * 50)
     
     return 0
+
 
 
 # =============================================================================
@@ -309,7 +317,7 @@ Examples:
     index_parser.add_argument(
         '--delete', '-d',
         action='store_true',
-        help='Delete existing collection before indexing'
+        help='Delete entire Qdrant storage before indexing'
     )
     index_parser.add_argument(
         '--track', '-t',
@@ -391,7 +399,7 @@ Examples:
     run_parser.add_argument(
         '--delete', '-d',
         action='store_true',
-        help='Delete existing collection before indexing'
+        help='Delete entire Qdrant storage before indexing'
     )
     run_parser.add_argument(
         '--skip-preprocess',

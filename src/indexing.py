@@ -335,33 +335,51 @@ def index_all(config, logger=None):
 
 def delete_collection(config, logger=None):
     """
-    Delete the Qdrant collection (useful for re-indexing).
+    Delete the entire Qdrant storage folder (useful for re-indexing).
+    
+    This removes the entire qdrant_storage directory, which is simpler
+    and cleaner than trying to delete individual collections.
     
     Args:
         config: Configuration dictionary
         logger: Optional logger for tracking progress
         
     Returns:
-        bool: True if collection was deleted
+        bool: True if storage was deleted successfully
     """
-    collection_name = config['indexing']['collection_name']
+    import shutil
     
-    client = create_qdrant_client(config)
+    storage_path = resolve_path(config['paths']['qdrant_storage'])
     
     try:
-        client.delete_collection(collection_name)
-        message = f"Deleted collection '{collection_name}'"
-        if logger:
-            logger.info(message)
+        if storage_path.exists():
+            message = f"Deleting Qdrant storage: {storage_path}"
+            if logger:
+                logger.info(message)
+            else:
+                print(message)
+            
+            # Remove the entire directory
+            shutil.rmtree(storage_path)
+            
+            message = "✓ Qdrant storage deleted successfully"
+            if logger:
+                logger.info(message)
+            else:
+                print(message)
+            return True
         else:
-            print(message)
-        return True
+            message = f"Qdrant storage does not exist: {storage_path}"
+            if logger:
+                logger.info(message)
+            else:
+                print(message)
+            return True
+            
     except Exception as e:
-        message = f"Could not delete collection: {e}"
+        message = f"Error deleting Qdrant storage: {e}"
         if logger:
-            logger.warning(message)
+            logger.error(message)
         else:
-            print(f"Warning: {message}")
+            print(f"Error: {message}")
         return False
-    finally:
-        client.close()
