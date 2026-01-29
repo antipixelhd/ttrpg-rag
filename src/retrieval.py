@@ -2,13 +2,14 @@
 # Retrieval Module
 # =============================================================================
 # This module handles searching the Qdrant vector store.
-# It supports optional query expansion to improve search results.
+# It supports optional query expansion and reranking to improve search results.
 
 from openai import OpenAI
 
 from src.config import resolve_path, get_secrets
 from src.embedding import create_embedder, get_embedding
 from src.indexing import create_qdrant_client
+from src.reranking import rerank_results
 
 
 def generate_search_queries(question, config):
@@ -149,7 +150,8 @@ def search(question, config, logger=None):
     This is the primary interface for searching. It:
     1. Optionally generates multiple search queries (query expansion)
     2. Searches with each query
-    3. Returns the top results
+    3. Optionally reranks results using a cross-encoder model
+    4. Returns the top results
     
     Args:
         question: The user's question
@@ -163,8 +165,10 @@ def search(question, config, logger=None):
             - content: The chunk text
             - score: Similarity score (0-1, higher is better)
             - chunk_id: The unique chunk identifier
+            - rerank_score: (if reranking enabled) Cross-encoder score
     """
     top_k = config['retrieval'].get('top_k', 5)
+    reranking_enabled = config.get('reranking', {}).get('enabled', False)
     
     message = f"Searching for: '{question}'"
     if logger:
@@ -194,7 +198,7 @@ def search(question, config, logger=None):
         print(message)
     
     # Step 2: Search with all queries
-    message = "Searching vector store..."
+    message = "Searching vector database..."
     if logger:
         logger.info(message)
     else:
@@ -202,13 +206,20 @@ def search(question, config, logger=None):
     
     results = search_with_multiple_queries(queries, config, logger)
     
-    # Step 3: Get top results
-    top_results = results[:top_k]
+    # Step 3: Get candidates for reranking
+    # If reranking is enabled, get more results to rerank from
+    # This allows the reranker to potentially find better results
+    if reranking_enabled:
+        # Get 3x more candidates for reranking
+        num_candidates = min(top_k * 3, len(results))
+        candidates = results[:num_candidates]
+    else:
+        candidates = results[:top_k]
     
     # Format results nicely
     formatted_results = []
     
-    for score, hit in top_results:
+    for score, hit in candidates:
         formatted_results.append({
             'name': hit.payload['name'],
             'source': hit.payload.get('source_file', 'N/A'),
@@ -219,6 +230,19 @@ def search(question, config, logger=None):
             'chunk_number': hit.payload.get('chunk_number'),
         })
     
+    # Step 4: Rerank results if enabled
+    if reranking_enabled:
+        message = "Reranking results with cross-encoder..."
+        if logger:
+            logger.info(message)
+        else:
+            print(f"\n{message}")
+        
+        formatted_results = rerank_results(question, formatted_results, config, logger)
+        
+        # Take only top_k after reranking
+        formatted_results = formatted_results[:top_k]
+    
     # Print results if no logger (interactive mode)
     if not logger:
         print(f"\n{'=' * 70}")
@@ -226,7 +250,11 @@ def search(question, config, logger=None):
         print('=' * 70)
         
         for i, result in enumerate(formatted_results, 1):
-            print(f"\n{i}. {result['name']} (score: {result['score']:.4f})")
+            score_str = f"score: {result['score']:.4f}"
+            if 'rerank_score' in result:
+                score_str += f", rerank: {result['rerank_score']:.4f}"
+            
+            print(f"\n{i}. {result['name']} ({score_str})")
             print(f"   Source: {result['source']}")
             print(f"   Content:\n   {result['content'][:200]}...")
     

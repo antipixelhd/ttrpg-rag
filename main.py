@@ -144,6 +144,8 @@ def cmd_search(args):
         cli_overrides['retrieval'] = {'top_k': args.top_k}
     if args.expand:
         cli_overrides['query_expansion'] = {'enabled': True}
+    if args.rerank:
+        cli_overrides['reranking'] = {'enabled': True}
     
     config = load_config(args.config, cli_overrides)
     
@@ -190,6 +192,8 @@ def cmd_run(args):
         cli_overrides['retrieval'] = {'top_k': args.top_k}
     if args.expand:
         cli_overrides['query_expansion'] = {'enabled': True}
+    if args.rerank:
+        cli_overrides['reranking'] = {'enabled': True}
     
     config = load_config(args.config, cli_overrides)
     
@@ -361,6 +365,11 @@ Examples:
         help='Enable query expansion for better results'
     )
     search_parser.add_argument(
+        '--rerank', '-r',
+        action='store_true',
+        help='Enable reranking with cross-encoder model'
+    )
+    search_parser.add_argument(
         '--track', '-t',
         action='store_true',
         help='Create a run folder to track this operation'
@@ -395,6 +404,11 @@ Examples:
         '--expand', '-e',
         action='store_true',
         help='Enable query expansion for better results'
+    )
+    run_parser.add_argument(
+        '--rerank', '-r',
+        action='store_true',
+        help='Enable reranking with cross-encoder model'
     )
     run_parser.add_argument(
         '--delete', '-d',

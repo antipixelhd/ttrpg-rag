@@ -8,4 +8,5 @@
 #   - embedding.py   : Generate embeddings using OpenAI
 #   - indexing.py    : Upload chunks to Qdrant vector store
 #   - retrieval.py   : Search the vector store
+#   - reranking.py   : Rerank results with cross-encoder model
 #   - run_tracker.py : Track experiments in ./runs folder
