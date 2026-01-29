@@ -209,17 +209,14 @@ def search(question, config, logger=None):
     # Step 3: Get candidates for reranking
     # If reranking is enabled, get more results to rerank from
     # This allows the reranker to potentially find better results
-    if reranking_enabled:
-        # Get 3x more candidates for reranking
-        num_candidates = min(top_k * 3, len(results))
-        candidates = results[:num_candidates]
-    else:
-        candidates = results[:top_k]
+    if not reranking_enabled:
+        results = results[:top_k]
+        
     
     # Format results nicely
     formatted_results = []
     
-    for score, hit in candidates:
+    for score, hit in results:
         formatted_results.append({
             'name': hit.payload['name'],
             'source': hit.payload.get('source_file', 'N/A'),
