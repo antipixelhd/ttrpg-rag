@@ -166,6 +166,49 @@ def save_results(run_dir, query, results, query_number=None):
     print(f"Saved results to: {results_path}")
 
 
+def save_response(run_dir, question, response, retrieved_chunks=None, metadata=None):
+    """
+    Save the LLM response for a query.
+    
+    This saves the final generated answer along with the question
+    and optionally the chunks that were used as context.
+    
+    Args:
+        run_dir: Path to the run folder
+        question: The user's question
+        response: The LLM's response text
+        retrieved_chunks: Optional list of chunks used for context
+        metadata: Optional dict with additional metadata (model, temperature, etc.)
+    """
+    response_path = Path(run_dir) / 'response.json'
+    
+    data = {
+        'question': question,
+        'response': response,
+        'timestamp': datetime.now().isoformat(),
+    }
+    
+    # Add metadata if provided
+    if metadata:
+        data['metadata'] = metadata
+    
+    # Add chunk references if provided (just IDs and names, not full content)
+    if retrieved_chunks:
+        data['context_chunks'] = [
+            {
+                'chunk_id': c.get('chunk_id'),
+                'name': c.get('name'),
+                'source': c.get('source', c.get('source_file')),
+            }
+            for c in retrieved_chunks
+        ]
+    
+    with open(response_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    
+    print(f"Saved response to: {response_path}")
+
+
 def get_logger(run_dir, name='run'):
     """
     Create a logger that writes to both console and a log file in the run folder.

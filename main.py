@@ -27,6 +27,7 @@ from src.run_tracker import (
     save_chunks,
     save_embeddings,
     save_results,
+    save_response,
     get_logger,
 )
 
@@ -175,11 +176,82 @@ def cmd_search(args):
     return 0
 
 
+def cmd_chat(args):
+    """
+    Handle the 'chat' command.
+    
+    A simplified command for asking questions and getting AI-generated answers.
+    Assumes data is already indexed. Does: search -> generate response.
+    """
+    print("=" * 70)
+    print("TTRPG RAG - Chat")
+    print("=" * 70)
+    
+    # Load configuration with CLI overrides
+    cli_overrides = {}
+    if args.top_k:
+        cli_overrides['retrieval'] = {'top_k': args.top_k}
+    if args.expand:
+        cli_overrides['query_expansion'] = {'enabled': True}
+    if args.rerank:
+        cli_overrides['reranking'] = {'enabled': True}
+    
+    config = load_config(args.config, cli_overrides)
+    
+    if args.verbose:
+        print("\nConfiguration:")
+        print_config(config)
+        print()
+    
+    # Create a run folder if tracking is enabled
+    if args.track:
+        run_dir = create_run(config, "chat")
+        logger = get_logger(run_dir)
+        save_config(run_dir, config)
+    else:
+        run_dir = None
+        logger = None
+    
+    # Step 1: Search for relevant chunks
+    print(f"\nQuestion: {args.question}")
+    print("-" * 70)
+    
+    results = search(args.question, config, logger)
+    
+    # Save results if tracking
+    if run_dir:
+        save_results(run_dir, args.question, results, query_number=1)
+    
+    # Step 2: Generate response
+    from src.response import generate_response
+    
+    response = generate_response(args.question, results, config, logger)
+    
+    # Save response if tracking
+    if run_dir:
+        save_response(run_dir, args.question, response, results)
+    
+    # Print the response prominently
+    print("\n" + "=" * 70)
+    print("ANSWER:")
+    print("=" * 70)
+    print(response)
+    print("=" * 70)
+    
+    # Optionally show sources
+    if args.show_sources:
+        print("\nSources used:")
+        for i, result in enumerate(results, 1):
+            print(f"  {i}. {result['name']} (score: {result['score']:.4f})")
+    
+    return 0
+
+
 def cmd_run(args):
     """
     Handle the 'run' command.
     
-    Runs the full pipeline: preprocess -> index -> search
+    Runs the full pipeline: preprocess -> index -> search -> respond
     This is useful for testing the complete system.
     """
     print("=" * 70)
@@ -247,6 +319,24 @@ def cmd_run(args):
     
     results = search(args.question, config, logger)
     save_results(run_dir, args.question, results, query_number=1)
+    
+    # Step 4: Generate Response
+    logger.info("")
+    logger.info("=" * 50)
+    logger.info("STEP 4: Generating Response")
+    logger.info("=" * 50)
+    
+    from src.response import generate_response
+    
+    response = generate_response(args.question, results, config, logger)
+    save_response(run_dir, args.question, response, results)
+    
+    # Print the response
+    logger.info("")
+    logger.info("-" * 50)
+    logger.info("ANSWER:")
+    logger.info("-" * 50)
+    logger.info(response)
     
     logger.info("")
     logger.info("=" * 50)
@@ -381,11 +471,57 @@ Examples:
     )
     
     # -------------------------------------------------------------------------
+    # Chat command (search + LLM response)
+    # -------------------------------------------------------------------------
+    chat_parser = subparsers.add_parser(
+        'chat',
+        help='Ask a question and get an AI-generated answer'
+    )
+    chat_parser.add_argument(
+        'question',
+        help='Your question about the campaign'
+    )
+    chat_parser.add_argument(
+        '--config', '-c',
+        help='Path to custom config YAML file'
+    )
+    chat_parser.add_argument(
+        '--top-k', '-k',
+        type=int,
+        help='Number of chunks to retrieve for context'
+    )
+    chat_parser.add_argument(
+        '--expand', '-e',
+        action='store_true',
+        help='Enable query expansion for better results'
+    )
+    chat_parser.add_argument(
+        '--rerank', '-r',
+        action='store_true',
+        help='Enable reranking with cross-encoder model'
+    )
+    chat_parser.add_argument(
+        '--show-sources', '-s',
+        action='store_true',
+        help='Show the sources used to generate the answer'
+    )
+    chat_parser.add_argument(
+        '--track', '-t',
+        action='store_true',
+        help='Create a run folder to track this query'
+    )
+    chat_parser.add_argument(
+        '--verbose', '-v',
+        action='store_true',
+        help='Print detailed configuration'
+    )
+    
+    # -------------------------------------------------------------------------
     # Run command (full pipeline)
     # -------------------------------------------------------------------------
     run_parser = subparsers.add_parser(
         'run',
-        help='Run the full pipeline (preprocess -> index -> search)'
+        help='Run the full pipeline (preprocess -> index -> search -> respond)'
     )
     run_parser.add_argument(
         'question',
@@ -451,6 +587,8 @@ Examples:
         return cmd_index(args)
     elif args.command == 'search':
         return cmd_search(args)
+    elif args.command == 'chat':
+        return cmd_chat(args)
     elif args.command == 'run':
         return cmd_run(args)
     else:

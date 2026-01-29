@@ -41,7 +41,7 @@ indexing:
 # Retrieval - Search settings
 # -----------------------------------------------------------------------------
 retrieval:
-  top_k: 5                        # Number of results to return
+  top_k: 10                        # Number of results to return
   limit_per_query: 10             # Results per individual query
 
 # -----------------------------------------------------------------------------
@@ -58,3 +58,11 @@ reranking:
 query_expansion:
   enabled: false                  # Set to true to enable query expansion
   model: "gpt-4o-mini"            # Model to use for generating queries
+
+# -----------------------------------------------------------------------------
+# Response Generation - LLM settings for generating answers
+# -----------------------------------------------------------------------------
+response:
+  model: "gpt-5-nano"             # LLM model to use for responses
+  temperature: 0.2                # Low temperature to reduce hallucinations
+  max_tokens: 500                 # Maximum response length

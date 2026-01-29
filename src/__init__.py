@@ -9,4 +9,5 @@
 #   - indexing.py    : Upload chunks to Qdrant vector store
 #   - retrieval.py   : Search the vector store
 #   - reranking.py   : Rerank results with cross-encoder model
+#   - response.py    : Generate LLM responses from retrieved chunks
 #   - run_tracker.py : Track experiments in ./runs folder
