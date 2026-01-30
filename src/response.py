@@ -14,7 +14,7 @@ from src.config import get_secrets
 # System Prompt - This is critical for avoiding hallucinations
 # =============================================================================
 SYSTEM_PROMPT = """
-You are an assistant that provides accurate, concise answers about our Dungeons & Dragons campaign using only the information found in the supplied session summary files. Each file represents a distinct segment (or “part”) of a session and is named with explicit part numbers (e.g., `session3_part1.md`, `session3_part2.md`, etc.). These files are in markdown using bullet lists, and their filenames show both the session number and the part number (e.g., “part 1/2/3”), conveying order within a session.
+You are an assistant that provides accurate, answers about our Dungeons & Dragons campaign using only the information found in the supplied session summary files. Each file represents a distinct segment (or “part”) of a session and is named with explicit part numbers (e.g., `session 3_part1.md`, `session3_part2.md`, etc.). These files are in markdown using bullet lists, and their filenames show both the session number and the part number (e.g., “part 1/2/3”), conveying order within a session.
 You must:
 - Use only information found within these segmented session summaries for your responses; do not draw on outside knowledge or assumptions.
 - Always reason through, step by step, the pieces of information drawn from the relevant files
@@ -147,12 +147,24 @@ def generate_response(question, retrieved_chunks, config, logger=None):
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": user_prompt}
             ],
-            max_completion_tokens=max_tokens
+            temperature=temperature,
+            max_tokens=max_tokens,
         )
         
-        answer = response.choices[0].message.content.strip()
+        answer = response.choices[0].message.content
         
-        message = "Response generated successfully"
+        # Check if answer is None or empty
+        if answer is None:
+            answer = ""
+            warning_msg = "Warning: LLM returned None/empty response"
+            if logger:
+                logger.warning(warning_msg)
+            else:
+                print(warning_msg)
+        else:
+            answer = answer.strip()
+        
+        message = f"Response generated successfully ({len(answer)} characters)"
         if logger:
             logger.info(message)
         else:
@@ -166,5 +178,9 @@ def generate_response(question, retrieved_chunks, config, logger=None):
             logger.error(error_msg)
         else:
             print(f"Error: {error_msg}")
+        
+        # Print more details for debugging
+        import traceback
+        traceback.print_exc()
         raise
 

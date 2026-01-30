@@ -63,6 +63,6 @@ query_expansion:
 # Response Generation - LLM settings for generating answers
 # -----------------------------------------------------------------------------
 response:
-  model: "gpt-5-nano"             # LLM model to use for responses
-  temperature: 0.2                # Low temperature to reduce hallucinations
+  model: "gpt-4o-mini"            # LLM model to use for responses (valid: gpt-4o, gpt-4o-mini)
+  temperature: 0.1                # Low temperature to reduce hallucinations
   max_tokens: 500                 # Maximum response length

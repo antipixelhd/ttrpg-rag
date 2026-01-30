@@ -15,7 +15,7 @@ runs/
 data/raw/
 data/processed/
 qdrant_storage/
-
+Sources/
 # IDE
 .DS_Store
 .idea/
