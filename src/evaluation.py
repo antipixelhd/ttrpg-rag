@@ -1,11 +1,52 @@
 
 import json
+import re
 from pathlib import Path
 from dataclasses import dataclass
 from typing import List
 from datetime import datetime
 
-from src.config import resolve_path
+from openai import OpenAI
+from src.config import resolve_path, get_secrets
+
+GROUNDEDNESS_PROMPT = """
+You will be given a context and a question.
+Your task is to provide a 'total rating' scoring how well one can answer the given question unambiguously with the given context.
+Give your answer on a scale of 1 to 5, where 1 means that the question is not answerable at all given the context, and 5 means that the question is clearly and unambiguously answerable with the context.
+
+Provide your answer as follows:
+
+Answer:::
+Evaluation: (your rationale for the rating, as a text)
+Total rating: (your rating, as a number between 1 and 5)
+
+You MUST provide values for 'Evaluation:' and 'Total rating:' in your answer.
+
+Now here are the question and context.
+
+Question: {question}
+Context: {context}
+Answer::: """
+
+CORRECTNESS_PROMPT = """
+You will be given a question, a reference answer, and a generated answer.
+Your task is to provide a 'total rating' scoring how well the generated answer is compared to the reference answer.
+Give your answer on a scale of 1 to 5, where 1 means the generated answer is completely wrong or irrelevant, and 5 means the generated answer is fully correct and captures all key information from the reference.
+
+Provide your answer as follows:
+
+Answer:::
+Evaluation: (your rationale for the rating, as a text)
+Total rating: (your rating, as a number between 1 and 5)
+
+You MUST provide values for 'Evaluation:' and 'Total rating:' in your answer.
+
+Now here are the question, reference answer, and generated answer.
+
+Question: {question}
+Reference answer: {gold_answer}
+Generated answer: {generated_answer}
+Answer::: """
 
 @dataclass
 class EvaluationQuestion:
@@ -52,6 +93,61 @@ def compute_mrr(retrieved_ids: List[int], gold_ids: set) -> float:
         if chunk_id in gold_ids:
             return 1.0 / rank
     return 0.0
+
+def parse_llm_rating(response_text: str) -> float:
+    match = re.search(r'Total rating:\s*(\d)', response_text)
+    if match:
+        return float(match.group(1))
+    return 0.0
+
+def create_eval_client():
+    secrets = get_secrets()
+    api_key = secrets.get('openai_api_key')
+    if not api_key:
+        raise ValueError("OpenAI API key not found in secrets.yaml")
+    return OpenAI(api_key=api_key)
+
+def evaluate_groundedness(question: str, context: str, config) -> tuple:
+    eval_model = config.get('evaluation', {}).get('eval_model', 'gpt-4.1')
+    client = create_eval_client()
+    
+    prompt = GROUNDEDNESS_PROMPT.format(question=question, context=context)
+    
+    response = client.chat.completions.create(
+        model=eval_model,
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.0,
+    )
+    
+    response_text = response.choices[0].message.content or ""
+    rating = parse_llm_rating(response_text)
+    input_tokens = response.usage.prompt_tokens
+    output_tokens = response.usage.completion_tokens
+    
+    return rating, input_tokens, output_tokens
+
+def evaluate_correctness(question: str, gold_answer: str, generated_answer: str, config) -> tuple:
+    eval_model = config.get('evaluation', {}).get('eval_model', 'gpt-4.1')
+    client = create_eval_client()
+    
+    prompt = CORRECTNESS_PROMPT.format(
+        question=question,
+        gold_answer=gold_answer,
+        generated_answer=generated_answer
+    )
+    
+    response = client.chat.completions.create(
+        model=eval_model,
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.0,
+    )
+    
+    response_text = response.choices[0].message.content or ""
+    rating = parse_llm_rating(response_text)
+    input_tokens = response.usage.prompt_tokens
+    output_tokens = response.usage.completion_tokens
+    
+    return rating, input_tokens, output_tokens
 
 def evaluate_retrieval(config, verbose: bool = False) -> dict:
     from src.retrieval import search
@@ -130,13 +226,105 @@ def evaluate_retrieval(config, verbose: bool = False) -> dict:
     return results
 
 def evaluate_response(config, verbose: bool = False) -> dict:
-    print("Response evaluation not yet implemented")
-    return {
-        'num_questions': 0,
-        'metrics': {},
-        'individual_results': [],
-        'status': 'not_implemented',
+    from src.retrieval import search
+    from src.response import generate_response, format_context
+    
+    questions = load_questions(config)
+    
+    if not questions:
+        print("Error: No evaluation questions found")
+        return {'error': 'No questions loaded'}
+    
+    print(f"Running response evaluation on {len(questions)} questions...")
+    
+    all_groundedness = []
+    all_correctness = []
+    total_generation_input_tokens = 0
+    total_generation_output_tokens = 0
+    total_eval_input_tokens = 0
+    total_eval_output_tokens = 0
+    
+    for i, q in enumerate(questions, 1):
+        if verbose:
+            print(f"  [{i}/{len(questions)}] Evaluating: {q.question[:50]}...")
+        
+        retrieved = search(q.question, config, verbose=False)
+        context = format_context(retrieved)
+        
+        response_data = generate_response(q.question, retrieved, config, verbose=False)
+        total_generation_input_tokens += response_data['input_tokens']
+        total_generation_output_tokens += response_data['output_tokens']
+        
+        groundedness, g_in, g_out = evaluate_groundedness(q.question, context, config)
+        all_groundedness.append(groundedness)
+        total_eval_input_tokens += g_in
+        total_eval_output_tokens += g_out
+        
+        if verbose:
+            print(f"    Groundedness: {groundedness}/5")
+        
+        correctness, c_in, c_out = evaluate_correctness(
+            q.question, q.goldAnswer, response_data['answer'], config
+        )
+        all_correctness.append(correctness)
+        total_eval_input_tokens += c_in
+        total_eval_output_tokens += c_out
+        
+        if verbose:
+            print(f"    Correctness: {correctness}/5")
+    
+    n = len(questions)
+    results = {
+        'num_questions': n,
+        'metrics': {
+            'avg_groundedness': sum(all_groundedness) / n,
+            'avg_correctness': sum(all_correctness) / n,
+        },
+        'token_usage': {
+            'generation_input_tokens': total_generation_input_tokens,
+            'generation_output_tokens': total_generation_output_tokens,
+            'evaluation_input_tokens': total_eval_input_tokens,
+            'evaluation_output_tokens': total_eval_output_tokens,
+        },
+        'model': config.get('response', {}).get('model'),
+        'eval_model': config.get('evaluation', {}).get('eval_model', 'gpt-4.1'),
     }
+    
+    print(f"Response evaluation complete: {n} questions processed")
+    
+    return results
+
+def save_response_results(results: dict, config) -> Path:
+    output_dir = resolve_path('data/evaluation_results')
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_file = output_dir / 'responseEvaluation.json'
+    
+    existing = []
+    if output_file.exists():
+        with open(output_file, 'r', encoding='utf-8') as f:
+            existing = json.load(f)
+    
+    results_to_save = {
+        'timestamp': datetime.now().isoformat(),
+        'num_questions': results['num_questions'],
+        'metrics': results['metrics'],
+        'token_usage': results['token_usage'],
+        'model': results['model'],
+        'eval_model': results['eval_model'],
+        'config': {
+            'embedding_model': config['embedding']['model'],
+            'top_k': config['retrieval']['top_k'],
+            'reranking_enabled': config.get('reranking', {}).get('enabled', False),
+            'query_expansion_enabled': config.get('query_expansion', {}).get('enabled', False),
+        }
+    }
+    
+    existing.append(results_to_save)
+    
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(existing, f, indent=2)
+    
+    return output_file
 
 def save_retrieval_results(results: dict, config) -> Path:
     output_dir = resolve_path('data/evaluation_results')

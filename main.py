@@ -164,12 +164,21 @@ def cmd_chat(args):
         print()
     
     if args.evaluate:
-        from src.evaluation import evaluate_response
+        from src.evaluation import evaluate_response, save_response_results
         results = evaluate_response(config, verbose=verbose)
         
-        print("\nResponse Evaluation Results:")
-        print(f"  Status: {results.get('status', 'unknown')}")
-        print("  (Response evaluation not yet implemented)")
+        if 'error' not in results:
+            output_file = save_response_results(results, config)
+            
+            print("\nResponse Evaluation Results:")
+            print(f"  Questions evaluated: {results['num_questions']}")
+            print(f"  Avg Groundedness: {results['metrics']['avg_groundedness']:.2f}/5")
+            print(f"  Avg Correctness:  {results['metrics']['avg_correctness']:.2f}/5")
+            print(f"  Response Model: {results['model']}")
+            print(f"  Eval Model: {results['eval_model']}")
+            print(f"  Generation tokens: {results['token_usage']['generation_input_tokens']} in / {results['token_usage']['generation_output_tokens']} out")
+            print(f"  Evaluation tokens: {results['token_usage']['evaluation_input_tokens']} in / {results['token_usage']['evaluation_output_tokens']} out")
+            print(f"\nResults saved to: {output_file}")
         return 0
     
     if not args.question:
@@ -192,7 +201,8 @@ def cmd_chat(args):
     
     from src.response import generate_response
     
-    response = generate_response(args.question, results, config, verbose)
+    response_data = generate_response(args.question, results, config, verbose)
+    response = response_data['answer']
     
     if run_dir:
         save_response(run_dir, args.question, response, results)
@@ -288,7 +298,8 @@ def cmd_run(args):
     
     from src.response import generate_response
     
-    response = generate_response(args.question, results, config, verbose)
+    response_data = generate_response(args.question, results, config, verbose)
+    response = response_data['answer']
     save_response(run_dir, args.question, response, results)
     
     print()

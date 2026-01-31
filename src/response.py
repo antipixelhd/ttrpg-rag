@@ -111,7 +111,12 @@ def generate_response(question, retrieved_chunks, config, verbose=False):
         output_tokens = response.usage.completion_tokens
         print(f"Response generated (input: {input_tokens} tokens, output: {output_tokens} tokens)")
         
-        return answer
+        return {
+            'answer': answer,
+            'input_tokens': input_tokens,
+            'output_tokens': output_tokens,
+            'model': model,
+        }
         
     except Exception as e:
         print(f"Error: Error generating response: {e}")

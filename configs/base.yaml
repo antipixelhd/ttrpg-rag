@@ -56,7 +56,7 @@ reranking:
 # Query Expansion (optional) - Generate multiple search queries
 # -----------------------------------------------------------------------------
 query_expansion:
-  enabled: true                  # Set to true to enable query expansion
+  enabled: false                  # Set to true to enable query expansion
   model: "gpt-4o-mini"            # Model to use for generating queries
 
 # -----------------------------------------------------------------------------
@@ -78,3 +78,4 @@ output:
 # -----------------------------------------------------------------------------
 evaluation:
   questions_file: "data/questions.json"  # Path to evaluation questions
+  eval_model: "gpt-4.1"                  # Model to use for LLM-based evaluation
