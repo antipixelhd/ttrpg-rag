@@ -45,25 +45,21 @@ def chunk_by_bullets(file_path):
 
         if in_chunk:
             chunk_lines.append(line)
-    # flush last chunk
+    
     if in_chunk and chunk_lines:
         chunk_number += 1
         add_chunk(chunks, session_number, chunk_number, chunk_lines)
     
     return chunks
 
-def get_all_chunks(config, logger=None):
+def get_all_chunks(config, verbose=False):
     processed_path = resolve_path(config['paths']['processed'])
     
     summary_files = list(processed_path.glob('Session * Summary.txt'))
     summary_files.sort(key=lambda x: extract_session_number(x.name))
     
     if not summary_files:
-        message = f"No summary files found in {processed_path}"
-        if logger:
-            logger.warning(message)
-        else:
-            print(f"Warning: {message}")
+        print(f"Warning: No summary files found in {processed_path}")
         return []
     
     all_chunks = []
@@ -72,17 +68,10 @@ def get_all_chunks(config, logger=None):
         chunks = chunk_by_bullets(file_path)
         all_chunks.extend(chunks)
         
-        message = f"Chunked {file_path.name}: {len(chunks)} chunks"
-        if logger:
-            logger.info(message)
-        else:
-            print(message)
+        if verbose:
+            print(f"  Chunked {file_path.name}: {len(chunks)} chunks")
     
-    message = f"Total chunks created: {len(all_chunks)} from {len(summary_files)} files"
-    if logger:
-        logger.info(message)
-    else:
-        print(message)
+    print(f"Total chunks created: {len(all_chunks)} from {len(summary_files)} files")
     
     return all_chunks
 

@@ -49,10 +49,11 @@ def get_existing_chunk_ids(client, collection_name):
         print(f"Warning: Could not get existing chunk IDs: {e}")
         return set()
 
-def create_collection(client, collection_name, vector_size):
+def create_collection(client, collection_name, vector_size, verbose=False):
     if collection_exists(client, collection_name):
         collection_info = client.get_collection(collection_name)
-        print(f"Collection '{collection_name}' already exists with {collection_info.points_count} points")
+        if verbose:
+            print(f"Collection '{collection_name}' already exists with {collection_info.points_count} points")
         return False
     
     client.create_collection(
@@ -62,10 +63,11 @@ def create_collection(client, collection_name, vector_size):
             distance=models.Distance.COSINE,
         ),
     )
-    print(f"Created new collection '{collection_name}'")
+    if verbose:
+        print(f"Created new collection '{collection_name}'")
     return True
 
-def upload_chunks(client, collection_name, chunks_with_embeddings, logger=None):
+def upload_chunks(client, collection_name, chunks_with_embeddings, verbose=False):
     points = []
     
     for chunk in chunks_with_embeddings:
@@ -92,38 +94,23 @@ def upload_chunks(client, collection_name, chunks_with_embeddings, logger=None):
         points=points,
     )
     
-    message = f"Uploaded {len(points)} chunks to collection '{collection_name}'"
-    if logger:
-        logger.info(message)
-    else:
-        print(message)
+    if verbose:
+        print(f"Uploaded {len(points)} chunks to collection '{collection_name}'")
     
     return len(points)
 
-def index_all(config, logger=None):
+def index_all(config, verbose=False):
     collection_name = config['indexing']['collection_name']
     
-    message = "Step 1: Loading and chunking summaries..."
-    if logger:
-        logger.info(message)
-    else:
-        print(message)
+    print("Step 1: Loading and chunking summaries...")
     
-    chunks = get_all_chunks(config, logger)
+    chunks = get_all_chunks(config, verbose)
     
     if not chunks:
-        message = "No chunks to index. Run preprocessing first."
-        if logger:
-            logger.error(message)
-        else:
-            print(f"Error: {message}")
+        print("Error: No chunks to index. Run preprocessing first.")
         return None
     
-    message = "Step 2: Checking existing collection..."
-    if logger:
-        logger.info(message)
-    else:
-        print(message)
+    print("Step 2: Checking existing collection...")
     
     client = create_qdrant_client(config)
     
@@ -131,11 +118,8 @@ def index_all(config, logger=None):
         if collection_exists(client, collection_name):
             existing_ids = get_existing_chunk_ids(client, collection_name)
             
-            message = f"Collection exists with {len(existing_ids)} chunks already indexed"
-            if logger:
-                logger.info(message)
-            else:
-                print(message)
+            if verbose:
+                print(f"Collection exists with {len(existing_ids)} chunks already indexed")
             
             new_chunks = []
             for chunk in chunks:
@@ -143,18 +127,11 @@ def index_all(config, logger=None):
                 if chunk_id not in existing_ids:
                     new_chunks.append(chunk)
             
-            message = f"Found {len(new_chunks)} new chunks to index"
-            if logger:
-                logger.info(message)
-            else:
-                print(message)
+            if verbose:
+                print(f"Found {len(new_chunks)} new chunks to index")
             
             if not new_chunks:
-                message = "All chunks are already indexed. Nothing to do!"
-                if logger:
-                    logger.info(message)
-                else:
-                    print(message)
+                print("All chunks are already indexed. Nothing to do!")
                 
                 return {
                     'chunks': chunks,
@@ -164,48 +141,29 @@ def index_all(config, logger=None):
                 }
         else:
             new_chunks = chunks
-            message = f"Collection does not exist. Will create and index all {len(new_chunks)} chunks"
-            if logger:
-                logger.info(message)
-            else:
-                print(message)
+            if verbose:
+                print(f"Collection does not exist. Will create and index all {len(new_chunks)} chunks")
         
-        message = f"Step 3: Generating embeddings for {len(new_chunks)} new chunks..."
-        if logger:
-            logger.info(message)
-        else:
-            print(message)
+        print(f"Step 3: Generating embeddings for {len(new_chunks)} new chunks...")
         
         if new_chunks:
-            new_chunks = embed_chunks(new_chunks, config, logger)
+            new_chunks = embed_chunks(new_chunks, config, verbose)
         
-        message = "Step 4: Setting up collection..."
-        if logger:
-            logger.info(message)
-        else:
-            print(message)
+        print("Step 4: Setting up collection...")
         
         if not collection_exists(client, collection_name):
             vector_size = len(new_chunks[0]['embedding'])
-            create_collection(client, collection_name, vector_size)
+            create_collection(client, collection_name, vector_size, verbose)
         
         if new_chunks:
-            message = f"Step 5: Uploading {len(new_chunks)} new chunks..."
-            if logger:
-                logger.info(message)
-            else:
-                print(message)
+            print(f"Step 5: Uploading {len(new_chunks)} new chunks...")
             
-            upload_chunks(client, collection_name, new_chunks, logger)
+            upload_chunks(client, collection_name, new_chunks, verbose)
         
     finally:
         client.close()
     
-    message = f"Indexing complete: {len(chunks)} total chunks ({len(new_chunks)} new)"
-    if logger:
-        logger.info(message)
-    else:
-        print(message)
+    print(f"Indexing complete: {len(chunks)} total chunks ({len(new_chunks)} new)")
     
     return {
         'chunks': chunks,
@@ -214,39 +172,24 @@ def index_all(config, logger=None):
         'new_count': len(new_chunks),
     }
 
-def delete_collection(config, logger=None):
+def delete_collection(config, verbose=False):
     import shutil
     
     storage_path = resolve_path(config['paths']['qdrant_storage'])
     
     try:
         if storage_path.exists():
-            message = f"Deleting Qdrant storage: {storage_path}"
-            if logger:
-                logger.info(message)
-            else:
-                print(message)
+            print(f"Deleting Qdrant storage: {storage_path}")
             
             shutil.rmtree(storage_path)
             
-            message = "Qdrant storage deleted successfully"
-            if logger:
-                logger.info(message)
-            else:
-                print(message)
+            print("Qdrant storage deleted successfully")
             return True
         else:
-            message = f"Qdrant storage does not exist: {storage_path}"
-            if logger:
-                logger.info(message)
-            else:
-                print(message)
+            if verbose:
+                print(f"Qdrant storage does not exist: {storage_path}")
             return True
             
     except Exception as e:
-        message = f"Error deleting Qdrant storage: {e}"
-        if logger:
-            logger.error(message)
-        else:
-            print(f"Error: {message}")
+        print(f"Error: Error deleting Qdrant storage: {e}")
         return False

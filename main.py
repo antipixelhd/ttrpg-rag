@@ -22,20 +22,18 @@ def cmd_preprocess(args):
     print("=" * 70)
     
     config = load_config(args.config)
+    verbose = args.verbose or config.get('output', {}).get('verbose', False)
     
-    if args.verbose:
+    if verbose:
         print("\nConfiguration:")
         print_config(config)
         print()
     
     if args.track:
         run_dir = create_run(config, "preprocess")
-        logger = get_logger(run_dir)
         save_config(run_dir, config)
-    else:
-        logger = None
     
-    processed_files = preprocess_all(config, logger)
+    processed_files = preprocess_all(config, verbose)
     
     print(f"\nDone! Processed {len(processed_files)} files.")
     
@@ -47,28 +45,27 @@ def cmd_index(args):
     print("=" * 70)
     
     config = load_config(args.config)
+    verbose = args.verbose or config.get('output', {}).get('verbose', False)
     
-    if args.verbose:
+    if verbose:
         print("\nConfiguration:")
         print_config(config)
         print()
     
     if args.delete:
         print("\nDeleting Qdrant storage...")
-        success = delete_collection(config)
+        success = delete_collection(config, verbose)
         if not success:
             print("Failed to delete storage. Aborting.")
             return 1
     
     if args.track:
         run_dir = create_run(config, "index")
-        logger = get_logger(run_dir)
         save_config(run_dir, config)
     else:
         run_dir = None
-        logger = None
     
-    result = index_all(config, logger)
+    result = index_all(config, verbose)
 
     if result and run_dir:
         save_chunks(run_dir, result['chunks'])
@@ -102,26 +99,46 @@ def cmd_search(args):
         cli_overrides['reranking'] = {'enabled': True}
     
     config = load_config(args.config, cli_overrides)
+    verbose = args.verbose or config.get('output', {}).get('verbose', False)
     
-    if args.verbose:
+    if verbose:
         print("\nConfiguration:")
         print_config(config)
         print()
     
+    if args.evaluate:
+        from src.evaluation import evaluate_retrieval, save_retrieval_results
+        results = evaluate_retrieval(config, verbose=verbose)
+        
+        if 'error' not in results:
+            output_file = save_retrieval_results(results, config)
+            
+            print("\nRetrieval Evaluation Results:")
+            print(f"  Questions evaluated: {results['num_questions']}")
+            print(f"  Precision@5:  {results['metrics']['precision_at_5']:.4f}")
+            print(f"  Recall@5:     {results['metrics']['recall_at_5']:.4f}")
+            print(f"  F1@5:         {results['metrics']['f1_at_5']:.4f}")
+            print(f"  Precision@10: {results['metrics']['precision_at_10']:.4f}")
+            print(f"  Recall@10:    {results['metrics']['recall_at_10']:.4f}")
+            print(f"  F1@10:        {results['metrics']['f1_at_10']:.4f}")
+            print(f"  MRR:          {results['metrics']['mrr']:.4f}")
+            print(f"\nResults saved to: {output_file}")
+        return 0
+    
+    if not args.question:
+        print("Error: Question is required (or use --evaluate)")
+        return 1
+    
     if args.track:
         run_dir = create_run(config, "search")
-        logger = get_logger(run_dir)
         save_config(run_dir, config)
     else:
         run_dir = None
-        logger = None
     
-    results = search(args.question, config, logger)
+    results = search(args.question, config, verbose)
     
     if run_dir:
         save_results(run_dir, args.question, results, query_number=1)
-    
-    print(f"\nFound {len(results)} results.")
     
     return 0
 
@@ -139,31 +156,43 @@ def cmd_chat(args):
         cli_overrides['reranking'] = {'enabled': True}
     
     config = load_config(args.config, cli_overrides)
+    verbose = args.verbose or config.get('output', {}).get('verbose', False)
     
-    if args.verbose:
+    if verbose:
         print("\nConfiguration:")
         print_config(config)
         print()
     
+    if args.evaluate:
+        from src.evaluation import evaluate_response
+        results = evaluate_response(config, verbose=verbose)
+        
+        print("\nResponse Evaluation Results:")
+        print(f"  Status: {results.get('status', 'unknown')}")
+        print("  (Response evaluation not yet implemented)")
+        return 0
+    
+    if not args.question:
+        print("Error: Question is required (or use --evaluate)")
+        return 1
+    
     if args.track:
         run_dir = create_run(config, "chat")
-        logger = get_logger(run_dir)
         save_config(run_dir, config)
     else:
         run_dir = None
-        logger = None
     
     print(f"\nQuestion: {args.question}")
     print("-" * 70)
     
-    results = search(args.question, config, logger)
+    results = search(args.question, config, verbose)
     
     if run_dir:
         save_results(run_dir, args.question, results, query_number=1)
     
     from src.response import generate_response
     
-    response = generate_response(args.question, results, config, logger)
+    response = generate_response(args.question, results, config, verbose)
     
     if run_dir:
         save_response(run_dir, args.question, response, results)
@@ -195,8 +224,9 @@ def cmd_run(args):
         cli_overrides['reranking'] = {'enabled': True}
     
     config = load_config(args.config, cli_overrides)
+    verbose = args.verbose or config.get('output', {}).get('verbose', False)
     
-    if args.verbose:
+    if verbose:
         print("\nConfiguration:")
         print_config(config)
         print()
@@ -205,64 +235,74 @@ def cmd_run(args):
     logger = get_logger(run_dir)
     save_config(run_dir, config)
     
-    logger.info("=" * 50)
+    print("=" * 50)
+    print("STEP 1: Preprocessing")
+    print("=" * 50)
     logger.info("STEP 1: Preprocessing")
-    logger.info("=" * 50)
     
     if not args.skip_preprocess:
-        preprocess_all(config, logger)
+        preprocess_all(config, verbose)
     else:
+        print("Skipping preprocessing (--skip-preprocess flag)")
         logger.info("Skipping preprocessing (--skip-preprocess flag)")
     
-    logger.info("")
-    logger.info("=" * 50)
+    print()
+    print("=" * 50)
+    print("STEP 2: Indexing")
+    print("=" * 50)
     logger.info("STEP 2: Indexing")
-    logger.info("=" * 50)
     
     if not args.skip_index:
         if args.delete:
+            print("Deleting Qdrant storage...")
             logger.info("Deleting Qdrant storage...")
-            success = delete_collection(config, logger)
+            success = delete_collection(config, verbose)
             if not success:
+                print("Failed to delete storage. Aborting.")
                 logger.error("Failed to delete storage. Aborting.")
                 return 1
         
-        result = index_all(config, logger)
+        result = index_all(config, verbose)
         if result:
             save_chunks(run_dir, result['chunks'])
             if args.save_embeddings:
                 save_embeddings(run_dir, result['chunks'])
     else:
+        print("Skipping indexing (--skip-index flag)")
         logger.info("Skipping indexing (--skip-index flag)")
     
-    logger.info("")
-    logger.info("=" * 50)
+    print()
+    print("=" * 50)
+    print("STEP 3: Searching")
+    print("=" * 50)
     logger.info("STEP 3: Searching")
-    logger.info("=" * 50)
     
-    results = search(args.question, config, logger)
+    results = search(args.question, config, verbose)
     save_results(run_dir, args.question, results, query_number=1)
     
-    logger.info("")
-    logger.info("=" * 50)
+    print()
+    print("=" * 50)
+    print("STEP 4: Generating Response")
+    print("=" * 50)
     logger.info("STEP 4: Generating Response")
-    logger.info("=" * 50)
     
     from src.response import generate_response
     
-    response = generate_response(args.question, results, config, logger)
+    response = generate_response(args.question, results, config, verbose)
     save_response(run_dir, args.question, response, results)
     
-    logger.info("")
-    logger.info("-" * 50)
-    logger.info("ANSWER:")
-    logger.info("-" * 50)
-    logger.info(response)
+    print()
+    print("-" * 50)
+    print("ANSWER:")
+    print("-" * 50)
+    print(response)
+    logger.info(f"ANSWER: {response}")
     
-    logger.info("")
-    logger.info("=" * 50)
+    print()
+    print("=" * 50)
+    print(f"Pipeline complete! Results saved to: {run_dir}")
+    print("=" * 50)
     logger.info(f"Pipeline complete! Results saved to: {run_dir}")
-    logger.info("=" * 50)
     
     return 0
 
@@ -299,7 +339,7 @@ def main():
     preprocess_parser.add_argument(
         '--verbose', '-v',
         action='store_true',
-        help='Print detailed configuration'
+        help='Print detailed progress information'
     )
     
     index_parser = subparsers.add_parser(
@@ -328,7 +368,7 @@ def main():
     index_parser.add_argument(
         '--verbose', '-v',
         action='store_true',
-        help='Print detailed configuration'
+        help='Print detailed progress information'
     )
     
     search_parser = subparsers.add_parser(
@@ -337,7 +377,9 @@ def main():
     )
     search_parser.add_argument(
         'question',
-        help='The question to search for'
+        nargs='?',
+        default=None,
+        help='The question to search for (not required with --evaluate)'
     )
     search_parser.add_argument(
         '--config', '-c',
@@ -366,7 +408,12 @@ def main():
     search_parser.add_argument(
         '--verbose', '-v',
         action='store_true',
-        help='Print detailed configuration'
+        help='Print detailed progress information'
+    )
+    search_parser.add_argument(
+        '--evaluate',
+        action='store_true',
+        help='Run evaluation on all questions from data/questions.json'
     )
     
     chat_parser = subparsers.add_parser(
@@ -375,7 +422,9 @@ def main():
     )
     chat_parser.add_argument(
         'question',
-        help='Your question about the campaign'
+        nargs='?',
+        default=None,
+        help='Your question about the campaign (not required with --evaluate)'
     )
     chat_parser.add_argument(
         '--config', '-c',
@@ -409,7 +458,12 @@ def main():
     chat_parser.add_argument(
         '--verbose', '-v',
         action='store_true',
-        help='Print detailed configuration'
+        help='Print detailed progress information'
+    )
+    chat_parser.add_argument(
+        '--evaluate',
+        action='store_true',
+        help='Run evaluation on all questions from data/questions.json'
     )
     
     run_parser = subparsers.add_parser(
@@ -462,7 +516,7 @@ def main():
     run_parser.add_argument(
         '--verbose', '-v',
         action='store_true',
-        help='Print detailed configuration'
+        help='Print detailed progress information'
     )
     
     args = parser.parse_args()

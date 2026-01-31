@@ -19,36 +19,23 @@ def get_embedding(text, embedder, model):
     )
     return response.data[0].embedding
 
-def embed_chunks(chunks, config, logger=None):
+def embed_chunks(chunks, config, verbose=False):
     model = config['embedding']['model']
     
-    embedder = create_embedder(config)
+    embedder = create_embedder()
     
     total = len(chunks)
     
-    message = f"Generating embeddings for {total} chunks using {model}..."
-    if logger:
-        logger.info(message)
-    else:
-        print(message)
+    print(f"Generating embeddings for {total} chunks using {model}...")
     
     for i, chunk in enumerate(chunks, 1):
         embedding = get_embedding(chunk['content'], embedder, model)
         
         chunk['embedding'] = embedding
         
-        if i % 10 == 0 or i == total:
-            message = f"  Embedded {i}/{total} chunks"
-            if logger:
-                logger.info(message)
-            else:
-                print(message)
+        if verbose and (i % 10 == 0 or i == total):
+            print(f"  Embedded {i}/{total} chunks")
     
-    message = f"Embedding complete: {total} chunks embedded"
-    if logger:
-        logger.info(message)
-    else:
-        print(message)
+    print(f"Embedding complete: {total} chunks embedded")
     
     return chunks
-

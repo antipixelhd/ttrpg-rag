@@ -38,7 +38,7 @@ def preprocess_file(input_path, section_header="# Session Start"):
     
     return cleaned
 
-def preprocess_all(config, logger=None):
+def preprocess_all(config, verbose=False):
     raw_path = resolve_path(config['paths']['raw_notes'])
     processed_path = resolve_path(config['paths']['processed'])
     input_pattern = config['preprocess']['input_pattern']
@@ -49,12 +49,10 @@ def preprocess_all(config, logger=None):
     input_files = sorted(raw_path.glob(input_pattern))
     
     if not input_files:
-        message = f"No files found matching '{input_pattern}' in {raw_path}"
-        if logger:
-            logger.warning(message)
-        else:
-            print(f"Warning: {message}")
+        print(f"Warning: No files found matching '{input_pattern}' in {raw_path}")
         return []
+    
+    print(f"Preprocessing {len(input_files)} files...")
     
     processed_files = []
     total = len(input_files)
@@ -63,21 +61,13 @@ def preprocess_all(config, logger=None):
         session_num = extract_session_number(input_file.name)
         
         if session_num is None:
-            message = f"Skipping {input_file.name} - could not extract session number"
-            if logger:
-                logger.warning(message)
-            else:
-                print(f"Warning: {message}")
+            print(f"Warning: Skipping {input_file.name} - could not extract session number")
             continue
         
         output_session_num = session_num - 1
         
         if output_session_num <= 0:
-            message = f"Skipping {input_file.name} - output session number would be {output_session_num}"
-            if logger:
-                logger.warning(message)
-            else:
-                print(f"Warning: {message}")
+            print(f"Warning: Skipping {input_file.name} - output session number would be {output_session_num}")
             continue
         
         output_name = f"Session {output_session_num} Summary.txt"
@@ -86,11 +76,7 @@ def preprocess_all(config, logger=None):
         cleaned_summary = preprocess_file(input_file, section_header)
         
         if not cleaned_summary.strip():
-            message = f"Skipping {input_file.name} - no content found in '{section_header}' section"
-            if logger:
-                logger.warning(message)
-            else:
-                print(f"Warning: {message}")
+            print(f"Warning: Skipping {input_file.name} - no content found in '{section_header}' section")
             continue
         
         with open(output_path, 'w', encoding='utf-8') as f:
@@ -98,16 +84,9 @@ def preprocess_all(config, logger=None):
         
         processed_files.append(output_path)
         
-        message = f"Processed {i}/{total}: {input_file.name} -> {output_name}"
-        if logger:
-            logger.info(message)
-        else:
-            print(message)
+        if verbose:
+            print(f"  Processed {i}/{total}: {input_file.name} -> {output_name}")
     
-    message = f"Preprocessing complete: {len(processed_files)} files processed"
-    if logger:
-        logger.info(message)
-    else:
-        print(message)
+    print(f"Preprocessing complete: {len(processed_files)} files processed")
     
     return processed_files

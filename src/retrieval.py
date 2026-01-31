@@ -43,7 +43,7 @@ def search_qdrant(query_embedding, client, config):
     
     return results.points
 
-def search_with_multiple_queries(queries, config, logger=None):
+def search_with_multiple_queries(queries, config, verbose=False):
     embedder = create_embedder()
     client = create_qdrant_client(config)
     model = config['embedding']['model']
@@ -52,11 +52,8 @@ def search_with_multiple_queries(queries, config, logger=None):
     
     try:
         for query in queries:
-            message = f"  Searching for: '{query}'"
-            if logger:
-                logger.info(message)
-            else:
-                print(message)
+            if verbose:
+                print(f"  Searching for: '{query}'")
             
             query_embedding = get_embedding(query, embedder, model)
             
@@ -74,45 +71,23 @@ def search_with_multiple_queries(queries, config, logger=None):
     
     return sorted_results
 
-def search(question, config, logger=None):
+def search(question, config, verbose=False):
     top_k = config['retrieval'].get('top_k', 5)
     reranking_enabled = config.get('reranking', {}).get('enabled', False)
     
-    message = f"Searching for: '{question}'"
-    if logger:
-        logger.info(message)
-    else:
-        print(f"\n{'=' * 70}")
-        print(f"Question: '{question}'")
-        print('=' * 70)
-    
-    message = "Generating search queries..."
-    if logger:
-        logger.info(message)
-    else:
-        print(f"\n{message}")
+    print(f"\nSearching for: '{question}'")
     
     queries = generate_search_queries(question, config)
     
-    if len(queries) > 1:
-        message = f"Using {len(queries)} search queries (query expansion enabled)"
-    else:
-        message = "Using original question as search query"
+    if verbose:
+        if len(queries) > 1:
+            print(f"Using {len(queries)} search queries (query expansion enabled)")
+        else:
+            print("Using original question as search query")
     
-    if logger:
-        logger.info(message)
-    else:
-        print(message)
+    print("Searching vector database...")
     
-    message = "Searching vector database..."
-    if logger:
-        logger.info(message)
-    else:
-        print(f"\n{message}")
-    
-    results = search_with_multiple_queries(queries, config, logger)
-    
-        
+    results = search_with_multiple_queries(queries, config, verbose)
     
     formatted_results = []
     
@@ -128,31 +103,26 @@ def search(question, config, logger=None):
         })
     
     if reranking_enabled:
-        message = "Reranking results with cross-encoder..."
-        if logger:
-            logger.info(message)
-        else:
-            print(f"\n{message}")
+        print("Reranking results with cross-encoder...")
         
         from src.reranking import rerank_results
         
-        formatted_results = rerank_results(question, formatted_results, config, logger)
+        formatted_results = rerank_results(question, formatted_results, config, verbose)
         
     formatted_results = formatted_results[:top_k]
     
-    
-    if not logger:
-        print(f"\n{'=' * 70}")
-        print(f"Top {len(formatted_results)} results:")
-        print('=' * 70)
-        
+    if verbose:
+        print(f"\nTop {len(formatted_results)} results:")
         for i, result in enumerate(formatted_results, 1):
             score_str = f"score: {result['score']:.4f}"
             if 'rerank_score' in result:
                 score_str += f", rerank: {result['rerank_score']:.4f}"
             
-            print(f"\n{i}. {result['name']} ({score_str})")
-            print(f"   Source: {result['source']}")
-            print(f"   Content:\n   {result['content'][:200]}...")
+            print(f"\n  {i}. {result['name']} ({score_str})")
+            print(f"     Source: {result['source']}")
+            print(f"     Chunk ID: {result['chunk_id']}")
+            print(f"     Content preview: {result['content'][:200]}...")
+    
+    print(f"\nSearch complete: {len(formatted_results)} results returned")
     
     return formatted_results

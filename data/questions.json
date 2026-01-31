@@ -1,0 +1,23 @@
+[
+    {
+      "qid": 1,
+      "question": "Where did the party first meet at the very start of the campaign?",
+      "answerable": true,
+      "goldAnswer": "The party first met in the unbroken Tusk Tavern.",
+      "goldChunks": [1001]
+    },
+    {
+      "qid": 3,
+      "question": "What creature did the party defeat to complete the elders’ request?",
+      "answerable": true,
+      "goldAnswer": "The party defeated a Nergaliid.",
+      "goldChunks": [20001]
+    },
+    {
+      "qid": 3,
+      "question": "What is Kenshi’s full character sheet at level 6?",
+      "answerable": false,
+      "goldAnswer": "I dont know",
+      "goldChunks": []
+    }
+  ]
