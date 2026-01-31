@@ -148,15 +148,19 @@ def save_retrieval_results(results: dict, config) -> Path:
         with open(output_file, 'r', encoding='utf-8') as f:
             existing = json.load(f)
     
-    results['timestamp'] = datetime.now().isoformat()
-    results['config'] = {
-        'embedding_model': config['embedding']['model'],
-        'top_k': config['retrieval']['top_k'],
-        'reranking_enabled': config.get('reranking', {}).get('enabled', False),
-        'query_expansion_enabled': config.get('query_expansion', {}).get('enabled', False),
+    results_to_save = {
+        'timestamp': datetime.now().isoformat(),
+        'num_questions': results['num_questions'],
+        'metrics': results['metrics'],
+        'config': {
+            'embedding_model': config['embedding']['model'],
+            'top_k': config['retrieval']['top_k'],
+            'reranking_enabled': config.get('reranking', {}).get('enabled', False),
+            'query_expansion_enabled': config.get('query_expansion', {}).get('enabled', False),
+        }
     }
     
-    existing.append(results)
+    existing.append(results_to_save)
     
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(existing, f, indent=2)
