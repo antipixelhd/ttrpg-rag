@@ -229,7 +229,7 @@ def delete_collection(config, logger=None):
             
             shutil.rmtree(storage_path)
             
-            message = "✓ Qdrant storage deleted successfully"
+            message = "Qdrant storage deleted successfully"
             if logger:
                 logger.info(message)
             else:

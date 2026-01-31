@@ -69,7 +69,7 @@ def cmd_index(args):
         logger = None
     
     result = index_all(config, logger)
-    
+
     if result and run_dir:
         save_chunks(run_dir, result['chunks'])
         if args.save_embeddings:
