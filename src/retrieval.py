@@ -28,7 +28,7 @@ def generate_search_queries(question, config):
     
     queries = response.choices[0].message.content.strip().split("\n")
     queries = [q.strip() for q in queries if q.strip()]
-    
+    queries.append(question)
     return queries
 
 def search_qdrant(query_embedding, client, config):
@@ -52,8 +52,7 @@ def search_with_multiple_queries(queries, config, verbose=False):
     
     try:
         for query in queries:
-            if verbose:
-                print(f"  Searching for: '{query}'")
+            print(f"  Searching for: '{query}'")
             
             query_embedding = get_embedding(query, embedder, model)
             
@@ -74,8 +73,6 @@ def search_with_multiple_queries(queries, config, verbose=False):
 def search(question, config, verbose=False):
     top_k = config['retrieval'].get('top_k', 5)
     reranking_enabled = config.get('reranking', {}).get('enabled', False)
-    
-    print(f"\nSearching for: '{question}'")
     
     queries = generate_search_queries(question, config)
     

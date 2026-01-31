@@ -80,7 +80,7 @@ def evaluate_retrieval(config, verbose: bool = False) -> dict:
         if verbose:
             print(f"  [{i}/{len(questions_with_gold)}] Evaluating: {q.question[:50]}...")
         
-        retrieved = search(q.question, config, verbose=False)
+        retrieved = search(q.question, config, verbose)
         retrieved_ids = [chunk.get('chunk_id') for chunk in retrieved]
         gold_ids = set(q.goldChunks)
         
