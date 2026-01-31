@@ -205,11 +205,6 @@ def search(question, config, logger=None):
     
     results = search_with_multiple_queries(queries, config, logger)
     
-    # Step 3: Get candidates for reranking
-    # If reranking is enabled, get more results to rerank from
-    # This allows the reranker to potentially find better results
-    if not reranking_enabled:
-        results = results[:top_k]
         
     
     # Format results nicely
@@ -240,8 +235,9 @@ def search(question, config, logger=None):
         
         formatted_results = rerank_results(question, formatted_results, config, logger)
         
-        # Take only top_k after reranking
-        formatted_results = formatted_results[:top_k]
+    # Take only top_k after reranking
+    formatted_results = formatted_results[:top_k]
+    
     
     # Print results if no logger (interactive mode)
     if not logger:

@@ -42,7 +42,7 @@ indexing:
 # -----------------------------------------------------------------------------
 retrieval:
   top_k: 10                        # Number of results to return
-  limit_per_query: 10             # Results per individual query
+  limit_per_query: 20             # Results per individual query
 
 # -----------------------------------------------------------------------------
 # Reranking (optional) - Re-score results with a cross-encoder model
@@ -63,6 +63,6 @@ query_expansion:
 # Response Generation - LLM settings for generating answers
 # -----------------------------------------------------------------------------
 response:
-  model: "gpt-4o-mini"            # LLM model to use for responses (valid: gpt-4o, gpt-4o-mini)
-  temperature: 0.1                # Low temperature to reduce hallucinations
+  model: "gpt-4.1-mini"            # LLM model to use for responses (valid: gpt-4o, gpt-4o-mini)
+  temperature: 0.2                # Low temperature to reduce hallucinations
   max_tokens: 500                 # Maximum response length

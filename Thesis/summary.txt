@@ -1,0 +1,61 @@
+Continuity summary (living notes)
+
+This file is a working continuity anchor for the thesis writing prompts. It is intentionally shorter than the full chapters and records “facts to stay consistent with” when drafting later sections.
+
+---
+
+Chapter 3 outputs (standalone markdown files in `Thesis/`)
+
+- `Thesis/3_System_Design_and_Implementation.md`
+- `Thesis/3_1_Project_structure.md`
+- `Thesis/3_2_Data_basis.md`
+
+---
+
+Codebase facts to keep consistent
+
+- Entry point / CLI: `main.py` (commands: `preprocess`, `index`, `search`, `chat`, `run`).
+- Core modules live in `src/`: `config.py`, `preprocess.py`, `chunking.py`, `embedding.py`, `indexing.py`, `retrieval.py`, `reranking.py`, `response.py`, `run_tracker.py`.
+- Default configuration file: `configs/base.yaml` loaded via `src/config.py:load_config` (deep-merge overrides supported).
+- Runtime (gitignored) directories: `data/raw/`, `data/processed/`, `qdrant_storage/`, `runs/` (see `.gitignore`).
+- Preprocess contract:
+  - Input pattern default: `Session *.md` in `data/raw/`.
+  - Extract section default: `# Session Start`.
+  - Temporal offset implemented: `Session N.md` is treated as summary for session `N-1`, written as `Session (N-1) Summary.txt`.
+- Chunking contract:
+  - Strategy: split processed summaries by top-level bullet lines starting with `-`.
+  - Chunk naming: `Session {session_number} - Part {chunk_number}`.
+  - Chunk IDs: deterministic integer `session_number * 1000 + chunk_number`.
+- Vector store:
+  - Qdrant is used in local disk mode (`QdrantClient(path=...)`), stored under `qdrant_storage/`.
+  - Collection name default: `rpg_sessions`.
+  - Distance metric: cosine.
+- Retrieval:
+  - Optional query expansion exists (`query_expansion.enabled`), implemented in `src/retrieval.py:generate_search_queries` using an LLM (default `gpt-4o-mini`).
+  - Results across queries are merged by chunk ID, keeping the best score.
+  - Optional reranking exists (`reranking.enabled`) via `sentence_transformers` cross-encoder (default `cross-encoder/ms-marco-MiniLM-L6-v2`).
+- Response generation:
+  - `src/response.py:generate_response` builds context from retrieved chunks and calls OpenAI chat completions (default model `gpt-4o-mini`, temperature default 0.1).
+  - Retrieved chunk headers in context come from `chunk['name']` (e.g., `[Session 5 - Part 2]`).
+
+---
+
+Known mismatches / cleanup notes (important for future chapters)
+
+- README mismatch: `README.md` references `src/cli.py`, but the implemented CLI entry point is `main.py`.
+- Prompt mismatch: `src/response.py` system prompt text mentions filenames like `session4_part2.md`, but the current pipeline constructs chunk names as `Session X - Part Y` and uses processed summaries `Session X Summary.txt`.
+- Legacy/prototype scripts exist at repo root (`ConvertSummariest.py`, `SummariesToChunks.py`, `QdrantSearch.py`) using alternate folders (e.g., `Source/`, `summaries/`) and `.env`; the thesis narrative should treat them as earlier prototypes, not the canonical pipeline.
+
+---
+
+Recommended screenshot markers to reuse later (File:Function)
+
+- `<<(main.py:cmd_run)Screenshot>>`
+- `<<(src/config.py:load_config)Screenshot>>`
+- `<<(src/preprocess.py:preprocess_all)Screenshot>>`
+- `<<(src/chunking.py:chunk_by_bullets)Screenshot>>`
+- `<<(src/embedding.py:embed_chunks)Screenshot>>`
+- `<<(src/indexing.py:index_all)Screenshot>>`
+- `<<(src/retrieval.py:search)Screenshot>>`
+- `<<(src/reranking.py:rerank_results)Screenshot>>`
+- `<<(src/response.py:generate_response)Screenshot>>`
