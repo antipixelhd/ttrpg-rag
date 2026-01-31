@@ -15,18 +15,10 @@ def generate_search_queries(question, config):
     client = OpenAI(api_key=secrets['openai_api_key'])
     
     prompt = f"""Given this question about a D&D campaign: "{question}"
-
-Generate 5 short search phrases to find relevant information in session summaries.
-Use different word variations (past tense, synonyms, etc.).
-Return ONLY the search phrases, one per line, nothing else.
-One of them has to be the original question!
-
-Example for "Who did Selene kill?":
-Who did Selene kill?
-Selene killed
-Selene slayed
-Selene murdered
-Selene executed"""
+        Generate 4 short search phrases to find relevant information in session summaries.
+        Use different word variations (past tense, synonyms, etc.).
+        Return ONLY the search phrases, one per line, nothing else.
+        """
 
     response = client.chat.completions.create(
         model=model,
@@ -52,7 +44,7 @@ def search_qdrant(query_embedding, client, config):
     return results.points
 
 def search_with_multiple_queries(queries, config, logger=None):
-    embedder = create_embedder(config)
+    embedder = create_embedder()
     client = create_qdrant_client(config)
     model = config['embedding']['model']
     

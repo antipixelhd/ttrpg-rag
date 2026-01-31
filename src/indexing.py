@@ -3,7 +3,7 @@ from qdrant_client import QdrantClient, models
 
 from src.config import resolve_path
 from src.chunking import get_all_chunks, create_chunk_id
-from src.embedding import embed_chunks, get_embedding_dimension
+from src.embedding import embed_chunks
 
 def create_qdrant_client(config):
     storage_path = resolve_path(config['paths']['qdrant_storage'])

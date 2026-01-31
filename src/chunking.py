@@ -18,45 +18,37 @@ def chunk_by_bullets(file_path):
     session_number = extract_session_number(filename)
     
     chunks = []
-    current_chunk_lines = []
     chunk_number = 0
-    
-    for line in lines:
-        if line.startswith('-'):
-            if current_chunk_lines:
-                chunk_number += 1
-                chunk_content = ''.join(current_chunk_lines).strip()
-                
-                chunks.append({
-                    'session_number': session_number,
-                    'chunk_number': chunk_number,
-                    'content': chunk_content,
-                    'name': f"Session {session_number} - Part {chunk_number}",
-                    'source_file': f"Session {session_number} Summary.txt"
-                })
-                
-                current_chunk_lines = []
-            
-            current_chunk_lines.append(line)
-            
-        elif line.strip():
-            if current_chunk_lines:
-                current_chunk_lines.append(line)
-                
-        elif current_chunk_lines:
-            current_chunk_lines.append(line)
-    
-    if current_chunk_lines:
-        chunk_number += 1
-        chunk_content = ''.join(current_chunk_lines).strip()
-        
+    chunk_lines = []
+    in_chunk = False
+
+    def add_chunk(chunks, session_number, chunk_number, lines):
+        content = "".join(lines).strip()
         chunks.append({
-            'session_number': session_number,
-            'chunk_number': chunk_number,
-            'content': chunk_content,
-            'name': f"Session {session_number} - Part {chunk_number}",
-            'source_file': f"Session {session_number} Summary.txt"
+            "session_number": session_number,
+            "chunk_number": chunk_number,
+            "content": content,
+            "name": f"Session {session_number} - Part {chunk_number}",
+            "source_file": f"Session {session_number} Summary.txt",
         })
+    for line in lines:
+        starts_new_chunk = line.startswith("-")
+
+        if starts_new_chunk:
+            if in_chunk:
+                chunk_number += 1
+                add_chunk(chunks, session_number, chunk_number, chunk_lines)
+                chunk_lines = []
+            in_chunk = True
+            chunk_lines.append(line)
+            continue
+
+        if in_chunk:
+            chunk_lines.append(line)
+    # flush last chunk
+    if in_chunk and chunk_lines:
+        chunk_number += 1
+        add_chunk(chunks, session_number, chunk_number, chunk_lines)
     
     return chunks
 

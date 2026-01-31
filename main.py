@@ -280,3 +280,211 @@ def main():
   python main.py search "query" --expand
   python main.py index --delete"""
     )
+    
+    subparsers = parser.add_subparsers(dest='command', help='Available commands')
+    
+    preprocess_parser = subparsers.add_parser(
+        'preprocess',
+        help='Extract and clean summaries from raw session notes'
+    )
+    preprocess_parser.add_argument(
+        '--config', '-c',
+        help='Path to custom config YAML file'
+    )
+    preprocess_parser.add_argument(
+        '--track', '-t',
+        action='store_true',
+        help='Create a run folder to track this operation'
+    )
+    preprocess_parser.add_argument(
+        '--verbose', '-v',
+        action='store_true',
+        help='Print detailed configuration'
+    )
+    
+    index_parser = subparsers.add_parser(
+        'index',
+        help='Create embeddings and upload chunks to Qdrant'
+    )
+    index_parser.add_argument(
+        '--config', '-c',
+        help='Path to custom config YAML file'
+    )
+    index_parser.add_argument(
+        '--delete', '-d',
+        action='store_true',
+        help='Delete entire Qdrant storage before indexing'
+    )
+    index_parser.add_argument(
+        '--track', '-t',
+        action='store_true',
+        help='Create a run folder to track this operation'
+    )
+    index_parser.add_argument(
+        '--save-embeddings',
+        action='store_true',
+        help='Save embedding vectors to run folder (large file!)'
+    )
+    index_parser.add_argument(
+        '--verbose', '-v',
+        action='store_true',
+        help='Print detailed configuration'
+    )
+    
+    search_parser = subparsers.add_parser(
+        'search',
+        help='Search for relevant session information'
+    )
+    search_parser.add_argument(
+        'question',
+        help='The question to search for'
+    )
+    search_parser.add_argument(
+        '--config', '-c',
+        help='Path to custom config YAML file'
+    )
+    search_parser.add_argument(
+        '--top-k', '-k',
+        type=int,
+        help='Number of results to return'
+    )
+    search_parser.add_argument(
+        '--expand', '-e',
+        action='store_true',
+        help='Enable query expansion for better results'
+    )
+    search_parser.add_argument(
+        '--rerank', '-r',
+        action='store_true',
+        help='Enable reranking with cross-encoder model'
+    )
+    search_parser.add_argument(
+        '--track', '-t',
+        action='store_true',
+        help='Create a run folder to track this operation'
+    )
+    search_parser.add_argument(
+        '--verbose', '-v',
+        action='store_true',
+        help='Print detailed configuration'
+    )
+    
+    chat_parser = subparsers.add_parser(
+        'chat',
+        help='Ask a question and get an AI-generated answer'
+    )
+    chat_parser.add_argument(
+        'question',
+        help='Your question about the campaign'
+    )
+    chat_parser.add_argument(
+        '--config', '-c',
+        help='Path to custom config YAML file'
+    )
+    chat_parser.add_argument(
+        '--top-k', '-k',
+        type=int,
+        help='Number of chunks to retrieve for context'
+    )
+    chat_parser.add_argument(
+        '--expand', '-e',
+        action='store_true',
+        help='Enable query expansion for better results'
+    )
+    chat_parser.add_argument(
+        '--rerank', '-r',
+        action='store_true',
+        help='Enable reranking with cross-encoder model'
+    )
+    chat_parser.add_argument(
+        '--show-sources', '-s',
+        action='store_true',
+        help='Show the sources used to generate the answer'
+    )
+    chat_parser.add_argument(
+        '--track', '-t',
+        action='store_true',
+        help='Create a run folder to track this query'
+    )
+    chat_parser.add_argument(
+        '--verbose', '-v',
+        action='store_true',
+        help='Print detailed configuration'
+    )
+    
+    run_parser = subparsers.add_parser(
+        'run',
+        help='Run the full pipeline (preprocess -> index -> search -> respond)'
+    )
+    run_parser.add_argument(
+        'question',
+        help='The question to search for'
+    )
+    run_parser.add_argument(
+        '--config', '-c',
+        help='Path to custom config YAML file'
+    )
+    run_parser.add_argument(
+        '--top-k', '-k',
+        type=int,
+        help='Number of results to return'
+    )
+    run_parser.add_argument(
+        '--expand', '-e',
+        action='store_true',
+        help='Enable query expansion for better results'
+    )
+    run_parser.add_argument(
+        '--rerank', '-r',
+        action='store_true',
+        help='Enable reranking with cross-encoder model'
+    )
+    run_parser.add_argument(
+        '--delete', '-d',
+        action='store_true',
+        help='Delete entire Qdrant storage before indexing'
+    )
+    run_parser.add_argument(
+        '--skip-preprocess',
+        action='store_true',
+        help='Skip the preprocessing step'
+    )
+    run_parser.add_argument(
+        '--skip-index',
+        action='store_true',
+        help='Skip the indexing step'
+    )
+    run_parser.add_argument(
+        '--save-embeddings',
+        action='store_true',
+        help='Save embedding vectors to run folder (large file!)'
+    )
+    run_parser.add_argument(
+        '--verbose', '-v',
+        action='store_true',
+        help='Print detailed configuration'
+    )
+    
+    args = parser.parse_args()
+    
+    if not args.command:
+        parser.print_help()
+        return 1
+    
+    if args.command == 'preprocess':
+        return cmd_preprocess(args)
+    elif args.command == 'index':
+        return cmd_index(args)
+    elif args.command == 'search':
+        return cmd_search(args)
+    elif args.command == 'chat':
+        return cmd_chat(args)
+    elif args.command == 'run':
+        return cmd_run(args)
+    else:
+        parser.print_help()
+        return 1
+
+
+if __name__ == '__main__':
+    sys.exit(main())

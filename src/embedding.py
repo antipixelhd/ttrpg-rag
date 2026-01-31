@@ -3,7 +3,7 @@ from openai import OpenAI
 
 from src.config import get_secrets
 
-def create_embedder(config):
+def create_embedder():
     secrets = get_secrets()
     api_key = secrets.get('openai_api_key')
     
@@ -52,18 +52,3 @@ def embed_chunks(chunks, config, logger=None):
     
     return chunks
 
-def get_embedding_dimension(config):
-    model = config['embedding']['model']
-    
-    dimensions = {
-        'text-embedding-3-small': 1536,
-        'text-embedding-3-large': 3072,
-        'text-embedding-ada-002': 1536,
-    }
-    
-    if model in dimensions:
-        return dimensions[model]
-    
-    embedder = create_embedder(config)
-    sample = get_embedding("test", embedder, model)
-    return len(sample)
