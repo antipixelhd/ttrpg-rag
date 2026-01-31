@@ -1,18 +1,8 @@
-# =============================================================================
-# Response Generation Module
-# =============================================================================
-# This module handles generating LLM responses from retrieved chunks.
-# It uses strict prompting to minimize hallucinations and ensure the LLM
-# only answers based on the provided context.
 
 from openai import OpenAI
 
 from src.config import get_secrets
 
-
-# =============================================================================
-# System Prompt - This is critical for avoiding hallucinations
-# =============================================================================
 SYSTEM_PROMPT = """
 You are an assistant that provides accurate, answers about our Dungeons & Dragons campaign using only the information found in the supplied session summary files. Each file represents a distinct segment (or “part”) of a session and is named with explicit part numbers (e.g., `session 3_part1.md`, `session3_part2.md`, etc.). 
 Their filenames show both the session number and the part number (e.g., “part 1/2/3”), conveying order within a session.
@@ -23,7 +13,6 @@ You must:
 
 Player characters are: Sai, Selene, Eve, Melli, Kenshi, Vorak, and Aurora.
 
-# Steps
 1. For each question, review the content of all provided session summary segment files.
 2. Identify and collect all parts that correspond to relevant sessions and order them as “part 1,” “part 2,” and so on for each session.
 3. Determine which segments (by full filename, including part number) contain answers or evidence for the question.
@@ -47,21 +36,11 @@ Their filenames show both the session number and the part number (e.g., “part 
 These text files are using bullet lists, conveying a hierarchy within a given event.
 You must:
 - Produce a concise answer to the query based on the provided sources..
-# Additional information
 - The provided context is based ona Dungeons and dragons campaign.
 - Player characters are called: Sai, Selene, Eve, Melli, Kenshi, Vorak, and Aurora.
 
 Remember: It is better to say "I don't know" than to provide incorrect information."""
 def create_llm_client(config):
-    """
-    Create an OpenAI client for LLM calls.
-    
-    Args:
-        config: Configuration dictionary (not used, but kept for consistency)
-        
-    Returns:
-        OpenAI: An initialized OpenAI client
-    """
     secrets = get_secrets()
     api_key = secrets.get('openai_api_key')
     
@@ -70,47 +49,22 @@ def create_llm_client(config):
     
     return OpenAI(api_key=api_key)
 
-
 def format_context(chunks):
-    """
-    Format retrieved chunks into a context string for the LLM.
-    
-    Each chunk is labeled with its source session for reference.
-    
-    Args:
-        chunks: List of chunk dictionaries from retrieval
-        
-    Returns:
-        str: Formatted context string
-    """
     if not chunks:
         return "No session notes were found."
     
     context_parts = []
     
     for chunk in chunks:
-        # Get chunk metadata
         name = chunk.get('name', 'Unknown')
         content = chunk.get('content', '')
         
-        # Format each chunk with a header
         chunk_text = f"[{name}]\n{content}"
         context_parts.append(chunk_text)
     
     return "\n\n---\n\n".join(context_parts)
 
-
 def build_user_prompt(question, context):
-    """
-    Build the user message with context and question.
-    
-    Args:
-        question: The user's question
-        context: Formatted context from retrieved chunks
-        
-    Returns:
-        str: The complete user message
-    """
     return f"""SESSION NOTES:
 {context}
 
@@ -120,27 +74,7 @@ QUESTION: {question}
 
 ANSWER:"""
 
-
 def generate_response(question, retrieved_chunks, config, logger=None):
-    """
-    Generate an LLM response based on retrieved chunks.
-    
-    This is the main function for response generation. It:
-    1. Formats the retrieved chunks into context
-    2. Builds a prompt with strict instructions
-    3. Calls the LLM with low temperature to minimize hallucinations
-    4. Returns the response
-    
-    Args:
-        question: The user's question
-        retrieved_chunks: List of chunk dictionaries from retrieval
-        config: Configuration dictionary with response settings
-        logger: Optional logger for tracking progress
-        
-    Returns:
-        str: The LLM's response
-    """
-    # Get response settings from config
     model = config.get('response', {}).get('model')
     temperature = config.get('response', {}).get('temperature')
     max_tokens = config.get('response', {}).get('max_tokens')
@@ -151,16 +85,12 @@ def generate_response(question, retrieved_chunks, config, logger=None):
     else:
         print(message)
     
-    # Format the context from retrieved chunks
     context = format_context(retrieved_chunks)
     
-    # Build the user prompt
     user_prompt = build_user_prompt(question, context)
     
-    # Create the LLM client
     client = create_llm_client(config)
     
-    # Call the LLM with strict settings
     try:
         response = client.chat.completions.create(
             model=model,
@@ -174,7 +104,6 @@ def generate_response(question, retrieved_chunks, config, logger=None):
         
         answer = response.choices[0].message.content
         
-        # Check if answer is None or empty
         if answer is None:
             answer = ""
             warning_msg = "Warning: LLM returned None/empty response"
@@ -200,7 +129,6 @@ def generate_response(question, retrieved_chunks, config, logger=None):
         else:
             print(f"Error: {error_msg}")
         
-        # Print more details for debugging
         import traceback
         traceback.print_exc()
         raise
