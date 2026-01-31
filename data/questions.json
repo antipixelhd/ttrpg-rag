@@ -8,14 +8,14 @@
     },
     {
       "qid": 3,
-      "question": "What creature did the party defeat to complete the elders’ request?",
+      "question": "What creature did the party defeat to complete the elders request?",
       "answerable": true,
       "goldAnswer": "The party defeated a Nergaliid.",
-      "goldChunks": [20001]
+      "goldChunks": [2001]
     },
     {
       "qid": 3,
-      "question": "What is Kenshi’s full character sheet at level 6?",
+      "question": "What is Kenshis full character sheet at level 6?",
       "answerable": false,
       "goldAnswer": "I dont know",
       "goldChunks": []

@@ -71,5 +71,78 @@
       "reranking_enabled": false,
       "query_expansion_enabled": false
     }
+  },
+  {
+    "num_questions": 2,
+    "metrics": {
+      "precision_at_5": 0.1,
+      "recall_at_5": 0.5,
+      "f1_at_5": 0.16666666666666669,
+      "precision_at_10": 0.05,
+      "recall_at_10": 0.5,
+      "f1_at_10": 0.09090909090909091,
+      "mrr": 0.1
+    },
+    "individual_results": [
+      {
+        "qid": 1,
+        "question": "Where did the party first meet at the very start of the campaign?",
+        "gold_chunks": [
+          1001
+        ],
+        "retrieved_chunks": [
+          39001,
+          27001,
+          39003,
+          40001,
+          1001,
+          34004,
+          21002,
+          41002,
+          22005,
+          22004
+        ],
+        "precision_at_5": 0.2,
+        "recall_at_5": 1.0,
+        "f1_at_5": 0.33333333333333337,
+        "precision_at_10": 0.1,
+        "recall_at_10": 1.0,
+        "f1_at_10": 0.18181818181818182,
+        "mrr": 0.2
+      },
+      {
+        "qid": 3,
+        "question": "What creature did the party defeat to complete the elders\u2019 request?",
+        "gold_chunks": [
+          20001
+        ],
+        "retrieved_chunks": [
+          20003,
+          40001,
+          38003,
+          36002,
+          43006,
+          28001,
+          39003,
+          24004,
+          27003,
+          24005
+        ],
+        "precision_at_5": 0.0,
+        "recall_at_5": 0.0,
+        "f1_at_5": 0.0,
+        "precision_at_10": 0.0,
+        "recall_at_10": 0.0,
+        "f1_at_10": 0.0,
+        "mrr": 0.0
+      }
+    ],
+    "timestamp": "2026-01-31T20:39:15.901475",
+    "config": {
+      "embedding_model": "text-embedding-3-large",
+      "top_k": 10,
+      "reranking_enabled": true,
+      "query_expansion_enabled": false
+    }
   }
 ]
