@@ -1,0 +1,355 @@
+[
+  {
+    "qid": 1,
+    "question": "What reward did the party receive for solving the conflict between the Orcs and Goblins in Jigow?",
+    "answerable": true,
+    "goldAnswer": "They were asked for help by the chieftains of Jigow and received a reward of 25 gold pieces per person.",
+    "goldChunks": [1002]
+  },
+  {
+    "qid": 2,
+    "question": "What specific title did the party earn at the end of the Festival of Merit?",
+    "answerable": true,
+    "goldAnswer": "They became the 'Champion of Merit'.",
+    "goldChunks": [4001]
+  },
+  {
+    "qid": 3,
+    "question": "What did the party find in the secret vault within the Sunken Palace in Cael Morrow?",
+    "answerable": true,
+    "goldAnswer": "They found a message from Ama Valandeer and her weapon",
+    "goldChunks": [43006]
+  },
+  {
+    "qid": 4,
+    "question": "Who are Visenya Telass and Callimar Despana, and what crime did they commit in Bazzoxan?",
+    "answerable": true,
+    "goldAnswer": "Visenya Telass is Eve's mother and a member of the Children of Malice. Together with Callimar Despana, she attempted to assassinate Verin Thelyss.",
+    "goldChunks": [14002, 14003, 14005]
+  },
+  {
+    "qid": 5,
+    "question": "How did the party resolve the encounter with the Hydra in the Betrayers Rise?",
+    "answerable": true,
+    "goldAnswer": "They first tried to pay tribute (gold). When the fight broke out, Kenshi blasted a 1.5m x 1.5m hole in the stone wall, and the party escaped through it, with Eve using temporal stasis to prevent the Hydra from using its reactions.",
+    "goldChunks": [17006, 17007, 18001]
+  },
+  {
+    "qid": 6,
+    "question": "Describe the first time Kenshi died in Ank'Harel and how he was brought back.",
+    "answerable": true,
+    "goldAnswer": "Kenshi was killed by Vaelistra (in Drider form) in their hotel room. He was then resurrected by Sai.",
+    "goldChunks": [30001]
+  },
+  {
+    "qid": 7,
+    "question": "What happened to Vorak during the fight against K'Var, and how was he restored?",
+    "answerable": true,
+    "goldAnswer": "Vorak was killed by K'Var's powerful beam. He was resurrected at the Blessing Well, where Sai touched his soul, and Vorak's spirit punched his parents' killer in a dream, raging back to life.",
+    "goldChunks": [36005, 37003]
+  },
+  {
+    "qid": 8,
+    "question": "How did the party win the fight against Kane?",
+    "answerable": true,
+    "goldAnswer": "They turned the crowd's favor to their side using magic and charisma. Vorak physically held Kane, and Eve finished him off with magic missile bolts.",
+    "goldChunks": [23002]
+  },
+  {
+    "qid": 9,
+    "question": "What did the party discover about the 'Bag with blue spots' regarding its contents and the actual thief?",
+    "answerable": true,
+    "goldAnswer": "The bag was stolen by a Goblin named Ahrim but was found in the possession of a Gnome in a spider cavern. The bag contained nothing, but returning it to Vurnir rewarded them with a rapier.",
+    "goldChunks": [7002, 8002, 9001, 9002]
+  },
+  {
+    "qid": 10,
+    "question": "Describe the full resolution of the quest involving the 'Bag with blue spots', including who wanted it, where it was found, and the reward.",
+    "answerable": true,
+    "goldAnswer": "Vurnir (a Bugbear) tasked the party with retrieving a leather bag with blue spots from a Goblin named Ahrim. The party tracked Ahrim to a cave system (spider temple), where they found the bag with a Gnome instead of a goblin. The bag was empty. Upon returning it to Vurnir, he refused to discuss the contents but rewarded them with a rapier.",
+    "goldChunks": [7002, 8002, 9001, 9002]
+  },
+  {
+    "qid": 11,
+    "question": "Explain the arc of Melli's parents and her eye, involving Vrill and K'Var.",
+    "answerable": true,
+    "goldAnswer": "Melli's parents were experimented on and killed by K'Var ('Him') and Vrill. Melli traded her eye to Vrill in exchange for 'a life for a life' (Aloysia). Later, in K'Var's hideout, Melli learned the truth about the failed experiments on her parents before the party fought and defeated K'Var, where Vrill also died.",
+    "goldChunks": [27002, 36004, 36005]
+  },
+  {
+    "qid": 12,
+    "question": "What happened during the 'Elephant Uproar' attack on the Consortium, and what intelligence was gathered?",
+    "answerable": true,
+    "goldAnswer": "The party attacked the Consortium, who summoned two Ruidium Elephants. They captured Satzrak Runestrider and a Dwarf named Khelkur. Intelligence found on Khelkur included a paper showing funding from 'The Sun Bear' for the Sentinels of Memory.",
+    "goldChunks": [36002, 36003]
+  },
+  {
+    "qid": 13,
+    "question": "Describe Sai's death and the ritual to resurrect him involving the Raven Queen.",
+    "answerable": true,
+    "goldAnswer": "Sai was killed by Xal'thul via Power Word Kill. During the resurrection ritual, Aurora cast Revivify, Melli used words to form a connection, and Vorak prayed. Eve unravelled time to create a possibility where Sai lived. In the afterlife/vision, Sai met Marcus (his father figure) and the Raven Queen before returning.",
+    "goldChunks": [33002, 34001]
+  },
+  {
+    "qid": 14,
+    "question": "How does the Ruidium Corruption mechanic work?",
+    "answerable": true,
+    "goldAnswer": "Characters have Minor and Major corruption levels. Increasing Minor level increases exhaustion up to the limit defined by the Major level. If Minor level exceeds the Major threshold, the Major level increases (raising the exhaustion cap). Greater Restoration reduces Minor levels to the nearest Major threshold.",
+    "goldChunks": [41005]
+  },
+  {
+    "qid": 15,
+    "question": "What massive creature nearly ate the party on the way to the swamp north of Jigow?",
+    "answerable": true,
+    "goldAnswer": "A massive roc nearly ate them.",
+    "goldChunks": [1003]
+  },
+  {
+    "qid": 16,
+    "question": "How did the party become Champions of Merit, and what major fight did they start in the Emerald Grotto finale?",
+    "answerable": true,
+    "goldAnswer": "They collected enough medals from events like the labyrinth, turtle riding, and rice harvesting to enter the finale, reached the deepest cave first, and started a fight against a gigantic shark; after the festival they were crowned Champions of Merit as group NSFW.",
+    "goldChunks": [3001, 3002, 4001]
+  },
+  {
+    "qid": 17,
+    "question": "What happened the night after the Festival of Merit involving Eve, and what later revelation helps explain why those attackers might be connected to her?",
+    "answerable": true,
+    "goldAnswer": "They were attacked at night by drow assassins who seemed tied to Eve and nearly killed her; later Eve revealed her mother was part of the Children of Malice who worship Lolth, and that she herself was fleeing them—helping explain the assassin connection and her reaction to the Lolth-related hideout.",
+    "goldChunks": [4003, 14003]
+  },
+  {
+    "qid": 18,
+    "question": "Trace the Xalthul thread from the cave clue to the Betrayers Rise reveal: what ritual note was found in the spider-cave, what did Verin/Essek reveal about Xalthul later, and when did Xalthul first openly appear to the party in Betrayers Rise?",
+    "answerable": true,
+    "goldAnswer": "In the spider-cave, they found a note describing a ritual to find a being named Xalthul; later, in Bazzoxan they learned more about Xalthul 'the Hope Devourer' through their interactions and revelations involving Verin/Essek; in Betrayers Rise, Xalthul was revealed when shadow-and-smoke manifested during the 'accept death / clear rubble / give up something important' room after Kenshi gave up his katana and the entity appeared, with Kenshi assuring the party he was on their side.",
+    "goldChunks": [9001, 14005, 16004]
+  },
+  {
+    "qid": 19,
+    "question": "During the Avandra prayer-site confrontation in Betrayers Rise, what happened to the amulet, who physically ended up with it, and what dramatic spear-related moment occurred involving Ayo and Eve?",
+    "answerable": true,
+    "goldAnswer": "At the Avandra prayer site, Eve placed the amulet on the altar and it triggered a vision; afterward Maroon 5 and Aloysia confronted them, and in the fight Ayo threw a spear at Eve that transformed into black/yellow lightning—Eve chose to protect, and the amulet awakened to form a giant shield that took the blow; Eve couldnt hold onto the amulet and Irvan managed to get it to Aloysia.",
+    "goldChunks": [20003]
+  },
+  {
+    "qid": 20,
+    "question": "Who did Selene kill?",
+    "answerable": true,
+    "goldAnswer": "Selene killed Ludwig in the Sewers, as well as Ella in K'Vars Hideout.",
+    "goldChunks": [36003, 36004]
+  },
+  {
+    "qid": 21,
+    "question": "How did the amulet awaken?",
+    "answerable": true,
+    "goldAnswer": "In the Betrayers Rise, during a fight against Aloysia and Maroon 5, Eve decided to protect her friends, causing the amulet to awaken into a giant shield.",
+    "goldChunks": [20003]
+  },
+  {
+    "qid": 22,
+    "question": "Who tried to kill Verin Thelyss in Bazzoxan?",
+    "answerable": true,
+    "goldAnswer": "Visenya Telass (Eve's mother) and Callimar Despana attempted to assassinate him.",
+    "goldChunks": [14002, 14005]
+  },
+  {
+    "qid": 23,
+    "question": "Did the party ever find out what was in Vurnir's leather bag?",
+    "answerable": true,
+    "goldAnswer": "Eve found out that nothing is in Vurnir's leather bag",
+    "goldChunks": [9001]
+  },
+  {
+    "qid": 24,
+    "question": "What did the Drow assassins want from Eve in Jigow?",
+    "answerable": true,
+    "goldAnswer": "They wanted to kill eve",
+    "goldChunks": [4003]
+  },
+  {
+    "qid": 25,
+    "question": "How did Perigee and Alyxian first meet before the Calamity?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 26,
+    "question": "What did The Wolf do after the Consortium was dismantled?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 27,
+    "question": "What happened to the mysterious person who left arcane flashes near the camp during the travel to Bazzoxan?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+
+  {
+    "qid": 28,
+    "question": "What was the name of Sylphie's father?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 29,
+    "question": "What was the Wheelchair Guy's name in the Hidden Hinge Society?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 30,
+    "question": "Who was following the party and leaving footprints near camp on the way to Bazzoxan?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 31,
+    "question": "What did the elfin woman Vrill inject into Melli's shoulder on day 7?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 32,
+    "question": "How did Galsariad create the Teleportation Circle when escaping the Betrayers Rise?",
+    "answerable": true,
+    "goldAnswer": "He created the teleportation circle by using the first tablet",
+    "goldChunks": [20003]
+  },
+  {
+    "qid": 33,
+    "question": "What were the other gods doing when Gruumsh threw his spear at Cael Morrow?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 34,
+    "question": "Who stole Melli's gold in Ank'Harel?",
+    "answerable": true,
+    "goldAnswer": "Melli got robbed by an unkown attacker",
+    "goldChunks": [41001]
+  },
+  {
+    "qid": 35,
+    "question": "What did Callimar see that made him claw his eyes out?",
+    "answerable": true,
+    "goldAnswer": "Callimar saw the realm of Tharizdun",
+    "goldChunks": [33002]
+  },
+  {
+    "qid": 36,
+    "question": "What was the outcome of J'mon Sa Ord's investigation into the Consortium?",
+    "answerable": true,
+    "goldAnswer": "Jamil A'alithiya wants to attack the Consortium diretly",
+    "goldChunks": [28002, 32003]
+  },
+  {
+    "qid": 37,
+    "question": "How did Galeokaerda actually die in Cael Morrow?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 38,
+    "question": "What did Kenshi write in his goodbye letter before leaving for Zadash?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 39,
+    "question": "Who was the spy in Cael Morrow that the Cobalt Soul wanted investigated?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 40,
+    "question": "Did the party ever find Question's lost friends inside the Betrayers Rise?",
+    "answerable": true,
+    "goldAnswer": "The party did not find Question's friends inside the Betrayers Rise, but question heard voices of her friends which could mean that they have already died",
+    "goldChunks": [15005, 19001, 20002]
+  },
+  {
+    "qid": 41,
+    "question": "What happened to the petrified humans found near the villa in Cael Morrow?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 42,
+    "question": "Did Sai ever talk to Lymmle Wist after he was captured by the Hands of Ord?",
+    "answerable": true,
+    "goldAnswer": "Sai did talk to Lymmle Wist in the Ord Bastion and threatened him",
+    "goldChunks": [35002, 38001]
+  },
+  {
+    "qid": 43,
+    "question": "What did Nummer 1 know about Ivella?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 44,
+    "question": "Who killed Ella in K'Var's hideout?",
+    "answerable": true,
+    "goldAnswer": "Ella was killed by Selene",
+    "goldChunks": [36004]
+  },
+  {
+    "qid": 45,
+    "question": "What happened to the Sentinels of Memory after their connection to the Consortium was revealed?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 46,
+    "question": "What was Isshkar the Burrowed doing in the Betrayers Rise?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 47,
+    "question": "What did Visenya's crystal ball lead her to find in the Betrayers Rise?",
+    "answerable": true,
+    "goldAnswer": "Visenya's crystal ball pointed towards Xal'thul",
+    "goldChunks": [20003]
+  },
+  {
+    "qid": 48,
+    "question": "Did the party ever figure out who was funding the Sentinels of Memory through The Sun Bear?",
+    "answerable": true,
+    "goldAnswer": "The party didnt find out specifically who funded it but it is heavily implied that the Consortium funded the Sentinels of Memory",
+    "goldChunks": [36002]
+  },
+
+  {
+    "qid": 49,
+    "question": "How did Croog Lynn learn blood magic?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 50,
+    "question": "What did Selene's mysterious letter say?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  }
+]
+

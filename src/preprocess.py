@@ -1,8 +1,3 @@
-# =============================================================================
-# Preprocessing Module
-# =============================================================================
-# This module extracts and cleans summaries from raw session notes.
-# It handles Obsidian-specific syntax and extracts the relevant sections.
 
 import os
 import re
@@ -10,70 +5,20 @@ from pathlib import Path
 
 from src.config import resolve_path
 
-
 def extract_session_number(filename):
-    """
-    Extract the session number from a filename.
-    
-    Args:
-        filename: A filename like "Session 20.md"
-        
-    Returns:
-        int: The session number (e.g., 20), or None if not found
-        
-    Example:
-        extract_session_number("Session 20.md") -> 20
-    """
     match = re.search(r'Session (\d+)', filename)
     if match:
         return int(match.group(1))
     return None
 
-
 def remove_obsidian_links(text):
-    """
-    Remove Obsidian wiki-link syntax and replace with plain text.
-    
-    Obsidian uses [[link]] and [[link|alias]] syntax for internal links.
-    This function converts them to readable text:
-      - [[link|alias]] becomes "alias"
-      - [[link]] becomes "link"
-    
-    Args:
-        text: The text containing Obsidian links
-        
-    Returns:
-        str: The text with links converted to plain text
-        
-    Example:
-        "Met [[Bob the Wizard|Bob]] at the [[Tavern]]"
-        becomes "Met Bob at the Tavern"
-    """
-    # First, handle links with aliases: [[link|alias]] -> alias
     text = re.sub(r'\[\[([^\]|]+)\|([^\]]+)\]\]', r'\2', text)
     
-    # Then, handle simple links: [[link]] -> link
     text = re.sub(r'\[\[([^\]]+)\]\]', r'\1', text)
     
     return text
 
-
 def extract_summary(text, section_header="# Session Start"):
-    """
-    Extract content from a specific section of a markdown file.
-    
-    The function finds the specified header and extracts everything until
-    the next header of the same or higher level (or end of file).
-    
-    Args:
-        text: The full markdown text
-        section_header: The header to look for (default: "# Session Start")
-        
-    Returns:
-        str: The extracted section content, or empty string if not found
-    """
-    # Build a regex pattern to find the section
-    # This matches the header and captures everything until the next # heading or EOF
     escaped_header = re.escape(section_header)
     pattern = escaped_header + r'\s*(.*?)(?=\n#|\Z)'
     
@@ -83,136 +28,65 @@ def extract_summary(text, section_header="# Session Start"):
     
     return ""
 
-
 def preprocess_file(input_path, section_header="# Session Start"):
-    """
-    Process a single session note file.
-    
-    Reads the file, extracts the summary section, and removes Obsidian links.
-    
-    Args:
-        input_path: Path to the input markdown file
-        section_header: The header marking the summary section
-        
-    Returns:
-        str: The cleaned summary text
-    """
-    # Read the raw file
     with open(input_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Extract the summary section
     summary = extract_summary(content, section_header)
     
-    # Clean up Obsidian links
     cleaned = remove_obsidian_links(summary)
     
     return cleaned
 
-
-def preprocess_all(config, logger=None):
-    """
-    Process all session note files from raw to processed folder.
-    
-    This is the main function that runs the preprocessing pipeline:
-    1. Finds all matching files in the raw notes folder
-    2. Extracts and cleans the summary from each file
-    3. Saves the cleaned summaries to the processed folder
-    
-    Important: Each input file contains data for the PREVIOUS session.
-    For example, "Session 5.md" contains the summary for Session 4,
-    so the output will be "Session 4 Summary.md".
-    
-    Args:
-        config: Configuration dictionary with paths and settings
-        logger: Optional logger for tracking progress
-        
-    Returns:
-        list: List of processed file paths
-    """
-    # Get paths from config
+def preprocess_all(config, verbose=False):
     raw_path = resolve_path(config['paths']['raw_notes'])
     processed_path = resolve_path(config['paths']['processed'])
     input_pattern = config['preprocess']['input_pattern']
     section_header = config['preprocess']['extract_section']
     
-    # Create output directory if it doesn't exist
     processed_path.mkdir(parents=True, exist_ok=True)
     
-    # Find all matching files
     input_files = sorted(raw_path.glob(input_pattern))
     
     if not input_files:
-        message = f"No files found matching '{input_pattern}' in {raw_path}"
-        if logger:
-            logger.warning(message)
-        else:
-            print(f"Warning: {message}")
+        print(f"Warning: No files found matching '{input_pattern}' in {raw_path}")
         return []
     
-    # Process each file
+    print(f"Preprocessing {len(input_files)} files...")
+    
     processed_files = []
     total = len(input_files)
     
     for i, input_file in enumerate(input_files, 1):
-        # Extract session number from the input filename
-        # Important: Each file contains data for the PREVIOUS session
-        # e.g., "Session 5.md" contains the summary for Session 4
         session_num = extract_session_number(input_file.name)
         
         if session_num is None:
-            message = f"Skipping {input_file.name} - could not extract session number"
-            if logger:
-                logger.warning(message)
-            else:
-                print(f"Warning: {message}")
+            print(f"Warning: Skipping {input_file.name} - could not extract session number")
             continue
         
-        # Decrement session number for output (Session 5.md -> Session 4 Summary.md)
         output_session_num = session_num - 1
         
-        # Skip if output session number is 0 or negative
         if output_session_num <= 0:
-            message = f"Skipping {input_file.name} - output session number would be {output_session_num}"
-            if logger:
-                logger.warning(message)
-            else:
-                print(f"Warning: {message}")
+            print(f"Warning: Skipping {input_file.name} - output session number would be {output_session_num}")
             continue
         
         output_name = f"Session {output_session_num} Summary.txt"
         output_path = processed_path / output_name
         
-        # Process the file
         cleaned_summary = preprocess_file(input_file, section_header)
         
-        # Skip empty summaries
         if not cleaned_summary.strip():
-            message = f"Skipping {input_file.name} - no content found in '{section_header}' section"
-            if logger:
-                logger.warning(message)
-            else:
-                print(f"Warning: {message}")
+            print(f"Warning: Skipping {input_file.name} - no content found in '{section_header}' section")
             continue
         
-        # Write the cleaned summary
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(cleaned_summary)
         
         processed_files.append(output_path)
         
-        # Log progress
-        message = f"Processed {i}/{total}: {input_file.name} -> {output_name}"
-        if logger:
-            logger.info(message)
-        else:
-            print(message)
+        if verbose:
+            print(f"  Processed {i}/{total}: {input_file.name} -> {output_name}")
     
-    # Summary
-    message = f"Preprocessing complete: {len(processed_files)} files processed"
-    if logger:
-        logger.info(message)
-    else:
-        print(message)
+    print(f"Preprocessing complete: {len(processed_files)} files processed")
     
     return processed_files

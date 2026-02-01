@@ -35,7 +35,7 @@ embedding:
 # Indexing - Qdrant vector store settings
 # -----------------------------------------------------------------------------
 indexing:
-  collection_name: "rpg_sessions" # Name of the Qdrant collection
+  collection_name: "rpg_sessions_large" # Name of the Qdrant collection
 
 # -----------------------------------------------------------------------------
 # Retrieval - Search settings
@@ -54,7 +54,7 @@ reranking:
 # Query Expansion (optional) - Generate multiple search queries
 # -----------------------------------------------------------------------------
 query_expansion:
-  enabled: false                  # Set to true to enable query expansion
+  enabled: true                  # Set to true to enable query expansion
   model: "gpt-4o-mini"            # Model to use for generating queries
 
 # -----------------------------------------------------------------------------
