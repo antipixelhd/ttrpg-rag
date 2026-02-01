@@ -1,0 +1,193 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Now has partial True sight, [[K'Var the Corrupted|K'Var]] sees through her
+	- Wo killed her Parents?
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai 
+	- finding out what truly is written in his book
+	- getting noticed by [[Vrill, the Moth]]
+	- [[Moonweavers Touch]]
+- [[Eve-thra Arryn (Alina)]] 
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- [[Aurora (Jason)|Aurora]]
+	- Talk with [[Chobeg Turen|Chobeg]]
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[The Raven Queen, Matron of Death|Raven Queen]] task to end [[Xal'thul]] -> voices get quite and he regains his other half soul
+	- [[Ank'Harel]] has Cleret Order members 
+	- If he dies might resurrect (once)
+	- Shield could transform into Vestige (Honors Last Stand)
+- [[Kenshi Takahashi (Til)|Kenshi]]
+	- Path of [[The Luxon]] or different one?
+# Planning
+## Organisatorisches
+- [ ] Guide for improvising
+	- Never say straight "No", rather do "no but"
+		- casually think about it, 
+		- good guideline for roleplaying with each other
+	- Example: Me saying no to Brunnen but yes there was a bucket nea
+
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- [[Treassure Hunt - Devossa's Lair]] Quest continued
+	- [[Melantha (Melli) (Daniel)|Melli]] revealed black eye to everyone, later found out she can look into [[Ethereal Plane]]
+	- Tried to go to secret path but blocked by door that can't be opened
+	- Went to other side of temple and found sarcophages, didnt open, found picture of the [[Corellon, The Arch Heart|Arch Heart]] piercing the Eye of [[Gruumsh, The Ruiner]]
+		- 3 Gräber waren für Architekten die den [[Cerulean Palace]] designed haben
+	- Found Treasure room
+		- got big items -> Added Shield + Warp Anchor to dndbeyond
+		- got attacked by brass golems and a brass DRAGON??
+		- got everyone out but was close, [[Vorak Stormheart (Lars)|Vorak]] went back for [[Shield of Unyielding Might]]
+		- who knew about it and why?
+		- Items found
+			- [[Eve-thra Arryn (Alina)|Eve]] potion of growth, [[immovable-rod]]
+			- [[Sai Nailo - (Karl)|Sai]], [[Doublet of Dramatic Demise]]
+			- [[Vorak Stormheart (Lars)|Vorak]], longsword (worth 750-1000G), + [[potion-of-superior-healing]], that he drank
+				- [[Shield of Unyielding Might]] 
+			- [[Kenshi Takahashi (Til)|Kenshi]]: Warp Anchor with Nat 20
+- [[J'mon Sa Ord]] talk
+	- reveal that mirror leads to private chambers of the Ruler of [[Ank'Harel]]
+	- Arrived with Massive clouds covering [[Ank'Harel]]
+	- He was the one who watched their match against [[Kane]] from the Tower
+	- Talked and convinced him [[Asmutayya]] let them have treasure
+		- He will also have the [[Cobalt Soul]] look into the [[Consortium of the Vermilion Dream|Consortium]]
+		- He wants to know who knew about the secret place!
+	- If they keep secret about anything that happened there, or on the other side of the mirror they get to keep treasure
+- Played with magic items the rest of the day
+- Night Time
+	- [[Vorak Stormheart (Lars)|Vorak]] casual reveal he can walk through walls, also [[Melantha (Melli) (Daniel)|Melli]] can kinda look into the [[Ethereal Plane]]
+	- [[Encounter - Melli Dream]]
+		- Saw dead parents and then woke up chained to the metal desk, then woke up in her bed without a long rest
+	- [[Sai Nailo - (Karl)|Sai]] went to [[Blessing Well]] and succeeded: [[Sehanine, The Moon Weaver|Moon Weaver]] encounter
+		- She is happy with what Sai is doing
+		- "Meinte das du frei bist deinen eigenen Weg zu bestimmen"
+		- In the end said I am sorry as she touched Sai's shoulder, unclear to whom she said those words and even shed a tear
+# Start
+- [x] [[Aurora (Jason)|Aurora]] x [[Sai Nailo - (Karl)|Sai]] or when he returns
+	- [x] Sees shimmering blue Tattoos on hands -> gained FEAT
+- [x] maybe have [[Alyxian the Apotheon|Alyxian]] vision at the start? or end of session?
+	- [i] trigger when they go back to [[Harried Mongoose]]!!!
+	- [i] Messages first!!! 
+- [x] ask if they want to roleplay any [[Eve-thra Arryn (Alina)|Eve]] x [[Kenshi Takahashi (Til)|Kenshi]] interaction 
+	- [x] ask [[Kenshi Takahashi (Til)|Kenshi]] what he does with the Katana? -> need info for [[Vaelistra Zaphyr|Vaelistra]]
+- [x] Exhaustion is gone after long rest -> appearance back to normal
+- [x] [[Norbeg Turen|Norbeg]] and [[Encounter - Vaelistra and Callimar]] arrive
+	- make the rolls!
+- [x] Tell lars about [[Shield of Unyielding Might]] + inspiration because he got the shield
+# Timeline / Agenda
+- [ ] [[Cobalt Soul]] quest
+	- [ ] maybe [[Jamil A'alithiya]] talk
+- [x] [[First Eclipse (Taverne)]] encounter
+	- [x] possibly with [[Vrill, the Moth|Vrill]] -> [[Lafthal's Research]]!!
+- [ ] [[Sai Nailo - (Karl)|Sai]] realizes "Lianosa" is anagram for "Sai Nailo"
+	- If he mentions "Sai", they ask how does he write it?
+	- -> needs to show book
+- [x] If [[Melantha (Melli) (Daniel)|Melli]] sees [[Ruidium]]: [[K'Var the Corrupted|K'Var]] will contact! -> he wants it, how did they get it?
+	- Trade for info on how to use it ->[[list-metamagic|Metamagic]] 
+- [ ] [[Aurora (Jason)|Aurora]] has encounter if she goes alone 
+	- [[Consortium of the Vermilion Dream|Consortium]] want her to build something with [[Ruidium]]
+- [ ] Random Encounter
+	- [ ] [[Aurora (Jason)|Aurora]] spots emerald on Nobel, its important to them tho
+	- [ ] Somebody alone gets ambushed by three [[thug|Thugs]]
+		- likely only night
+		- say they are from [[The Veil]] but aren't probably
+## Night Time 
+- [!] VISION
+## Loose Threads
+- If [[Ayo Jabe|Ayo]] loses the spear!
+	- [[Xal'thul]] will demand [[Kenshi Takahashi (Til)|Kenshi]] to destroy the spear
+	- [[Xal'thul]] will force a Eldritch smite and will cast [[Banishing-Smite]] himself 
+- [[Kenshi Xal'thul Talk]]
+	- [x] If Til does his plan of deceiving [[Xal'thul]], he will follow along regardless!
+	- [x] Gut gemacht, unser nächster plan wird es sein [[Alyxian the Apotheon|Alyxian]] zu töten
+- [[Sai Nailo - (Karl)|Sai]] casting [[remove-curse]] on [[Kenshi Takahashi (Til)|Kenshi]]
+	- Needs consent of [[Kenshi Takahashi (Til)|Kenshi]]! -> need to let go
+	- If he uses [[greater-restoration]] works for free
+- Magnet Lore:
+	- magnets sometimes don't work around the [[Cerulean Palace]]! 
+		- (400-600m range) 
+		- Multiple times a day -> more towards the evening
+		- its the [[cobalt-golem-tdcsr|Cobalt Golem]] ability -> have to activate it once per day for maintenance reason
+- [ ] Nobody knows yet that the first [[The Luxon|Luxon]] was discovered after a certain person killed himself
+## NPCs
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 50g = 500gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [r] Silvered Longsword (worth 750-1000g)
+# Summary
+- Finished Night stuff
+	- [[Aurora (Jason)|Aurora]] and [[Sai Nailo - (Karl)|Sai]] went to Skyport
+		- [ ] "Artin" -> half orc male working at [[Indala Skyport]], got 15g to spot vaelistra/callimar but also a gnome -> could come to [[Harried Mongoose]] and say that [[Chobeg Turen|Chobeg]] arrived
+		- [ ] "Balifra" - female halfling working as manager who sorts all traffic
+	- [[Alyxian Visions]] der sein Schicksal bezwingen wollte, and saw him face off against something
+	- got [[Vaelistra Zaphyr|Vaelistra]] ping but went to sleep after it dissappeared 
+	- Tried to remove [[Blade of broken mirrors]] attunement, did not work
+- Next day
+	- [[Vaelistra Zaphyr|Vaelistra]] saved both times, [[Vorak Stormheart (Lars)|Vorak]] failed
+	- bought healing potions
+	- Went to [[First Eclipse (Taverne)]]
+		- [ ] payed 250g to [[Gamila]], she happy, offered more work but nobody decided
+		- [[Melantha (Melli) (Daniel)|Melli]] and [[Vorak Stormheart (Lars)|Vorak]] talked to [[Vrill, the Moth|Vrill]], she offered [[Lafthal's Research]] in exchange for the Ruidium Crystal from [[Jigow]]
+		- [ ] could still have [[Aurora (Jason)|Aurora]] encounter with [[Vrill, the Moth|Vrill]]
+		- [ ] [[Melantha (Melli) (Daniel)|Melli]] successfully lied to [[Vrill, the Moth|Vrill]] that she doesnt know where the crystal is
+		- [ ] important: solve how [[Consortium of the Vermilion Dream|Consortium]] has access to [[Ruidium]] when [[Allegiance of Allsight|Allegiance]] is controlling [[Cael Morrow]], could be that they dont really, only from past stuff
+	- Got call from [[Iwo Zalarre]] for another job
+	- Met up with [[Galsariad Ardyth|Galsariad]] randomly at [[Schoß der Götter]], found out where [[Vaelistra Zaphyr|Vaelistra]] is staying
+		- little espionage to find exact room but they where already aware
+		- [ ] [[Schoß der Götter]] dimensions: 60ft high, 3 floors, each 20ft high, room dimensions on photo 5 rooms long, 120 was [[Vaelistra Zaphyr|Vaelistra]], 118 are they fighting (one floor up ground)
+		- Fight: 
+			- [[Vaelistra Zaphyr|Vaelistra]] sneaked invisible into [[Kenshi Takahashi (Til)|Kenshi]] and [[Melantha (Melli) (Daniel)|Melli]] room
+			- [[Eve-thra Arryn (Alina)|Eve]] was about to come up then she attacked with 63 damage to [[Kenshi Takahashi (Til)|Kenshis]] back
+			- Others took some time to get into room, massive [[Aurora (Jason)|Aurora]] clutch to get healing sai into the room and [[Eve-thra Arryn (Alina)|Eve]] clutch time reverse. [[Melantha (Melli) (Daniel)|Melli]] clutch CC on [[Callimar Despana|Callimar]]
+			- [[Vorak Stormheart (Lars)|Vorak]] phased through the wall upward (my hero academia style)
+			- Could have been way worse but for now [[Kenshi Takahashi (Til)|Kenshi]] is alive but [[Vaelistra Zaphyr|Vaelistra]] has the dagger
+			- [ ] r3: [[Vaelistra Zaphyr|Vaelistra]] used 1 legendary action, no reaction and still has action surge ready
+			- [ ] [[Galsariad Ardyth|Galsariad]] used his big spell and [[slow]], did cast [[longstrider]] and [[mage-armor]] on himself
+			- [ ] make pretty map?, maybe define plan when they run
+			- [ ] line that goes hard if its do or die for her and she has to run but cant kill kenshi: 
+			- [ ] [[Melantha (Melli) (Daniel)|Melli]] has -10 on next roll!
+			- [ ] [[Callimar Despana|Callimar]] also wants to kill the elves, "unreinen Elven" or other insult
+			- [ ] [[Vaelistra Zaphyr|Vaelistra]] has sneak attack on legendary action as well
+			- [ ] could target [[Vorak Stormheart (Lars)|Vorak]] next on turn because he has big weapon 
+				- [ ] actually ask lars first what his setup is now!!!
+			- [ ] [[Galsariad Ardyth|Galsariad]] has inspo
+			- [ ] [[Melantha (Melli) (Daniel)|Melli]] screamed for help
+
+- [ ] add new visual description of [[Vaelistra Zaphyr|Vaelistra]] and [[Callimar Despana|Callimar]] when spell drops  
+- [ ] add banger OST 
+- [[Callimar Despana|Callimar]] spells
+	- Level 1: 4
+	- Level 2: 1 -> one for restoration, one invisibility
+	- Level 3: 2 -> 1 for nondetection on [[Vaelistra Zaphyr|Vaelistra]] 
+	- Level 4: 1 -> 2 for death ward
+	- Level 5: 2
+- 
+- [ ] [[Norbeg Turen|Norbeg]] checked other tavern for NSFW and Aurora but where not there
+- [ ] +2 healing potion, kenshi + Eve
+- [ ] [[Kenshi Takahashi (Til)|Kenshi]] dreaming about dead girl 
+- [ ] [[Maroon 5]] is securing a [[Brumestone]] delivery, also got ambushed
+- [ ] check other people answer to the questions, maybe make them cannon alyxian answers if they fit
+- [ ] change to [[Encounter - Vaelistra and Callimar]] !!!
+	- mother drops letter to [[Eve-thra Arryn (Alina)|Eve]] asking for only her and the dagger tonight at specific location or everyone dies
+	- only works if they know the location
+	- [[Galsariad Ardyth|Galsariad]] will only be there if [[Vaelistra Zaphyr|Vaelistra]] fails etc -> could be the savior if things go bad or she goes alone, maybe even fly away with her
+	- [ ] decide location
+	- [ ] print letter!
+
+- [ ] maybe flesh out more what happened at [[Ruidium research mission|Laftals failed mission]] from outside POV, things they could learn if they asked/searched, other than [[Vrill, the Moth|Vrill]]
+- [ ] during next downtime, [[Maroon 5]] will steal from [[Allegiance of Allsight|Allegiance]] to get money to buy [[Irvan Wastewalker|Irvan]] the prosthetic
+- [ ] Kenshi new outfit mini?
+
+- [ ] look into beholder lair, maybe have [[Sai Nailo - (Karl)|Sai]] and [[Melantha (Melli) (Daniel)|Melli]] be getting the feeling of "getting followed"

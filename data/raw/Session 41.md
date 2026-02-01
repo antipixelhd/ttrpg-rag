@@ -1,0 +1,135 @@
+
+# Current Threads
+- [[Melantha (Melli) (Daniel)|Melli]] trying to find out why her village got attacked
+	- [ ] Restoring her eye -> [[ersatz-eye-xge|Ersatz Eye]]
+- [[Sai Nailo - (Karl)|Sai]] 
+	- destroying [[Consortium of the Vermilion Dream|Consortium]]
+- [[Eve-thra Arryn (Alina)]] 
+	- Trigger [[Ruidium Corruption]], if she "fails" (need alona approval)
+	- Spells to find
+		- [[silent-image]] (1)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+- [[Aurora (Jason)|Aurora]]
+	- More [[Arcane Battery]] stuff
+	- [[Chobeg Turen|Chobeg]] dying to [[Ruidium Corruption]] -> now at 3!
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[The Raven Queen, Matron of Death|Raven Queen]] task to end [[Xal'thul]] -> voices get quite and he regains his other half soul
+	- [[Croog Lynn]]
+# Planning
+## Organisatorisches
+
+- [ ] For me: If deadline to stop -> mention it ingame to speed things along for cliffhanger!
+- [x] Healing potions
+	- Minor: Melli / Selene  / Aurora 
+	- Major: Selene / Eve
+- [x] exhaustion 1 for sai/melli
+- [x] Added new (official) Alyxian art into CampaignLog
+
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Went with [[Galeokaerda]] to Villa to get Ruidium weapon
+	- On the way spotted petrified humans (looking scared etc), some chopped up
+	- Met [[Maroon 5]] there who were currently scouting it out
+		- Decided to split up
+	- Fought [[death-embrace-custom|Death Embrace]], a huge jellyfish, warped by [[Ruidium]]
+		- at one point three people went down
+		- [[Galsariad Ardyth|Galsariad]] got the killing blow
+			- technically he earned the right to the [[ruidium-weapon-crcotn|Ruidium Greataxe]] but [[Selene Noctis (Til)|Selene]] interfered
+				- Nat 20 in deception allowed for enough confusion, but [[Galsariad Ardyth|Galsariad]] knew he got the killing blow!
+				- In the end [[Galsariad Ardyth|Galsariad]], [[Ayo Jabe|Ayo]] and [[Dermot Wurder|Dermot]] left the [[ruidium-weapon-crcotn|Ruidium Greataxe]] to [[Main Party]]
+		- Meanwhile [[Maggie Keeneyes|Maggie]] [[Irvan Wastewalker|Irvan]] and [[Galeokaerda]] used teleportation tablet to book it
+			- [[Eve-thra Arryn (Alina)|Eve]] watched them as fish!
+			- Found out they were talking to [[Larthul the Wolf|The Wolf]]
+				- one from [[Consortium of the Vermilion Dream]], but who did sell out [[Vrill, the Moth|Vrill]]
+			- [ ] what they dont know: [[Larthul the Wolf|The Wolf]] said something like "sadly we couldnt hide the key from the [[Allegiance of Allsight|Allegiance]], we will use one of our own"
+- Wanted to destroy permanent teleportation at Royal library
+	- because [[Galeokaerda]] mentioned it to [[Larthul the Wolf|The Wolf]]
+- Went to Temple of the Arch Heart
+	- Got rid of divine Barrier, Sai/Selene/Aurora/eve participated
+	- Went inside temple, which was devoid of water
+		- Saw a very old [[Alyxian the Apotheon|Alyxian]] answer questions in this very temple 
+	- [[Sai Nailo - (Karl)|Sai]] hit [[Ruidium]] crystal to trigger the big vision
+		- Everyone was in the city, trying to defend it
+			- Orcs storming the city, attacking from the Jungle
+			- [[Sai Nailo - (Karl)|Sai]] flying and shooting a rain of arrows down
+			- [[Eve-thra Arryn (Alina)|Eve]] throwing Towers into open holes
+			- [[Selene Noctis (Til)|Selene]] assassinating everyone, and running on the outside of the walls
+			- [[Aurora (Jason)|Aurora]] using Final G as a mortar to rain down fireballs 
+			- [[Vorak Stormheart (Lars)|Vorak]] being way bigger than he thought and running over and through the orcs
+			- [[Melantha (Melli) (Daniel)|Melli]] calling upon some kind of primal fire to burn masses of them
+		- Alyxian doing his own part, then realizing there is a bigger threat on the horizon
+			- [[Gruumsh, The Ruiner]] throwing his spear, infused with all his strength to destroy the entire continent
+		- Alyxian parrying the spear, successfully?
+			- Everything in a hundred kilometer radius got super heated 
+			- The city sinking bellow the earth
+		- You now know how the desert got created
+	- [i] [[Sai Nailo - (Karl)|Sai]] wonders: Where were the other gods? Why did Alyxian have to confront [[Gruumsh, The Ruiner|Gruumsh]] alone? 
+- Ended session at everyone
+	- They went outside and brought a random humanoid statue to [[Allegiance of Allsight|Allegiance]], specifically [[Gryz Alakritos]]
+		- Gryz is looking to revive him
+# Start
+- anywhere they like
+- [x] [[Irvan Wastewalker|Irvan]] seeking out [[Sai Nailo - (Karl)|Sai]]
+	- [x] Doesnt want miss-understanding -> dead [[Galeokaerda]] will be discovered!
+		- [x] "Do you think everyone from the [[Consortium of the Vermilion Dream|Consortium]] is evil?"
+	- [x] Suspicious of [[Selene Noctis (Til)|Selene]] (same as [[Galsariad Ardyth|Galsariad]])
+		- Somebody stole some knowledge from [[Marble Tomes Conservatory]] ([[Rosohna]]), wearing a mask like that
+- [x] If they go back to [[Cael Morrow]]
+	- [x] Mention that they see this space with new context (knowing what they know, destruction, water is still strange)
+# Timeline / Agenda
+- [ ] [[Entering Cael morrow]] [[Cobalt Soul]] quest
+	- [ ] Palace
+	- [x] [[Aboleth (Alyxian)]] fight
+- [x] [[Selene Noctis (Til)|Selene]] x [[The Judge]] -> maybe with [[Main Party]]
+- [ ] [[Chobeg Turen|Chobeg]], has only one more week
+- [ ] Before going into [[Netherdeep]]
+	- [ ] Ask if there are any loose threads everyone wants to close!!
+	- [ ] Force [[Encounter - Attack Jamil and J'mon]] here??!?!?
+## Loose Threads
+- Magnet Lore:
+	- magnets sometimes don't work around the [[Cerulean Palace]]! 
+		- (400-600m range) 
+		- Multiple times a day -> more towards the evening
+		- its the [[cobalt-golem-tdcsr|Cobalt Golem]] ability -> have to activate it once per day for maintenance reason
+- [ ] Nobody knows yet that the first [[The Luxon|Luxon]] was discovered after a certain person killed himself
+- [ ] [[Vorak Stormheart (Lars)|Vorak]] attracts [[Ethereal Plane]] creatures (due to half soul)
+- [ ] Door in [[Ank'Harel]] 
+	- Has symbol on and she needs to "complete it" (using finger) to open connection
+		- When she does: "Hears clicking noise, like a lock opening"
+		- Once inside: hears gears turning (click click click)
+	- Random family is inside who got paid to have symbol there
+	- [ ] If [[Main Party]] comes
+		- [ ] [[The Visionary]], could be "old grandma" in rocking chair reading something (blind!)
+		- [ ] [[The Child]] is also in entrance hall! -> has mask but also disguise self up!!
+- Veil meeting
+	- Maybe first [[The Veiled Five]] to test them, if they can be trusted they get audience
+		- [[The Judge]] talks with [[Veil of the Forgotten]]!
+	- everyone hidden!
+	- theater style, high up leaders, empty spaces where [[The Veiled Five]] could appear?
+- [ ] [[Encounter - Attack Jamil and J'mon]]
+- [ ] [[Sai Nailo - (Karl)|Sai]] knows location of [[Sentinels of Memory]] base 
+- [ ] [[Bibbity Bobbity]] tasked them with finding a buyer for the ring
+	- [ ] If they dont find it: have to pay 200G for misty step and paper
+	- [ ] Could lead into [[J'mon Sa Ord]]  and [[Bibbity Bobbity]] confrontation!
+## NPCs
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 25g = 250gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g) (Aurora has 8x 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [r] Tracking Orb, points to [[Xal'thul]] after he got his body back!!!, currently pointing nowhere
+	- [r] gave it to [[Cobalt Soul]]! 
+- [r] Encoded Sheet of paper found at [[Old Man Kruuk's]]
+	- High DC for decoding! -> transactions, delivers, no names tho
+- [x] [[Vorak Stormheart (Lars)|Vorak]]: Vintage pre calamity wine -> 1000g to sommelier
+	- [x] Also pre calamity glas ware (with dead hand) 
+- [r] [[Aurora (Jason)|Aurora]]: small bronze statue of elf (no gender) that looks to be casting a spell
+	- [r] 35-50gp (Corellon statue) 
+- [x] Two emerald rings, quite big (1500g each)
+- [x] Perlen Halskette (750g)
+

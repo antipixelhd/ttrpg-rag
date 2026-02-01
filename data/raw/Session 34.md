@@ -1,0 +1,235 @@
+
+# Current Threads
+- [[Melantha (Melli) (Daniel)|Melli]] trying to find out why her village got attacked
+	- Will trigger [[Ruidium Corruption]] on a 1 of the d4
+	- Now has partial True sight, [[K'Var the Corrupted|K'Var]] sees through her
+	- Wo killed her Parents?
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- [[Sai Nailo - (Karl)|Sai]] 
+	- destroying [[Consortium of the Vermilion Dream|Consortium]]
+	- saving/killing his mother?
+- [[Eve-thra Arryn (Alina)]] 
+	- Trigger [[Ruidium Corruption]], if she "fails" (need alona approval)
+	- Spells to find
+		- [[silent-image]] (1)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- [x] Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- [[Aurora (Jason)|Aurora]]
+	- More [[Arcane Battery]] stuff
+	- [[Chobeg Turen|Chobeg]] dying to [[Ruidium Corruption]] -> now at 1!
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[The Raven Queen, Matron of Death|Raven Queen]] task to end [[Xal'thul]] -> voices get quite and he regains his other half soul
+	- [[Croog Lynn]]
+# Planning
+## Organisatorisches
+
+- [ ] maybe talk about player preperation
+	- [ ] no more leveling up just before session
+	- [ ] people have to prepare character abilities, so fight are more smooth and to avoid tpk!
+- [x] [[dream]]
+- [ ] For me: If deadline to stop -> mention it ingame to speed things along for cliffhanger!
+
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Finished [[Encounter - Some kind of Hideout]] 
+	- Talked to [[Tristan]], found him sus, didnt find anything else
+		- heard him talking to somebody and eve detected 3 creatues
+		- Melli later saw a familiar smile for a sec
+	- Sai talked with [[Brag and Drench]], rough looking homies, builders, responsible for setting up secret hinges etc
+	- [[Astar]], human male, barkeeper, teeth missing
+		- [[Sai Nailo - (Karl)|Sai]] bough 10gp wine, [[Melantha (Melli) (Daniel)|Melli]] + [[Selene Noctis (Til)|Selene]] bough 40gp wine glasses
+	- [[Selene Noctis (Til)|Selene]] got access to top floor from [[Tristan]]
+	- Talked with Lionkin [[Halimat]], male, wearing outfit of those in [[Cerulean Palace]]
+		- nothing too important, wants [[Ruidium]] for [[Ank'Harel]]s prosperity
+	- told [[Iwo Zalarre]] everything, they knew about [[Hidden Hinge Society]], not really dangerous, but if they are connected to [[The Veil]] thats a different story 
+- [[Downtime in Ank'Harel]] #2
+	- +1 Day
+		- Selene x aurora
+			- building flying Owl, worked but nuked a house
+		- Did Fight selene x Aurora vs Vorak x Eve
+			- Vorak won, melli cheated tho
+	- +2 Day
+		- Vorak went to [[Crossing of Eventide]], talk to [[Isinia Zeria]], next day to bring [[Xal'thul]] dagger
+	- +3 Day
+		- [[Encounter - Xal'thul release]]
+			- Everyone prepped and [[Isinia Zeria]] instantly destroyed [[Blade of broken mirrors]] to initiate fight
+			- [[Xal'thul]] spawned and seemed very confident
+			- was resistant to a lot, but also had resistant to force through his shield
+			- Casually banished [[Sai Nailo - (Karl)|Sai]] to [[Tharizdun]], had to see what [[Callimar Despana|Callimar]] saw and clawed his eyes out for
+			- people doing insane damage, especially [[Vorak Stormheart (Lars)|Vorak]]
+			- [[Aurora (Jason)|Aurora]] pushing him into the blood, making him stuck
+			- cast massive aoe spell and healed himself to full
+				- then tried to leech off of [[Vorak Stormheart (Lars)|Vorak]] close range
+			- [[Isinia Zeria]], not showing much emotions, even when other clerics are dying
+				- Helped healing party and even at the end still standing 
+			- Then big moment, [[Xal'thul]] talking to [[Kenshi Takahashi (Til)|Kenshi]], he gave no answer to who he wanted to protect
+				- He casted [[power-word-kill]] on Sai
+				- [[Sai Nailo - (Karl)|Sai]] put beatiful images inside everyones heads, and was on his way with his father towards a better place,
+					- then [[Xal'thul]] cast soul cage to gather [[Sai Nailo - (Karl)|Sai]] soul
+					- Later wanted to destroy him (wasting action)
+					- but then THE GOAT appeared: [[Vax'ildan|Champion of Ravens]] appeared and saved Sai 
+			- [[Vorak Stormheart (Lars)|Vorak]] had killing blow, his moment to shine, and reclaim his soul and end the voices
+				- but even then [[Xal'thul]] had a backup: he had already moved his phylactery to the diamond way in advance....and disappeared
+# start
+- [x] Charisma save for all with [[Ruidium Corruption]], who emotionally got affected
+	- [[Eve-thra Arryn (Alina)|Eve]] + [[Melantha (Melli) (Daniel)|Melli]] + maybe [[Vorak Stormheart (Lars)|Vorak]]? -> DC 10-20 depending on how emotionally cooked
+- [x] mention [[Vax'ildan|Champion of Ravens]] appearance to [[Vorak Stormheart (Lars)|Vorak]]
+	- reiterate a haziness he feels, since he doesnt know from where he knows him
+	- maybe mention his real eye color reflects in the champions eyes
+# Timeline / Agenda
+- [x] [[Encounter - Sai's Resurrections]]
+- [x] [[Alyxian Visions#The Truth]] !!!!!!!!!!!!!!!!!!!
+- [x] Downtime -> check [[Downtime in Ank'Harel]]!!
+	- [x] Mention: is to further character goals, further main/side plot, develop character/npc connections, get information you want to find out, 
+	- [x] [[Selene Noctis (Til)|Selene]] finds [[Magical Tattoos]] guy !!!
+	- [x] [[Maroon 5]] interaction?
+		- [[Maroon 5]] x [[Selene Noctis (Til)|Selene]]?
+		- [[Eve-thra Arryn (Alina)|Eve]] x [[Galsariad Ardyth|Galsariad]] interaction? -> [[Ayo Jabe|Ayo]] asks Eve what she wants from him?
+	- [x] [[The Proxies of Prolix]] mission?
+	- [ ] [[Encounter - He wants to Punish Vrill]]
+	- [ ] if [[Melantha (Melli) (Daniel)|Melli]] sees [[Arcane Battery]] + [[Ruidium]]: [[K'Var the Corrupted|K'Var]] will be interested!!!
+- [ ] [[The Judge]] will approach [[Selene Noctis (Til)|Selene]]
+	- [ ] Happens if they dig too much into [[The Veil]]
+- [ ] Random Encounter
+	- [ ] Somebody alone gets ambushed by three [[thug|Thugs]]
+		- likely only night
+		- say they are from [[The Veil]] but aren't probably
+## Night Time 
+- [ ] [[Eve-thra Arryn (Alina)|Eve]]: Sees small spider looking at her from the ceiling....heartbeat gets faster....eyes are glowing???...surely not
+- [ ] [[Encounter - He wants to Punish Vrill]]
+## Loose Threads
+- [i] [[Aurora (Jason)|Aurora]] x [[Vrill, the Moth|Vrill]] / [[K'Var the Corrupted|K'Var]] encounter
+	- [i] maybe even [[K'Var the Corrupted|K'Var]] who is interested in her inventions 
+		- [i] Wants a way to have [[Ruidium]] items without the corruption
+	- [i] Will stand in dark corner, face not visible
+	- [i] -> if light shines could activate anti magic or charm her! 
+- Magnet Lore:
+	- magnets sometimes don't work around the [[Cerulean Palace]]! 
+		- (400-600m range) 
+		- Multiple times a day -> more towards the evening
+		- its the [[cobalt-golem-tdcsr|Cobalt Golem]] ability -> have to activate it once per day for maintenance reason
+- [ ] Nobody knows yet that the first [[The Luxon|Luxon]] was discovered after a certain person killed himself
+- [[Melantha (Melli) (Daniel)|Melli]] Ripping out eye:
+	- Disadvantage on all perception and attack rolls!
+	- Eye might survive and attack?
+## NPCs
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 25g = 250gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [r] Silvered Longsword (worth 750-1000g)
+- [r] Tracking Orb, points to [[Xal'thul]] after he got his body back!!!, currently pointing nowhere
+- [r] Encoded Sheet of paper found at [[Old Man Kruuk's]]
+	- High DC for decoding! -> transactions, delivers, no names tho
+# Summary
+
+- [[Encounter - Sai's Resurrections]]
+	- [[Aurora (Jason)|Aurora]] outa nowhere casting [[revivify]], soul already departed but still had connection through the golden thread
+	- Started with [[Sai Nailo - (Karl)|Sai]] seeing past version of [[Marcus Lianosa|Marcus]] and [[Sai Nailo - (Karl)|Lafthal]]
+		- then realized this was not in the past but in the present
+		- both talked and eventually transformed into their current selves
+		- [[Marcus Lianosa|Marcus]] saying that he will always be there for him
+			- [ ] [[Sai Nailo - (Karl)|Sai]] realizing that the touch in the [[First Eclipse (Taverne)]] was already [[Marcus Lianosa|Marcus]]
+		- [[The Raven Queen, Matron of Death|Raven Queen]] appearing and telling them about the ritual
+			- [[Marcus Lianosa|Marcus]] hugging [[Sai Nailo - (Karl)|Sai]] and memory appearing of the final moments of [[Sai Nailo - (Karl)|Lafthal]] and [[Marcus Lianosa|Marcus]]
+			- Marcus is and was never afraid of death because he gave his live so the most important person in his life could live
+		- [ ] SAY: Powerful: During conversation, there was no [[Sai Nailo - (Karl)|Lafthal]] or [[Sai Nailo - (Karl)|Sai]], because for [[Marcus Lianosa|Marcus]] there is just you, and he loves you regardless
+		- Then both marching on into light to a door
+	- Meantime [[Main Party]] doing ritual
+		- [[Melantha (Melli) (Daniel)|Melli]] trying to call out to [[Sai Nailo - (Karl)|Sai]] with pure words to form a connection and allow him back
+		- [[Vorak Stormheart (Lars)|Vorak]] praying for the first time, not to any specific gods but all of them
+		- [[Aurora (Jason)|Aurora]] trying to find his soul among the stars to call him back
+			- [ ] mention: DC 25, was almost disadvantage, point is that to create connection to the person specifically
+		- [[Vrill, the Moth|Vrill]] appearing, and wanting to help as well, creating images of [[Sai Nailo - (Karl)|Lafthal]] childhood
+			- [ ] needed "HIS" help to succeed
+	- Ritual failing with the IMPOSSIBLE NAT 1!!!!
+		- Not content with the outcome [[Eve-thra Arryn (Alina)|Eve]] tried to unravel time itself
+			- every possibility was [[Sai Nailo - (Karl)|Sai]]s death so the only way was to create one herself
+			- Had help from someone/something that looked like her in the future
+		- Did the impossible and succeed, going outside of the realm of Fate itself
+			- in the process noticing something out there and successfully staying hidden.
+	- Aftermath
+		- [[Vrill, the Moth|Vrill]] lost her control and disappeared before a fight could break out
+		- [[Vax'ildan|Champion of Ravens]] interacting with [[Vorak Stormheart (Lars)|Vorak]]
+- [[Downtime in Ank'Harel]] continued
+	- [[Melantha (Melli) (Daniel)|Melli]]: researching vrill black stuff, got 20 and basic info
+		- [ ] maybe find one more "new thing" she learns
+			- could tell her about [[dispel-magic]] not solving problem but helping! (damage or temporarrly help), needs definitely DC depending on what level casted
+	- [[Aurora (Jason)|Aurora]]: finishing cannon, then starting in telepathic bond item
+		- [ ] decide on what effect exactly, 20feet push is kinda insane for free
+		- [ ] also ask again about default state of cannon
+		- [ ] will finish in 3-4 automatically
+	- [[Vorak Stormheart (Lars)|Vorak]]: pitfighting with help of [[Selene Noctis (Til)|Selene]] for one fight, lost 2, still got 100g, 
+		- lost to [[Croog Lynn]], the first [[Vorak Stormheart (Lars)|Vorak]] saw that used blood magic since he was in the Order
+	- [[Eve-thra Arryn (Alina)|Eve]] researching [[sphinx]] and time stuff, absolutely failing
+		- still getting basic sphinx info tho
+	- [[Eve-thra Arryn (Alina)|Eve]] x [[Galsariad Ardyth|Galsariad]] talk, [[Galsariad Ardyth|Galsariad]] revealing his siblings origin story
+		- both sharing more knowledge, 
+		- [ ] [[Eve-thra Arryn (Alina)|Eve]] gets automatically [[gravity-fissure-egw|Gravity Fissure]] on next downtime
+		- [ ] [[Galsariad Ardyth|Galsariad]] gets level 5 time reaction spell, next downtime
+		- [[Ayo Jabe|Ayo]] potentially beeeing jealous?!!?!?
+	- Met Tattoo guy, [[Nimble John]], Tabaxi male, cowboy accent, 3d tattoo on legs, that animate more legs
+		- Password: Umarme die Farben und bring stärke in dein Leben
+	- [[Eve-thra Arryn (Alina)|Eve]] going into [[Kenshi Takahashi (Til)|Kenshi]] dream
+- Started [[The Proxies of Prolix]]
+	- [[Selene Noctis (Til)|Selene]] insta finding him, causing him to almost shit his pants
+	- wanting help because he thinks he is getting framed
+	- Had Replica of [[ring-of-red-fury-crcotn|Ring of Red Fury]]
+	- [[Main Party]] agreed to help and got info about Bookkeeper [[Khime]] and the [[Omnival Library]]
+		- [ ] can drop [[Prolix Yusaf|Prolix]] name, for pot access but he is still scared
+- Endet at
+	- Everyone interrogating [[Selene Noctis (Til)|Selene]], getting something out of it
+	- And then [[Selene Noctis (Til)|Selene]] receiving a mysterious letter
+
+- [ ] in this night mention option for nighttime activities
+	- [ ] maybe mention [[Eve-thra Arryn (Alina)|Eve]], remembering back, mental load of seeing [[Sai Nailo - (Karl)|Sai]] dead and question about this feeling she had, what would have happened if she got noticed, would there be a bargain, maybe you would have had to offer your life for his, also was it really you that you saw or someone else that wanted to help
+	- [ ] [[Sai Nailo - (Karl)|Sai]] remembering dream
+		- [ ] connecting the dots, [[Marcus Lianosa|Marcus]] final moments to save you
+		- [ ] You know where [[Marcus Lianosa|Marcus]] did not return from, [[Cael Morrow]]
+			- but then how did you get to [[Bysaes Tyl]]
+			- What went wrong that day and how does it connect to your Research 
+		- [ ] This night you wish for a dream, to maybe talk to your mother but it does not come, the loophole she once had now gone
+	- [ ] Be ready for [[dream]] on [[Vrill, the Moth|Vrill]], could allow, her disconnected not believing whats right or wrong, ending with black liquid and tentacles everywhere
+- [ ] Add big reward for killing [[K'Var the Corrupted|K'Var]], maybe he had a small little hoard
+	- [ ] including [[Curon Flute]]
+	- [ ] 1k-3k gold
+- [ ] talk with alina about chat gpt - absolute no go
+	- be careful to approach in kind way
+- [ ] set day to after downtime!
+- [ ] Alona fucked up counting, only got 29 on DC 30, but was because of [[Ruidium Corruption]]
+	- [ ] correct: should have allowed the staff
+	- [ ] Which overcame the [[Ruidium Corruption]]
+	- [ ] but now has to roll for DC 20 charisma save + auto gain 1 level
+		- redcon: when unraveling time sees herself but then overcome with red veins before returning to the moment
+- [ ] [[Lady of Pain]] or [[Ao, the Overgod]] did not see [[Eve-thra Arryn (Alina)|Eve]]!! (she managed to doge gaze) 
+	- [ ] Could also be [[The Luxon|Luxon]] as in Time dragon helping [[Eve-thra Arryn (Alina)|Eve]] (impersonating future self in that moment)
+- [ ] now have massive plotline between [[Alyxian the Apotheon|Alyxian]] and [[Eve-thra Arryn (Alina)|Eve]] as she has overcome fate itself
+- [ ] [[Melantha (Melli) (Daniel)|Melli]] plans to write hidden messages to party to communicate and to misguide [[K'Var the Corrupted|K'Var]]
+- [ ] [[Maroon 5]] now members of [[Allegiance of Allsight|Allegiance]], and requested access to [[Cael Morrow]]
+- [ ] Maybe look at player contribution and write them in summary
+- [ ] Print NPCs
+- [ ] print Letter for [[Elephant Uproar]] (next [[Cobalt Soul]] mission)
+- [ ] Audio was really good
+	- [ ] Put combined -13db at first slot
+	- [ ] Maybe find a way to put in better limiter and increase overall volume
+- [ ] Maybe put out statement of any sidequest or thing they want to do, to tell me
+
+- [ ] Maybe [[K'Var the Corrupted|K'Var]] has the ability to hide inside [[Vrill, the Moth|Vrill]]'s body!
+- [ ] Complete [[Xal'thul]] statblock!
+
+- [ ] Finish [[Vrill, the Moth|Vrill]] and [[K'Var the Corrupted|K'Var]] OST -> Shadowlord 
+
+- [ ] Letter should not be Signed with I, but rather have giant roman I as background
+
+- [ ] If they get [[ring-of-red-fury-crcotn|Ring of Red Fury]]: Make "bait" copy of their weapon or spell that displays extra damage
+
+- [ ] maybe flesh out more what happened at [[Ruidium research mission|Laftals failed mission]] from outside POV, things they could learn if they asked/searched, other than [[Vrill, the Moth|Vrill]]
+
+
+- [ ] look into beholder lair, maybe have [[Sai Nailo - (Karl)|Sai]] and [[Melantha (Melli) (Daniel)|Melli]] be getting the feeling of "getting followed"

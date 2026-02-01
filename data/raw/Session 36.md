@@ -1,0 +1,254 @@
+
+# Current Threads
+- [[Melantha (Melli) (Daniel)|Melli]] trying to find out why her village got attacked
+	- Will trigger [[Ruidium Corruption]] on a 1 of the d4
+	- [x] Wo killed her Parents?
+	- [ ] Restoring her eye -> [[ersatz-eye-xge|Ersatz Eye]]
+- [[Sai Nailo - (Karl)|Sai]] 
+	- destroying [[Consortium of the Vermilion Dream|Consortium]]
+	- [x] saving/killing his mother?
+- [[Eve-thra Arryn (Alina)]] 
+	- Trigger [[Ruidium Corruption]], if she "fails" (need alona approval)
+	- Spells to find
+		- [[silent-image]] (1)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+- [[Aurora (Jason)|Aurora]]
+	- More [[Arcane Battery]] stuff
+	- [[Chobeg Turen|Chobeg]] dying to [[Ruidium Corruption]] -> now at 1!
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[The Raven Queen, Matron of Death|Raven Queen]] task to end [[Xal'thul]] -> voices get quite and he regains his other half soul
+	- [[Croog Lynn]]
+# Planning
+## Organisatorisches
+
+- [ ] For me: If deadline to stop -> mention it ingame to speed things along for cliffhanger!
+- [x] healing potions
+	- [x] normal: Aurora/Eve
+	- [x] Greater: Vorak/Selene
+
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- random activities
+	- sold sword, got tarot reading
+		- [[Vorak Stormheart (Lars)|Vorak]], big change in the future (for good or bad)
+		- [[Melantha (Melli) (Daniel)|Melli]] finds love emotional
+		- [[Eve-thra Arryn (Alina)|Eve]] has to overcome recent events (emotions) to succeed, has to confront them
+	- Went gambling, good gains!
+		- Found out about [[Lorsh Energy]], the legendary gambler, Legend says he only bet on black, never backing down until he amassed infinite wealth only to lose it on the next bet
+- [[The Proxies of Prolix]] finshed
+	- Went to [[Omnival Library]] and found out information about ring ([[ring-of-red-fury-crcotn|Ring of Red Fury]])
+		- [[Aurora (Jason)|Aurora]] secretly looked for older expeditions
+			- found out previously was lots of people but not many recordings
+			- after event lots of tracking but only [[Allegiance of Allsight]]
+	- Confrontation with [[Lymmle Wist]]
+		- lying about what happened, kicked you out and was getting ready to book it
+		- talked with [[Gryz Alakritos]] then attacked [[Lymmle Wist]]
+			- Eve stopped his suicide attempt twice
+			- [[Vorak Stormheart (Lars)|Vorak]] knocked him unconsious
+			- now he is taken by [[Hands of Ord]]
+				- [[Sai Nailo - (Karl)|Sai]] also wants to talk to him
+- Talk with [[Jamil A'alithiya]]
+	- Talked about [[Xal'thul]] and gave him the tracking orb
+	- Jamil informed them about plans to attack [[Consortium of the Vermilion Dream|Consortium]]
+- Nighttime
+	- found out about [[Ring of Red Fury]] properties, very strong item
+		- [[Selene Noctis (Til)|Selene]] took it
+	- Suddenly [[Vrill, the Moth|Vrill]] appearing and talking to [[Sai Nailo - (Karl)|Sai]]!
+		- or more like "Him" punishing Vrill for what she has done
+		- [[Sai Nailo - (Karl)|Sai]] trying to fight her mother and not hurt her
+		- Went away to get [[jewel-of-three-prayers-awakened-crcotn|Jewel of Three Prayers (Awakened)]]
+			- attacked Vorak, and someone revealed himself to [[Melantha (Melli) (Daniel)|Melli]]
+				- also talking to her
+			- also [[Vorak Stormheart (Lars)|Vorak]] entered next major level of [[Ruidium Corruption]]
+- Endet at
+	- Selene poking out Mellis eye -> ran away (cursed)
+		- tried to influence [[Eve-thra Arryn (Alina)|Eve]] but failed, [[Sai Nailo - (Karl)|Sai]] killed it
+# Start
+- [ ] Decision time (regarding [[Sai Nailo - (Karl)|Sai]] x [[Iwo Zalarre]] talk)
+	- ALLOW, them to skip encounter if they are smart!!
+	- Option 1: Move early, dawn, no prep time (but long rest still allowed)
+		- Will be before Elephant attack, they are still prepping the elephant etc (might unleash in the tavern)
+	- Option 2: Still dusk, if they think she doesnt know anything on attack?
+		- Elephant Attack happens mid day!!! -> suprise rounds etc, Cobalt soul rolls once with disadvantage
+	- Option 3: Mid-day, some time to prep, but lots of civilians
+		- as written, perfectly prepped for elephant attack
+- [x] still any roleplay?
+- [x] Long rest for everyone except [[Sai Nailo - (Karl)|Sai]]
+- [x] [[Vorak Stormheart (Lars)|Vorak]] knows [[Vrill, the Moth|Vrill]] direction!!!
+	- [x] how does the mark look?
+# Timeline / Agenda
+- [x] [[Elephant Uproar]]
+	- [ ] [[Aurora (Jason)|Aurora]] can finish item only with devils bargain -> [[Chobeg Turen|Chobeg]] gains another RC level
+	- [x] [[Encounter - Confrontation with K'Var]]
+	- [x] [[The Judge]] will approach [[Selene Noctis (Til)|Selene]]
+
+- [ ] [[Downtime in Ank'Harel]] #3
+	- [ ] Ask what everyone want to do (sidequest maybe)
+		- [ ] Maybe invitation from [[J'mon Sa Ord]], 
+	- [ ] When aurora is building, ask what she does etc (more roleplay)
+	- [ ] [[Sai Nailo - (Karl)|Sai]] wants to interrogate/talk to [[Lymmle Wist]]
+		- Getting held at [[Ord Bastion]]!
+- [ ] Random Encounter
+	- [ ] Somebody alone gets ambushed by three [[thug|Thugs]]
+		- likely only night
+		- say they are from [[The Veil]] but aren't probably
+## Night Time 
+- [x] Be ready for [[dream]] on [[Vrill, the Moth|Vrill]]
+	- [x] could allow, her disconnected not believing whats right or wrong, ending with black liquid and tentacles everywhere
+## Loose Threads
+- Magnet Lore:
+	- magnets sometimes don't work around the [[Cerulean Palace]]! 
+		- (400-600m range) 
+		- Multiple times a day -> more towards the evening
+		- its the [[cobalt-golem-tdcsr|Cobalt Golem]] ability -> have to activate it once per day for maintenance reason
+- [ ] Nobody knows yet that the first [[The Luxon|Luxon]] was discovered after a certain person killed himself
+- [ ] [[Vorak Stormheart (Lars)|Vorak]] attracts [[Ethereal Plane]] creatures (due to half soul)
+- [ ] Door in [[Ank'Harel]] (up to Til to decide where it is)
+	- Has symbol on and she needs to "complete it" (using finger) to open connection
+	- Random family is inside who got paid to have symbol there
+## NPCs
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 25g = 250gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [r] Tracking Orb, points to [[Xal'thul]] after he got his body back!!!, currently pointing nowhere
+- [r] Encoded Sheet of paper found at [[Old Man Kruuk's]]
+	- High DC for decoding! -> transactions, delivers, no names tho
+# Summary
+- Early day business
+	- Plan to attack mid day
+	- Melli x Sai talk
+		- Talking about being ready to kill Vrill 
+		- Sai giving melli flute, pretty 
+			- [ ] Does Karl want to reveal spell...or wait for another time?
+	- Prep at [[Bibbity Bobbity]] place
+- Attack on the Consortium ([[Elephant Uproar]])
+	- [ ] Rolls
+		- [[Larthul the Wolf|The Wolf]] 10 -> 14 with the help of Jamil
+		- [[Aradrine the Owl|The Owl]]: 10
+		- [[Dendarron the Sun Bear|The Sun Bear]]: 12
+			- he should be responsible for money now
+		- [[Khelkur the Gull]]: 19 
+			- Believes in betrayer god
+	- Attack
+		- Two [[ruidium-elephant-crcotn|Ruidium Elephant]]s summoned!!! -> chaos, Aurora creating opening in [[First Eclipse (Taverne)]]
+			- managed to kill one, the other one was handled by [[Hands of Ord]] (but with casualties)
+		- Dwarf summoning KRONK (stone), to help
+		- [[Vrill, the Moth|Vrill]] gathering [[Melantha (Melli) (Daniel)|Mellis]] blood for experiments because she has ended their connection
+		- One poor souls shitting his pants because [[Vorak Stormheart (Lars)|Vorak]] decapitated two and [[Aurora (Jason)|Aurora]] dropkicked another to death
+		- In the end capturing both [[Satzrak Runestrider]] and Dwarf alive 
+			- [ ] Got taken by [[Hands of Ord]]
+	- Investigation
+		- Letter on the dwarfs body, revealing he is called [[Khelkur the Gull|Khelkur]], and was likely one of the leaders of the [[Consortium of the Vermilion Dream|Consortium]]
+		- Paper that has flow of money
+			- shows funding in [[Sentinels of Memory]]
+			- [i] Add paper signed by sun bear!! 
+	- Secret Basement, with secret elevator to the Sewers
+- Sewers
+	- Found a random group of mercenaries, rather weak, that supposedly had a "bodyguard" to help them kill [[Main Party|NSFW]]
+		- suggesting one of the [[Consortium of the Vermilion Dream|Consortium]] hired them 
+	- Poor [[Ludwig]] got hit by [[Eve-thra Arryn (Alina)|Eve]] firebolt to the face, then killed by [[Selene Noctis (Til)|Selene]] to get some answers (with speak with dead spell)
+	- Let the leader [[Ulrich]] live and escape (same as one more)
+	- Room with "bodyguard" was empty, clean, very clean and smelled like Zitronen
+- [[K'Var the Corrupted|K'Vars]] Hideout 
+	- entered through a deep hole 
+		- haunted by strange visions or reality altering effects
+	- bypassed [[wall-of-force]] with [[Melantha (Melli) (Daniel)|Melli]]s help
+	- Went straight towards [[Vrill, the Moth|Vrill]]
+		- [ ] Killed [[Ella]], who was forced to be here
+		- [[Eve-thra Arryn (Alina)|Eve]] discovering a hole full of bodies in another path (with Gojo)
+	- [[Melantha (Melli) (Daniel)|Melli]] uncovering the truth behind her parents death, a experiment that in the end didn't work
+		- and the first who where selected where [[Question]] and [[Answer]]
+- THE BIG FIGHT
+	- P1 -> Beholder reveal, hyper focused being that is not happy that you want to stop his experiments
+		- Everyone trying to understand wtf is going on
+		- Difficult to damage him with flying + holding back spellcasters
+		- [[Aurora (Jason)|Aurora]] giving [[Vorak Stormheart (Lars)|Vorak]] FLY to turn the tide
+		- Karl deciding that hugging [[Vrill, the Moth|Vrill]] would be the key to "freeing her"
+	- P2 -> [[K'Var the Corrupted|K'Var]] using the power of his dreams, summoning even more instruments to his aid
+		- [[Sai Nailo - (Karl)|Sai]] using his last spell, 4th level moonbeam on himself and [[Vrill, the Moth|his Mother]]
+			- to free her and send her to the same realm as his Father 
+			- In her final moment she did not shed a tear but shared a simple image
+				- not of Lafthal, but Sai and her hugging. 
+		- Failed the Skill challenge leading to a more difficult fight, including 3 [[spectator]]s
+			- + [[K'Var the Corrupted|K'Var]] healing a lot
+		- Everyone locking in and with [[Selene Noctis (Til)|Selenes]] insane nat 20, 50+ damage + [[Vorak Stormheart (Lars)|Voraks]] punches prevailed
+			- [ ] But loosing [[Vorak Stormheart (Lars)|Vorak]] to his most powerful beam (that he used only once rip)
+- Session start
+	- the moment [[K'Var the Corrupted|K'Var]] died, the "constant watching" was gone as well
+		- but his essence escaped to the [[Far Realm]] [[K'Var the Corrupted|K'Var]] 
+
+- [ ] Vorak +1 [[Ruidium Corruption]]
+- [ ] (add to pre session) Explain Skill challenge again
+	- [ ] Its about achieving a certain goal as a group
+		- [ ] nobody can succeed on their own
+	- [ ] its not about picking your best modifier and rolling with it, its about creating a narrative moment aided by the dice rolls
+		- [ ] the more your action aligns with the narrative, or RP the easier the DC / maybe advantage
+	- [ ] Example [[K'Var the Corrupted|K'Var]], everyone thought about just the end goal
+		- [ ] could also helped each other, spell or otherwise boosting forward 
+- [ ] mention in recap:
+	- [ ] Melli got hit with the same static feedback as Eve when she tried to read her thoughts
+	- [ ] [[Vorak Stormheart (Lars)|Vorak]] couldnt use the amulet on himself, as it is only meant for others....why is it like this
+- [ ] Have a way to get out of the Lair?
+	- [ ] maybe not
+- [ ] Third path contains the cages with trapped people, red clothing nearby
+- [ ] Main room still has books to loot! or anywhere else
+	- [ ] Sai finds Tagebuch of [[Vrill, the Moth|Vrill]]:
+	- [ ] dated, stuff that happened before she met K'Var, research about Ruidium
+	- [ ] maybe mention relationship between her and marcus
+	- [ ] end with smth that new members are coming sharing interest, mostly good
+	- [ ] only last part is with K'Var, then the notes end 
+		- [ ] doesnt want [[Sai Nailo - (Karl)|Lafthal]] to release his research
+- [ ] [[Bibbity Bobbity]] secret room:
+	- way too large bed for one dwarf
+	- lots of empty regale, ständer etc
+	- Trap door under the bed
+		- secret stash? -> infernal runes, has [[Black diamond + Scroll]] scroll in it 
+- [ ] Wall of force item needs 4 actions total (one for each needle), and has limited uses, unknown rarity, maybe 
+- [ ] [[Aurora (Jason)|Aurora]] got 8x 25g of [[Ruidium]] crystals
+- [ ] [[Vorak Stormheart (Lars)|Vorak]] afterlife scene...epilogue viewing his accomplishments, the warrior who never backed down
+	- Since they have to wait at least 24h: let him experience this afterlife world, until it fades to memory of the attack
+	- [ ] Play [HE COMES BACK AGAIN AND AGAIN](https://www.youtube.com/watch?v=0TVztswfde8) ?
+		- "normally when people die you play a sad ost, but not for vorak 
+		- [ ] Maybe prep his most Epic moments (HDWTDT) etc
+		- [ ] Could also only play OST if he comes back...could make quantum and play regardless
+			- [ ] "The one who does not give up, does not yield, never bends a knee...his task is not yet fulfilled"
+			- [ ] In this moment the divine magic was only spark...as he himself rages himself back to being alive
+				- [ ] You remember back...back to when your parents died before you...you remember the feeling you had....THE RAGE that consumed you....a small memory returns to you...
+				- [ ] That you werent saved that day...no one protected you...you died with the next attack...
+				- [ ] But the rage carried on...it carried on...you see a glimpse of the champion nodding...and then waking again...from this moment on having silver eyes and constant voices that haunt you to this day....
+	- [ ] Maybe ask first if he accepts that he in fact lost and died or if he refuses to accept that fact
+		- [ ] "What next step will vorak take, a step towards divinity leaving his rage behind or will he go back to that one moment where he lost everything, too his roots as a Stormheart"
+		- [ ] Or accept death as this final moment 
+		- [ ] Or reject it and take the full help of your friend
+			- [ ] maybe feat that gives bonus when getting the "help" action
+			- [ ] or "For my friends" 
+	- [ ] Could give custom ability "Rage beyond death"
+		- "While you’re raging, having 0 hit points doesn’t knock you unconscious.  You can't die until your rage ends, and you die then only if you still have 0 hit points."
+		- maybe any additional hit increases RC by one?
+	- [ ] If he chooses aceptence he can swap is babarian class for paladin with strength as modifier
+
+- [ ] Complete [[Xal'thul]] statblock!
+
+- [ ] Maybe [[The Judge]] wants to kill his brother (Leader of [[The Veil]]) -> get control, he is doing stupid things
+
+
+- [ ] Next Session 0:
+	- [ ] Want a party working with each other not against
+	- [ ] I want that each players know what the others intentions are with the character, its easier to fit yours in. Not like last time where everyone is isolated
+
+
+- [ ] Unused [[Aboleth (Alyxian)#Telepathic Messages]] go to dialogue in [[Netherdeep]]!!
+
+- [ ] If they kill [[Vrill, the Moth|Vrill]] and cant get the info on [[Ruidium research mission|Laftals failed mission]]:
+	- [ ] Have [[Marcus Lianosa|Marcus]] have his Journal (or somebody elses) in the [[Netherdeep]]
+
+- [ ] Maybe put out statement of any sidequest or thing they want to do, to tell me
+- [ ] Could design "We lost" moment
+	- [ ] maybe the judge is out to get his family back

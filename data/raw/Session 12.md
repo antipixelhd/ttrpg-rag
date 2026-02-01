@@ -1,0 +1,139 @@
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Who is Lafthal?
+	- encounter with [[Aloysia Telfan]]
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai backstory
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have Rapier be Vestige -> evolves to healing -> to dimension rapier
+- Kenshi
+	- Final Battle Dream
+	- Finds out he is consecuted
+	- Later: Getting power temptation vision (maybe after retrieving the blade)
+- [[Eve-thra Arryn (Alina)]] 
+	- Will meet [[Vaelistra Zaphyr]]
+		- Find out Plans of [[Betrayers rise]] and [[Xal'thul]]
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [[Eve-thra Arryn (Alina)|Eve]] ring
+	- [[stone-of-good-luck]] (owned but not repaired)
+		- Gem Auge fehlt, emerald 200gp
+	- Stormrider Boots (owned but not repaired)
+		- Nur die Metallsohle ist übrig
+		- Needs to attach leather
+		- 2x DC 20 Tinkering check to activate
+			- Needs Infusion slot to power
+			- Further: Find element to infuse for damage 
+- [[Alyxian the Apotheon]]
+	- Talking with researchers and [[Betrayers rise]] vision
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- Raven Feather -> noticed by the Raven queen
+	- If he dies he resurrects (once)
+	- He remembers the engravings on [[Blade of broken mirrors]] which are the same as the Necromancer had in his past 
+
+# Session Start
+- After the fight with the demons (Ruins of Sorrow), you set out toward [[Bazzoxan]].
+	- [[Kronin Duendalos]] helped you and recommended you to [[Verin Thelyss]].
+	- You are now officially known as NSFW.
+- First steps into [[Bazzoxan]], a run-down military city of the [[Aurora Watch]].
+	- Surprised by fleshy demons with many mouths and eyes.
+	- Ayo/Dermot/Irvan/Maggie made it to safety.
+	- You also barely managed to reach safety and waited until the danger passed.
+- First night in the Ready Room, a simple barn.
+	- Aurora inspected the metal gauntlet and put it away again.
+	- [[Sai Nailo - (Karl)|Sai]] had a dream of two elves he saw underwater.
+- The next day, you slept until noon and then headed toward the barracks.
+	- You found a dwarf child, [[Sylphie]], in an alley, crying while holding her father’s helmet, and brought her to the barracks.
+	- You spoke with the Taskhand [[Verin Thelyss]], who is responsible for all of [[Bazzoxan]].
+		- He asked about your intentions and rewarded you with 1200 gold for your help at the [[Ruins of Sorrow]].
+		- He explained that 50 years ago Abyssal Rifts were discovered in the [[Betrayers rise]] and that it is his and the [[Aurora Watch]]’s duty to stop the demons emerging from the [[Betrayers rise]].
+		- He asked you to do him a favor and investigate what exactly the foreign researchers in [[Bazzoxan]] are planning:
+			- An expedition of the [[Cobalt Soul]] is currently inside the [[Betrayers rise]] with an escort from the [[Aurora Watch]] to study battles of the Calamity that took place in its halls. One researcher turned back early and returned.
+			- An elf named Aloysia from the [[Consortium of the Vermilion Dream]], who has repeatedly tried to bribe soldiers of the [[Aurora Watch]].
+			- A [[Prolix Yusaf|Prolix]] from the [[Allegiance of Allsight]], who supposedly supports the arcanists of the [[Aurora Watch]] searching for ways to seal the Abyssal Rifts in the [[Betrayers rise]]. However, a specialist in dimensional rifts from [[Rosohna]] is also currently in [[Bazzoxan]], and she has never heard of a [[Prolix Yusaf|Prolix]].
+	- You took part in a shooting contest against an orc. Kenshi won, but Vorak hit every shot.
+		- You were also offered the chance to compete further against members of the [[Aurora Watch]] (wrestling and sparring) and to eat for free in the canteen.
+- You made your way back to the central watchtower and met [[Aurora (Jason)|Aurora]] again, who was just coming from the [[Ready Room]].
+	- (The plan was to stop by the [[Infirmary]].)
+	- [I] You see that farther to the north, a long, massive staircase has been built into the mountains, leading up to the enormous gates of the [[Betrayers rise]].
+# Planning
+### Organisatorisches
+- [ ] Tension in party is fine but it should get resolved 
+---
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+## Night Time 
+
+## Loose Threads
+- [ ] [[Bazzoxan]] - [[Betrayers rise]] Lore, (Seat of Demon Lords + was called [[Bazzoxan]])
+
+- [[Sai Nailo - (Karl)|Sai]] - [[Aloysia Telfan|Aloysia]] outfit
+	- also remembers the extremely red coloring of [[Consortium of the Vermilion Dream]] clothing -> same clothing as the person he saw in Ruins of Sorrow Vision
+		- "Dir kommt die Kleidung bekannt vor, du hast sie schon einmal gesehen...aber wo...woher kennst du sie..
+		- "Gehst all deine Erinnerung durch..bis...das seltsam, es ist die selbe wie die Kleidung die die Person in der Ruins of Sorrow vision gesehen hast (in der Höhle)"
+## NPCs
+- [[Kronin Duendalos]]
+- [[Sylphie]] -> Father [[Aderik]]
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] Red Crystal 50g = 500gp
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- Stormrider Boots (owned but not repaired)
+	- Nur die Metallsohle ist übrig
+	- Needs to attach leather
+	- 2x DC 20 Tinkering check to activate
+		- Needs Infusion slot to power
+		- Further: Find element to infuse for damage 
+---
+- [r] Metallische Brille -> [[eyes-of-the-eagle|Eyes of the Eagle]] 
+- [r] [[Black Box Puzzle]] 
+# Summary
+- [[Infirmary]]
+	- Kronin geredet (Eve noch nicht)
+		- [ ] Add Scenario where he shows up last time to say goodbye
+	- Bautha geredet
+	- [ ] Noch nicht bei Rivals
+- [[Wand der Unvergessenen]]
+	- [[Naevyn Tasthar]] erinnerungsstück abgegeben
+		- [ ] Will die soon, add someone who tells the bad news
+	- [[Galsariad Ardyth|Galsariad]] gesehen der bedrückt war
+- Herausgefunden das [[Aloysia Telfan|Aloysia]] einen Hobgoblin mit einem Roten Krystal bestochen hat
+- [[Betrayers rise]]
+	- Durchgelogen
+	- [[Kenshi Betrayers Rise Vision]] 
+		- He resisted, mention that his past body also resisted to fight
+		- Spotted a escape
+		- Saw Alyxian and shortly before clashing blade before then losing "connection"
+		- Memory resumed after the fighting ended, saw nobody else moving about, he exited the city relieved, finally to be free
+		- To atone for his sins he killed himself but something tethered him to the consuming darkness eating what remained. Was surrounded by thousands of white sparks that went into the darkness
+		- Instead of drowning he got pulled up into a grey silvery light where he was alone then saw himself getting born
+	- Zurück zu Verin gebracht
+- [[Verin Thelyss]]
+	- Consecution und Anamnesis erklärt
+	- Gewartet bis Kenshi wach war und fragen gestält
+	- Kenshi lied to Verin -> dont know about amnesis-> dragon rider
+	- Wenn Verin Recht hat dann hat Kenshi ein leben davor gehabt 
+	- Requested anamnesis lady
+		- [ ] Ich spüre eine bindung zum Luxon aber er hat kein consecution ritual vollführt
+- [[Foghome the Gardener]]
+	- Steinschrift gelesen und info ausgetaucht
+	- [ ] Wissen noch nicht das es der "Jewel of three prayers" ist
+	- Extrem wichtiges Amulet von einem Gott erschaffen
+- [[Question]]
+	- Notitzbuch gezeigt -> Eve Amulet erkannt
+	- Zum ende vom Gespräch [[Aloysia Telfan|Aloysia]] gesehen die zugehört hat
+		- [ ] Weiß vom interesse an [[Betrayers rise]], noch nicht das Juwel gesehen
+- Foghome this knight vision
+- Ended at aloysia identification

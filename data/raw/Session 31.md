@@ -1,0 +1,209 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Now has partial True sight, [[K'Var the Corrupted|K'Var]] sees through her
+	- Wo killed her Parents?
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai 
+	- finding out what truly is written in his book
+	- [[Moonweavers Touch]]
+- [[Eve-thra Arryn (Alina)]] 
+	- Spells to find
+		- [[silent-image]] (1)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- [[Aurora (Jason)|Aurora]]
+	- Talk with [[Chobeg Turen|Chobeg]]
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[The Raven Queen, Matron of Death|Raven Queen]] task to end [[Xal'thul]] -> voices get quite and he regains his other half soul
+	- [[Ank'Harel]] has Cleret Order members 
+	- If he dies might resurrect (once)
+	- Shield could transform into Vestige (Honors Last Stand)
+- [[Kenshi Takahashi (Til)|Kenshi]]
+	- Path of [[The Luxon]] or different one?
+# Planning
+## Organisatorisches
+
+- [x] Say: "In honor for the [[Kenshi Takahashi (Til)|Kenshi]] ressurrection he gets a new mini"
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- [[Encounter - Vaelistra and Callimar]] continued
+	- Vaelistra and Callimar survived because of [[death-ward]]
+		- But then [[Callimar Despana|Callimar]] spoke of her being important and she transformed into a [[drider]]
+		- Later [[Callimar Despana|Callimar]] died without fear and remorse, 
+	- [[Kenshi Takahashi (Til)|Kenshi]] death through spider form, Vaelistra taking [[Blade of broken mirrors]] (dagger)
+		- very emotional death
+		- Kenshi talking to his past self, "Der Zyklus wurde beendet"
+	- [[Eve-thra Arryn (Alina)|Eve]]/[[Aurora (Jason)|Aurora]]/[[Vorak Stormheart (Lars)|Vorak]]/[[Galsariad Ardyth|Galsariad]] chasing Vaelistra who runs away with weapon
+		- Eve refuses to join her mother and gets shot
+		- [[Galsariad Ardyth|Galsariad]] finished the job
+	- [[Sai Nailo - (Karl)|Sai]] resurrects [[Kenshi Takahashi (Til)|Kenshi]]
+		- Hits 11 DC exactly!!!
+		- very emotional display making everyone cry
+		- Sai hat etwas geschafft was kein cleric vor ihm vollbracht hat...a secret that will be revealed in time
+	- Owner of [[Schoß der Götter|Lap of the Gods]] and [[Hands of Ord]] show up to detain everyone
+- [[Ord Bastion]] same day
+	- detained and questioned by [[Ironhand Sem]]
+	- revealed everything what happened, left out [[Galsariad Ardyth|Galsariad]]
+	- Only 4 helped convince Sem, which lead to [[Iwo Zalarre]] having to help out, which will be the last time
+	- Saw [[Larthul the Wolf|The Wolf]] after his questioning was done
+- Talks in [[Temple of the Mentor]]
+	- [[Iwo Zalarre]]
+		- next mission, going to [[Life Dome]] and impersonating [[Maroon 5]] to find out about rumours of a second entrance to [[Cael Morrow]]
+		- And investigating a Baker who might be connected to the black market
+	- [[Jamil A'alithiya]]
+		- revealed everything what happened
+		- Jamil told them about Arms of the Betrayer
+		- Also that potentially even before the calamity somebody used the name who also got executed
+- Cooldown in [[Harried Mongoose]]
+	- magic item investigation, big armor 
+	- [[Eve-thra Arryn (Alina)|Eve]] securing the dagger in her pocket dimension and cuddling with [[Kenshi Takahashi (Til)|Kenshi]]
+- [[First Eclipse (Taverne)]]
+	- Split up with [[Sai Nailo - (Karl)|Sai]] having warp anchor
+	- Saw [[Larthul the Wolf|The Wolf]]
+	- Insane conversation with [[Vrill, the Moth|Vrill]], [[Sai Nailo - (Karl)|Sai]] being angry
+	- Traded [[Ruidium]] for [[Lafthal's Research]]
+	- [[Sai Nailo - (Karl)|Sai]] asking about his parents triggered something and [[Vrill, the Moth|Vrill]] took her own Eye
+		- Mother reveal, reveal she always wanted to talk to him, "He stopped her"
+		- Talked about "Him", "Him being too strong", "Nicht so viel Aufmerksamkeit oder er versteckt sich"
+		- Then [[Vrill, the Moth|Vrill]] teleported away with "Him"
+# Start
+- Ended at
+	- [[Vrill, the Moth|Vrill]] teleporting away with someone
+	- [[Melantha (Melli) (Daniel)|Melli]] down, [[Sai Nailo - (Karl)|Sai]] untouched
+		- [i] A thought: was she ever important or relevant, or was everything a setup for this Moment
+	- Question remains, who really are your parents, and who is "Er"
+	- [x] Redcon insight check with advantage for [[Melantha (Melli) (Daniel)|Melli]]: 
+		- Maybe write Start on DC: Melli is unique in this group that she is  one of the few who knows true parental love. She keeps running away from the thought of facing what happened to her parents but deep down (maybe unknowingly) she longs for them and wants them back, wants their love back...So for a moment, when Sai hugged Vrill you see it in her eye, the look of a loving mother to her child. 
+	- [[Aurora (Jason)|Aurora]] opening the door to [[Norbeg’s Arcane Assembly]] and seeing [[Chobeg Turen|Chobeg]]
+	- [x] Ask: Where do we jump in?
+	- [ ] If [[Sai Nailo - (Karl)|Sai]] /Karl does his vision thing and sees dead bodies etc
+		- [i] Let Amulet glow, for a moment, but nobody realizes! 
+	- [ ] [[Larthul the Wolf|The Wolf]] is gone when they go downstairs (Red Herring)
+# Timeline / Agenda
+- [x] [[Chobeg Turen|Chobeg]] x [[Aurora (Jason)|Aurora]]
+- [x] [[0_Cobalt Soul Story Track|Cobalt Soul Story Track]] 
+	- [x] [[Life Dome]]
+	- [x] [[Kruuk]]
+- [ ] [[Blade of broken mirrors]] Seal is Broken -> [[Vorak Stormheart (Lars)|Vorak]] might know
+	- Can be destroyed a release [[Xal'thul]] at any time
+- [ ] [[Lafthal's Research]]
+	- [ ] [[Sai Nailo - (Karl)|Sai]] realizes "Lianosa" is anagram for "Sai Nailo"
+- [ ] [[Kenshi Takahashi (Til)|Kenshi]] goodbye and [[Xal'thul]] teaser
+- [ ] [[Sai Nailo - (Karl)|Sai]] Dream in the night/If he meditates!!!!
+- [ ] [[Aurora (Jason)|Aurora]] has encounter if she goes alone 
+	- [[Consortium of the Vermilion Dream|Consortium]] want her to build something with [[Ruidium]]
+- [ ] Random Encounter
+	- [ ] Somebody alone gets ambushed by three [[thug|Thugs]]
+		- likely only night
+		- say they are from [[The Veil]] but aren't probably
+## Night Time 
+- [ ] [[Sai Nailo - (Karl)|Sai]] Dream!
+- [ ] [[K'Var the Corrupted|K'Var]] could come back to hurt [[Sai Nailo - (Karl)|Lafthal]] to punish [[Vrill, the Moth|Vrill]]!
+	- could reveal his human form
+	- Wants the Jewel, remembers [[Aloysia Telfan|Aloysia]] calling it a key
+		- will inspect it but see no value as it carries no [[Ruidium]]
+## Loose Threads
+- If [[Ayo Jabe|Ayo]] loses the spear!
+	- [[Xal'thul]] will demand [[Kenshi Takahashi (Til)|Kenshi]] to destroy the spear
+	- [[Xal'thul]] will force a Eldritch smite and will cast [[Banishing-Smite]] himself 
+- [i] [[Aurora (Jason)|Aurora]] x [[Vrill, the Moth|Vrill]] / [[K'Var the Corrupted|K'Var]] encounter
+	- [i] maybe even [[K'Var the Corrupted|K'Var]] who is interested in her inventions 
+		- [i] Wants a way to have [[Ruidium]] items without the corruption
+	- [i] Will stand in dark corner, face not visible
+	- [i] -> if light shines could activate anti magic or charm her! 
+- Magnet Lore:
+	- magnets sometimes don't work around the [[Cerulean Palace]]! 
+		- (400-600m range) 
+		- Multiple times a day -> more towards the evening
+		- its the [[cobalt-golem-tdcsr|Cobalt Golem]] ability -> have to activate it once per day for maintenance reason
+- [ ] Nobody knows yet that the first [[The Luxon|Luxon]] was discovered after a certain person killed himself
+- [[Kenshi Takahashi (Til)|Kenshi]] leaving the Party
+	- [ ] Has to leave [[sending-stones]] behind!
+	- [ ] Maybe [[Galsariad Ardyth|Galsariad]] + [[Ayo Jabe|Ayo]] + [[Dermot Wurder|Dermot]] is present
+		- Could ask about [[Bazzoxan]], and why he did not approach him about [[Vendrin und Kiara|Kiara]]
+		- He waited for him at the [[Wand der Unvergessenen]]
+	- [ ] Sendoff, after he leaves [[Ank'Harel]]
+		- [i] Welchen Moment hat [[Kenshi Takahashi (Til)|Kenshi]] am meisten verändert, welche Erinnerung will er nie vergessen und denkt sogar jetzt daran.
+		- [i] Gibt es etwas was [[Kenshi Takahashi (Til)|Kenshi]] bereut nicht getan oder gesagt zu haben. 
+		- "Kenshi ist einen weiten Weg gekommen. Anfangs unwissend, blind der stimme folgend die im Stärke verspricht. 
+		- Du hast den ""Fluch"" gebrochen der dich an das Luxon bindet, der erste Schritt um [[Xal'thul]] zu befreien.
+		- Dann hast du [[Xal'thul]] selbst getroffen, einen neuen Pact mit ihm geschlossen und ihm die ganzen Seelen gegeben die er auf dem Weg gesammelt hat. 
+			- Alles nur um den [[Betrayers rise]] zu überleben und die um dich zu schützen. Doch auch das war genau das was er wollte.
+		- Du hast Erinnerungen von einem Vergangen Ich gesehen, die mehr Fragen offen gelassen haben anstatt sie zu beantworten.
+			- Und zuletzt hast du dich noch einmal getroffen, er sprach von einem "gebrochen Zyklus", das niemand mehr von euch manipuliert wird, aber das es zu viel gekostet hat
+		- [!] Play patron theme (bottom left)
+		- Die Tage vergehen, die Verbindung zu [[Xal'thul]] ist gebrochen, und doch wird [[Kenshi Takahashi (Til)|Kenshi]] von der Dunkelheit nicht losgelassen...
+			- Eines Tages wird er realisieren welchen Preis er gezahlt hat, was die Worte von seinem Vergangen Ich bedeuten...
+			- Eventuell ist es der Tag an dem sein Herz komplett aufhört zu schlagen, vielleicht aber auch schon früher. 
+			- Der Pact ist erfüllt und wenn ihn niemand aufhält, wird der Hope Devourer wieder Auferstehen und die Epoche des Endes einleiten
+## NPCs
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 25g = 250gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [r] Silvered Longsword (worth 750-1000g)
+- [r] Tracking Orb, points to [[Blade of broken mirrors]] 
+# Summary
+- [[Chobeg Turen|Chobeg]] x [[Aurora (Jason)|Aurora]] reunion, revealing stuff about potential parents
+- [[Melantha (Melli) (Daniel)|Melli]] x [[Sai Nailo - (Karl)|Sai]]
+	- Sai creating illusion and melli running away, being too scared
+	- [ ] [[Sai Nailo - (Karl)|Sai]] / Karl remembered being thrown overboard or being on a ship, everyone fully thinks [[Sai Nailo - (Karl)|Sais]] past self is evil. Should plan emotional reveal dialogue for Vrill!
+	- Sai felt a hand on his cheeks (at least he thinks that)
+		- [ ] Was connection to [[Marcus Lianosa]], forshadowing for [[Encounter - Xal'thul release]]
+- [ ] [[Melantha (Melli) (Daniel)|Melli]] never answered if she wants revenge (to [[Vorak Stormheart (Lars)|Vorak]])
+- [[Search the Life Dome]] mission
+	- found no entrance to [[Cael Morrow]]
+	- got attacked by three [[invisible-stalker]], that got created by somebody and also had a specific mission
+		- [ ] people think its [[Larthul the Wolf|The Wolf]]
+	- Got information about another Faction, the [[Sentinels of Memory]]
+	- [ ] solve confusion created by [[Maroon 5]] being there as well!!
+- [[Half-Baked Scheme]], [[Old Man Kruuk's]] place
+	- scouted everything, found some kind of coded sheet
+		- [ ] could be transaction, high DC for decoding
+		- enough to reveal his dealings to [[Cobalt Soul]]
+	- [[Ashann]], arrived and betted against [[Kenshi Takahashi (Til)|Kenshi]] and [[Vorak Stormheart (Lars)|Vorak]]  for a [[Ruidium Staff]]
+		- lost because of [[Warp Anchor]], and attacked
+		- [[Kruuk]] booked it after taking everything
+		- [[Sai Nailo - (Karl)|Sai]] annahilated her right upper side, insta killing her
+	- [[Kruuk]] encounter
+		- took off all clothes to prove he had no money
+		- but they still captured him, [[Melantha (Melli) (Daniel)|Melli]] charm revealed gems
+		- also mentioned secret hideout
+- Ended at
+	- [[Eve-thra Arryn (Alina)|Eve]] swapping [[Blade of broken mirrors]] for [[Ruidium Staff]] in pocked dimension 
+		- [ ] [[Xal'thul]] spoke to followers, mentioning pocked dimension
+		- [ ] if they never take it out again, will be ambushed by followers
+	- when [[Melantha (Melli) (Daniel)|Melli]] mentioned [[The Veil]], a spell was cast and [[Kruuk]] became retarded
+		- spell was [[feeblemind]] but now way to recover unless healing!!
+	- Some glyph or symbol disappeared from one of the doors and was now open
+		- [[Vorak Stormheart (Lars)|Vorak]] remembering the symbol and carving it into wood bedroom door
+		- [ ] Was Raute, in 3d basically
+- [ ] maybe "worst" possible outcome with [[Iwo Zalarre]] is that they get acces to [[Cael Morrow]] and more missions, but cant use the name [[Cobalt Soul]] for themselves
+	- [ ] other possibility is angering [[Jamil A'alithiya]] as well
+- [ ] Secret place [[Kruuk]] mentioned is north in [[Alluvium District]]
+	- secret phrase when asked: "Willkommen zur anderen Seite"
+	- he also mentioned he sold a celestial ones
+- [ ] [[The Veiled Five]] or [[The Veil]] appeared to silence [[Kruuk]]
+	- lore would be they listened in to potentially save him, but he mentioned [[The Veil]]
+	- or it was enchantment in room that triggered (thats what everyone is thinking rn)
+	- Til did not get the big reveal 
+- [ ] Level up after long rest!
+- [ ] potential lore?
+	- [[Alyxian the Apotheon|Alyxian]] could be the one who took [[Sai Nailo - (Karl)|Lafthal]] memories but saved him
+	- first one he came in contact with but punished him, probably not that tho
+- [ ] [[Kenshi Takahashi (Til)|Kenshi]]: define past self influence in the future story
+- [ ] next time [[Vorak Stormheart (Lars)|Vorak]] goes pitfighting (downtime), should find more about [[Scarbearers]] and maybe see blood magic being down by their head gladiator 
+
+
+- [ ] maybe flesh out more what happened at [[Ruidium research mission|Laftals failed mission]] from outside POV, things they could learn if they asked/searched, other than [[Vrill, the Moth|Vrill]]
+- [ ] during next downtime, [[Maroon 5]] will steal from [[Allegiance of Allsight|Allegiance]] to get money to buy [[Irvan Wastewalker|Irvan]] the prosthetic
+- [ ] Kenshi new outfit mini? -> [[Selene Noctis (Til)|Selene]] mini!
+
+- [ ] look into beholder lair, maybe have [[Sai Nailo - (Karl)|Sai]] and [[Melantha (Melli) (Daniel)|Melli]] be getting the feeling of "getting followed"

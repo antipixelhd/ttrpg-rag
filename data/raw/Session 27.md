@@ -1,0 +1,206 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- [x] [[K'Var the Corrupted|K'Var]] injected part of him into her
+	- Wo killed her Parents?
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai 
+	- finding out what truly is written in his book
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have [[Sehanine, The Moon Weaver]] upgrade the rapier -> evolves to healing -> to dimension rapier
+		- [[Moonweavers Touch]]
+- [[Eve-thra Arryn (Alina)]] 
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [x] [[stone-of-good-luck]] (owned but not repaired)
+	- [x] Stormrider Boots (repaired)
+		- [x] needs small runic part repaired (in [[Ank'Harel]])
+		- [x] maybe decide between attunement and own slot
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[Ank'Harel]] has Cleret Order members 
+	- If he dies he resurrects (once)
+- [[Kenshi Takahashi (Til)|Kenshi]]
+	- Path of [[The Luxon]] or different one?
+# Planning
+## Organisatorisches
+- [x] if it comes up [[Sai Nailo - (Karl)|Sai]] doesn't know how old he is or was!! -> was at least 15 when he woke up
+- [ ] Guide for improvising
+	- Never say straight "No", rather do "no but"
+		- casually think about it, 
+		- good guideline for roleplaying with each other
+	- Example: Me saying no to Brunnen but yes there was a bucket near
+
+- [x] Mention to watchout for lars wanting to talk, prompt his ass!!!
+
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Saw [[Alyxian Visions#Beating Xal'thul|Alyxian vs Xal'thul]] Vision
+	- Saw Alyxian, after he gained the second blessing, giving him hope that everything will go well
+	- Him beating [[Xal'thul]]
+	- And just before the end [[Xal'thul]] calling out but was let down and nothing happened
+		- Out of character reveal, why [[Xal'thul]] wants [[Kenshi Takahashi (Til)|Kenshi]] soul and did not like the grey light of [[The Luxon]]
+- [[Encounter - Fighting Xal'thul and Kenshi]]
+	- [[Xal'thul]] took opportunity when [[Sai Nailo - (Karl)|Sai]] was gone, [[Aurora (Jason)|Aurora]] weak and [[Kenshi Takahashi (Til)|Kenshi]] emotionally unstable
+	- [[Vorak Stormheart (Lars)|Vorak]] went for them grabs, knocked out [[Kenshi Takahashi (Til)|Kenshi]] 
+	- [[Sai Nailo - (Karl)|Sai]], came back after being knocked out with nat 20, and banishing [[Xal'thul]] back to the sword with his light, as in this moment [[Xal'thul]] saw the [[Sehanine, The Moon Weaver|Moon Weaver]] in [[Sai Nailo - (Karl)|Sai]]
+	- Post fight
+		- Certain talks, and got kicked out of the inn, but got money back for the remaining 5 days
+	- Everyone got a level up
+- Talks with [[Jamil A'alithiya]]
+	- Told them to use a spell that can remove a curse
+	- [[Aurora (Jason)|Aurora]] showed the diamond, but the "curse" was gone, but the diamond seemed magical 
+- Went to Celestial Terrace
+	- [[Sai Nailo - (Karl)|Sai]] used [[remove-curse]] on [[Aurora (Jason)|Aurora]] and [[Kenshi Takahashi (Til)|Kenshi]]
+	- [[Sai Nailo - (Karl)|Sai]] choose to go to the light, and saw a small light of the [[The Luxon|Luxon]] that became bigger and bigger
+- [[Downtime in Ank'Harel]] #1 -> 7 Days
+	- [[Sai Nailo - (Karl)|Sai]]
+		- Ordered Katana to be made for [[Kenshi Takahashi (Til)|Kenshi]]
+		- Got approval for [[Blessing Well]]
+	- [[Eve-thra Arryn (Alina)|Eve]]
+		- [[Bibbity Bobbity]] job -> 30g, sleep from 7-15:00
+	- [[Kenshi Takahashi (Til)|Kenshi]]
+		- [[Bibbity Bobbity]] job -> 30g
+		- New outfit (white)
+	- [[Vorak Stormheart (Lars)|Vorak]]
+		- Went pit-fighting -> 200g (in [[Bowl of Judgement]], minor bouts)
+			- Frequently saw people having a scar, even fighting one 
+		- Searched for consensus of what people thing about blood magic
+	- [[Aurora (Jason)|Aurora]]
+		- sold Black diamond, and traded [[bestow-curse]] scroll
+	- [[Melantha (Melli) (Daniel)|Melli]]
+		- went to [[First Eclipse (Taverne)]], "Moth moment", then agreed she would be payment for killing [[Aloysia Telfan|Aloysia]] 
+			- Moth moment: Donel forgetting the key word to talk to [[Vrill, the Moth|Vrill]]. A awkwardly long moment where he was very embarrassed. To this day he has not recovered. 
+		- woke up once in very large room, heard one more voice beside [[Vrill, the Moth|Vrill]]
+# Start
+- [x] First resolve where they are staying -> retcon it first before everyone leaves for downtime!!
+- [x] Aurora / [[Sai Nailo - (Karl)|Sai]] went to [[Norbeg’s Arcane Assembly]] (same day!!!)
+- [x] Resolve [[Melantha (Melli) (Daniel)|Melli]] x [[Vrill, the Moth|Vrill]]
+	- [x] If Party is early enough to notice -> have them arrive when [[Melantha (Melli) (Daniel)|Melli]] is leaving (opens up for pot another encounter)
+# Timeline / Agenda
+- [x] [[Maroon 5]] approach [[Main Party]]
+	- [[Galsariad Ardyth|Galsariad]] + [[Irvan Wastewalker|Irvan]] + [[Maggie Keeneyes|Maggie]] 
+- [x] [[Treassure Hunt - Devossa's Lair]] start!
+	- [x] Meeting [[Ella]]
+- [ ] [[Sai Nailo - (Karl)|Sai]] realizes "Lianosa" is anagram for "Sai Nailo"
+	- If he mentions "Sai", they ask how does he write it?
+	- -> needs to show book
+- [x] [[Aurora (Jason)|Aurora]] might remember the name "Turen", or "Norbeg sounds familiar"
+- [ ] [[Aurora (Jason)|Aurora]] has encounter if she goes alone 
+- [ ] Random Encounter
+	- [ ] [[Aurora (Jason)|Aurora]] spots emerald on Nobel, its important to them tho
+	- [ ] Somebody alone gets ambushed by three [[thug|Thugs]]
+		- likely only night
+		- say they are from [[The Veil]] but aren't probably
+## Night Time 
+- [[Sai Nailo - (Karl)|Sai]], [[Sehanine, The Moon Weaver]], motivation
+	- possibly roll d100 to find out what happens
+		- if <50 -> works -> moon becomes full for the time
+		- if not -> say try with full moon and then roll with advantage! 
+	- scale of only feeling emotion/connection to a doorway appearing and him walking through
+		- [!] Play Sai calm theme -> geige
+		- location should be night, aber erhellt durch das Mondlicht, with Herbst setting (rot/braun/gelbe blätter), giant trees?
+		- she appears as moon light floating down, could also do childishly playing around
+			- -> he has to react first 
+			- She motivate to believe in friends. But leaves choices to him!
+## Loose Threads
+- If [[Ayo Jabe|Ayo]] loses the spear!
+	- [[Xal'thul]] will demand [[Kenshi Takahashi (Til)|Kenshi]] to destroy the spear
+	- [[Xal'thul]] will force a Eldritch smite and will cast [[Banishing-Smite]] himself 
+- [[Kenshi Xal'thul Talk]]
+- [ ] Nobody knows yet that the first luxon was discovered after a certian person killed himself
+## NPCs
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 50g = 500gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [x] [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- [x] Stormrider Boots (owned but not repaired)
+	- 400gp to fix 5-7 days (ordered)
+	- Used her own Leather boots
+		- Further: Find element to infuse for damage
+		- Effect: uses air to propell 
+# Summary
+- [ ] Party stays at [[Harried Mongoose]]
+- [[Downtime in Ank'Harel]]
+	- [[Aurora (Jason)|Aurora]] x [[Norbeg Turen|Norbeg]] reveal
+		- fully fixed boots + [[Chovi]] flies now with cannon
+	- Research
+		- [[Eve-thra Arryn (Alina)|Eve]] [[modify-memory]]
+		- [[Kenshi Takahashi (Til)|Kenshi]], [[magic-circle]] [[hallow]]
+	- [[Sai Nailo - (Karl)|Sai]] failed [[Blessing Well]]
+		- will have advantage on next roll
+	- Finished [[Melantha (Melli) (Daniel)|Melli]] x [[Vrill, the Moth|Vrill]]
+		- [ ] She got black left eye -> next time she looks gonna be fully black eye
+			- [ ] [[K'Var the Corrupted|K'Var]] can see through it
+		- Said could help out [[Gamila]]
+	- [[Sai Nailo - (Karl)|Sai]] x [[Irvan Wastewalker|Irvan]] 
+		- went to The shade -> actually did a bit of drugs
+		- [ ] Irvan is definitely into sai, but not massively, does not expect anything
+		- [ ] out of character knows [[Irvan Wastewalker|Irvan]] has feelings
+	- [[Eve-thra Arryn (Alina)|Eve]] x [[Galsariad Ardyth|Galsariad]]
+		- [ ] Gave dagger temporearely 
+		- [ ] in cannon that its [[Vaelistra Zaphyr|Vaelistra]] dagger -> spottet her in some kind of ship cabin
+			- Skyship!!
+	- [[Melantha (Melli) (Daniel)|Melli]] went to [[First Eclipse (Taverne)]] as bard -> failed got nothing
+- [[Treassure Hunt - Devossa's Lair]]
+	- [ ] Agreed to 10% to [[Ella]]
+		- She said she got the information from somebody she doesnt want to say, but he gets nothing back
+		- [ ] decide if its still [[Lymmle Wist]], would make sense tho
+	- Bought [[griffon]], [[Jarret]] is with them (black dude,long black hair in zopf)
+	- payed 350g -> for 5 days, will get 175 back
+	- Travel 2 days, arrived on the third
+		- Found strange temple like structure, dont yet know why or what its for
+	- Made friends with Okarina the [[hippogriff]]
+	- Fought 6 Flying statues that where immune to everything
+		- [[Kenshi Takahashi (Til)|Kenshi]] failing with his rolls
+	- Next encounter against [[Asmutayya]]
+		- Reveal of [[Chovi]] flying and using cannon
+		- When some thought of running away -> used lair action to transport them to her realm
+		- [[Aurora (Jason)|Aurora]] clutch hit to bring back [[Vorak Stormheart (Lars)|Vorak]] from space
+		- [[Melantha (Melli) (Daniel)|Melli]] clutch [[dispel-magic]] to break her [[foresight]]
+		- She did not like that [[Eve-thra Arryn (Alina)|Eve]] used time stuff -> focus
+		- breaking [[Kenshi Takahashi (Til)|Kenshi]] and him binding with the sword again -> [[Xal'thul]] used his power for even more damage
+		- Won in the end my getting 3 correct answers!!
+			- She roasted [[Kenshi Takahashi (Til)|Kenshi]] because [[Melantha (Melli) (Daniel)|Melli]] asked her lul
+		- ended it 
+			- [[Kenshi Takahashi (Til)|Kenshi]] said I am sorry to [[Eve-thra Arryn (Alina)|Eve]], [[Eve-thra Arryn (Alina)|Eve]] started crying
+
+- [ ] record damage numbers
+- [ ] print new minis
+- [ ] Nice lines for [[Asmutayya]] at the start of the session
+	- Everyone: "Eine ende wird irgendwann eintreten, ihr entscheidet welches."
+	- Looks to Kenshi: Die Zeit ist flüchtig, der Moment hier und jetzt entscheidet
+		- Can give [[Blade of broken mirrors]] -> she will cast [[legend-lore]] -> maybe find a way to break it
+			- Could be "A good friend of mine can break it but I doubt he would like you" and/or a weapon of similar strength can break
+- [ ] Change final encounter of [[Treassure Hunt - Devossa's Lair]] -> instead of stone golems do Automatons!! -> more integration for [[Aurora (Jason)|Aurora]] 
+	- maybe come up with "spawn animation for golem"
+	- like having a arcane orb first then the metal forms around it 
+	- [ ] research more golem lore!! -> whats the heart, whats the difference to automaton
+- [ ] Also redcon that secret entrance was on oposite site!
+- [ ] Kenshi new outfit mini?
+	- maybe decide that he cant switch it
+	- had option to choose luxon
+	- maybe no longer can switch it?
+	- maybe [[remove-curse]] doesnt work
+	- DC should be higher? ->25?
+	- On fail maybe something happens to sai? -> could be brutal tho
+- [ ] look into what how to switch pact weapon and stuff
+- [ ] prep distances for [[locate-creature]] spell!!!
+
+- [ ] look into beholder lair, maybe have [[Sai Nailo - (Karl)|Sai]] and [[Melantha (Melli) (Daniel)|Melli]] be getting the feeling of "getting followed"
+- [ ] [[Vrill, the Moth|Vrill]] could ask [[Melantha (Melli) (Daniel)|Melli]] for a job (to join [[Consortium of the Vermilion Dream]])
+	- Only do it if [[Melantha (Melli) (Daniel)|Melli]] doesnt soon contact her

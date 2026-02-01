@@ -1,0 +1,180 @@
+
+# Current Threads
+- [[Melantha (Melli) (Daniel)|Melli]] trying to find out why her village got attacked
+	- [ ] Restoring her eye -> [[ersatz-eye-xge|Ersatz Eye]]
+- [[Sai Nailo - (Karl)|Sai]] 
+	- destroying [[Consortium of the Vermilion Dream|Consortium]]
+- [[Eve-thra Arryn (Alina)]] 
+	- Trigger [[Ruidium Corruption]], if she "fails" (need alona approval)
+	- Spells to find
+		- [[silent-image]] (1)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+- [[Aurora (Jason)|Aurora]]
+	- More [[Arcane Battery]] stuff
+	- [[Chobeg Turen|Chobeg]] dying to [[Ruidium Corruption]] -> now at 3!
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[The Raven Queen, Matron of Death|Raven Queen]] task to end [[Xal'thul]] -> voices get quite and he regains his other half soul
+	- [[Croog Lynn]]
+# Planning
+## Organisatorisches
+
+- [ ] For me: If deadline to stop -> mention it ingame to speed things along for cliffhanger!
+- [x] Healing potions
+	- [x] ask party if they want to redistribute or are fine with now
+	- Minor: Melli / Selene / Eve / Aurora 
+	- Major: Selene / Eve
+- [x] exhaustion 1 for sai/melli
+- [x] Hour counter: 3h (in [[Cael Morrow]])
+- [ ] "Apotheon explaination"
+	- Ist ein Titel like "king etc"
+		- (SECRET: means: someone who is exalted or elevated to a state of godhood)
+	- But based on what Alyxian wrote in the stone tablet (Cael morrow): Other people call him apotheon, or gave him the title because he got three blessings
+
+
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Extra Lore (recap across the whole campaign)
+	- [[Alyxian the Apotheon|Alyxian]]
+		- first met him in [[Jigow]], saw visions on their jouney towards [[Betrayers rise]]
+		- then met him again in [[Betrayers rise]] -> Mission: find city in jungle with arch heart temple
+		- now here in [[Cael Morrow]] they heard of a ancient temple to the Arch heart, and tablets showing parts of the history of this city, that it was in fact built in a jungle
+	- [[Maroon 5]]
+		- They aligned with [[Allegiance of Allsight|Allegiance]] while you with the [[Cobalt Soul]], but the goal of [[Maroon 5]] is still uncertain
+- Finished [[Aboleth (Alyxian)]] fight
+	- strange thing, now the Aboleth claimed to be "The Apotheon", even Aurora believing he was alyxian
+		- vorak got out of charm but [[Aurora (Jason)|Aurora]] got hit instead
+		- massive damage -> under his control!
+			- Aurora teleported him away
+			- [[Aboleth (Alyxian)]] excaped!
+		- eve/sai tried to convince aurora to be sane....Selene knocked her out
+- Went around the mountain, undiscovered area
+	- did not go to palace 
+	- dodged rotten water and "another" aboleth chasing the party?
+- Vorak was fucked (fish disease)
+	- talked with Xot/scribble
+	- waterboarded his ass 
+	- aurora got rid of it in the end through magic
+- [[Selene Noctis (Til)|Selene]] x [[The Judge|Nummer 1]]
+	- Talked about their mission and targets being [[Jamil A'alithiya|Jamil]] and [[J'mon Sa Ord]]
+	- Selene wanted to see confirmation of [[Luceris Noctis|Luceris]]
+		- Had mirror scene, judge layed hand and she her consiousness went somewhere else
+		- saw here right in front of her, smiled
+		- [i] Retcon: Had mask similar to Selene or the others...mask smiled and selene is confident its Luceris 
+		- Luceris touched her (mirror) then vision ended
+- Next day went back
+	- Decided not to give the tablet to [[Insight Acuere|Insights]]
+	- but through what they gave she revealed the temple location
+- Went to Royal library
+	- met [[Galeokaerda]] and her massive G, Crescent
+	- selene/eve got teleportation tablet -> after fighting swarm of fish
+	- Aurora/sai got stone tablets describing history of the city
+		- saw emotional vision of the people trying to preserve it
+		- and another confirmation of the temple
+	- [[Melantha (Melli) (Daniel)|Melli]] found secret, permanent teleportation circle
+		- [ ] did eve spot it (memorize it)
+	- gave [[Galeokaerda]] the tablet and she revealed her second mission
+		- retrieve a weapon that can open the rift, the source of [[Ruidium]]
+		- is held by some big Qualle
+# Start
+- Was about to leave for Villa
+- [[The Visionary]] contacting [[Selene Noctis (Til)|Selene]] (sending)
+	- **Old lady, slow**
+	- "Nummer 1 hat seine Meinung geändert, besorge ihm Ruidium"
+	- "Wichtig ist, es darf auf keinen fall mit dir oder der Maske in Kontakt kommen"
+# Timeline / Agenda
+- [ ] [[Entering Cael morrow]] [[Cobalt Soul]] quest
+	- [ ] [[Maroon 5]] meeting at villa
+	- [ ] Temple moment!
+	- [ ] [[Aboleth (Alyxian)]] fight
+- [ ] [[Selene Noctis (Til)|Selene]] x [[The Judge]] -> maybe with [[Main Party]]
+- [ ] [[Chobeg Turen|Chobeg]], has only one more week
+- [ ] Before going into [[Netherdeep]]
+	- [ ] Ask if there are any loose threads everyone wants to close!!
+	- [ ] Force [[Encounter - Attack Jamil and J'mon]] here??!?!?
+## Loose Threads
+- Magnet Lore:
+	- magnets sometimes don't work around the [[Cerulean Palace]]! 
+		- (400-600m range) 
+		- Multiple times a day -> more towards the evening
+		- its the [[cobalt-golem-tdcsr|Cobalt Golem]] ability -> have to activate it once per day for maintenance reason
+- [ ] Nobody knows yet that the first [[The Luxon|Luxon]] was discovered after a certain person killed himself
+- [ ] [[Vorak Stormheart (Lars)|Vorak]] attracts [[Ethereal Plane]] creatures (due to half soul)
+- [ ] Door in [[Ank'Harel]] 
+	- Has symbol on and she needs to "complete it" (using finger) to open connection
+		- When she does: "Hears clicking noise, like a lock opening"
+		- Once inside: hears gears turning (click click click)
+	- Random family is inside who got paid to have symbol there
+	- [ ] If [[Main Party]] comes
+		- [ ] [[The Child]] is also in entrance hall! -> has mask but also disguise self up!!
+- Veil meeting
+	- Maybe first [[The Veiled Five]] to test them, if they can be trusted they get audience
+		- [[The Judge]] talks with [[Veil of the Forgotten]]!
+	- everyone hidden!
+	- theater style, high up leaders, empty spaces where [[The Veiled Five]] could appear?
+- [ ] [[Encounter - Attack Jamil and J'mon]]
+- [ ] [[Sai Nailo - (Karl)|Sai]] knows location of [[Sentinels of Memory]] base 
+- [ ] [[Bibbity Bobbity]] tasked them with finding a buyer for the ring
+	- [ ] If they dont find it: have to pay 200G for misty step and paper
+	- [ ] Could lead into [[J'mon Sa Ord]]  and [[Bibbity Bobbity]] confrontation!
+## NPCs
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 25g = 250gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g) (Aurora has 8x 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [r] Tracking Orb, points to [[Xal'thul]] after he got his body back!!!, currently pointing nowhere
+	- [r] gave it to [[Cobalt Soul]]! 
+- [r] Encoded Sheet of paper found at [[Old Man Kruuk's]]
+	- High DC for decoding! -> transactions, delivers, no names tho
+- [r] [[Vorak Stormheart (Lars)|Vorak]]: Vintage pre calamity wine -> 1000g to sommelier
+	- [r] Also pre calamity glas ware (with dead hand) 
+- [r] [[Aurora (Jason)|Aurora]]: small bronze statue of elf (no gender) that looks to be casting a spell
+	- [r] 35-50gp (Corellon statue) 
+# Summary
+
+- Went with [[Galeokaerda]] to Villa to get Ruidium weapon
+	- On the way spotted petrified humans (looking scared etc), some chopped up
+	- Met [[Maroon 5]] there who were currently scouting it out
+		- Decided to split up
+	- Fought [[death-embrace-custom|Death Embrace]], a huge jellyfish, warped by [[Ruidium]]
+		- at one point three people went down
+		- [[Galsariad Ardyth|Galsariad]] got the killing blow
+			- technically earned right to [[ruidium-weapon-crcotn|Ruidium Greataxe]] but [[Selene Noctis (Til)|Selene]] interfered
+				- [i] Even with nat 20, [[Galsariad Ardyth|Galsariad]] knew he got the killing blow (Til was too slow with description)
+					- [i] Nat 20 gave them the chance to steal it (maybe check in recording)
+			- [[Maroon 5]] were the ones who did not pursue further! (at least out of selenes POV!)
+		- Meanwhile [[Maggie Keeneyes|Maggie]] [[Irvan Wastewalker|Irvan]] and [[Galeokaerda]] used teleportation tablet to book it
+			- [[Eve-thra Arryn (Alina)|Eve]] watched them as fish!
+			- Found out they were talking to [[Larthul the Wolf|The Wolf]]
+				- one from [[Consortium of the Vermilion Dream]], but who did sell out [[Vrill, the Moth|Vrill]]
+			- [ ] what they dont know: [[Larthul the Wolf|The Wolf]] said something like "sadly we couldnt hide the key from the [[Allegiance of Allsight|Allegiance]], we will use one of our own"
+- Wanted to destroy permanent teleportation at Royal library
+	- because [[Galeokaerda]] mentioned it to [[Larthul the Wolf|The Wolf]]
+- Went to Temple of the Arch Heart
+	- Got rid of divine Barrier, Sai/Selene/Aurora/eve participated
+	- Went inside temple, which was devoid of water
+		- Saw a very old [[Alyxian the Apotheon|Alyxian]] answer questions in this very temple 
+	- [[Sai Nailo - (Karl)|Sai]] hit [[Ruidium]] crystal to trigger the big vision
+		- Everyone was in the city, trying to defend it
+			- Orcs storming the city, attacking from the Jungle
+			- [[Sai Nailo - (Karl)|Sai]] flying and shooting a rain of arrows down
+			- [[Eve-thra Arryn (Alina)|Eve]] throwing Towers into open holes
+			- [[Selene Noctis (Til)|Selene]] assassinating everyone, and running on the outside of the walls
+				- [i] gain inspiration for talk with orc girl 
+			- [[Aurora (Jason)|Aurora]] using Final G as a mortar to rain down fireballs 
+			- [[Vorak Stormheart (Lars)|Vorak]] being way bigger than he thought and running over and through the orcs
+			- [[Melantha (Melli) (Daniel)|Melli]] calling upon some kind of primal fire to burn masses of them
+		- Alyxian doing his own part, then realizing there is a bigger threat on the horizon
+			- [[Gruumsh, The Ruiner]] throwing his spear, infused with all his strength to destroy the entire continent
+		- Alyxian parrying the spear, successfully?
+			- Everything in a hundred kilometer radius got super heated 
+			- The city sinking bellow the earth
+		- You now know how the desert got created
+- They went outside and brought a random statue to [[Allegiance of Allsight|Allegiance]], specifically [[Gryz Alakritos]]
+	- [ ] He is looking to revive him
+

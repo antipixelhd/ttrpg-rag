@@ -1,0 +1,197 @@
+
+# Current Threads
+- [[Melantha (Melli) (Daniel)|Melli]] trying to find out why her village got attacked
+	- Will trigger [[Ruidium Corruption]] on a 1 of the d4
+	- Now has partial True sight, [[K'Var the Corrupted|K'Var]] sees through her
+	- Wo killed her Parents?
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- [[Sai Nailo - (Karl)|Sai]] 
+	- destroying [[Consortium of the Vermilion Dream|Consortium]]
+	- saving/killing his mother?
+- [[Eve-thra Arryn (Alina)]] 
+	- Trigger [[Ruidium Corruption]], if she "fails" (need alona approval)
+	- Spells to find
+		- [[silent-image]] (1)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- [[Aurora (Jason)|Aurora]]
+	- More [[Arcane Battery]] stuff
+	- [[Chobeg Turen|Chobeg]] dying to [[Ruidium Corruption]]
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[The Raven Queen, Matron of Death|Raven Queen]] task to end [[Xal'thul]] -> voices get quite and he regains his other half soul
+	- [[Ank'Harel]] has Cleret Order members 
+	- Shield could transform into Vestige (Honors Last Stand)
+# Planning
+## Organisatorisches
+
+- [x] Recording Setup changes
+	- back to Wide FOV
+	- Add OBS blur or box for my screen!
+- [x] It is up to the group to integrate [[Selene Noctis (Til)|Selene]]
+	- [x] Doesnt have to force like her etc, but obv Til has to somehow play the game
+	- [x] Make up reasons and justifications
+- [ ] For me: If deadline to stop -> mention it ingame to speed things along for cliffhanger!
+- [x] Watch out with volume! ears still sensitive
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Finished [[0_Cobalt Soul Story Track|Cobalt Soul Story Track]] 
+	- [[Xal'thul]] suddenly talked to [[Kenshi Takahashi (Til)|Kenshi]], mentioning his Father
+	- Revealed basically everything to [[Iwo Zalarre]], succeeded with check (because dead people)
+	- kept the staff and gems
+- Night time
+	- [[Kenshi Takahashi (Til)|Kenshi]] talking to [[Sai Nailo - (Karl)|Sai]], leaving things behind
+	- [[Sai Nailo - (Karl)|Sai]] dream, seeing his parents
+- Next Day
+	- Missing [[Kenshi Takahashi (Til)|Kenshi]], sad letter
+		- [[Eve-thra Arryn (Alina)|Eve]] seeing Skyship in the distance headed to [[Wildemount]]
+	- [[Aurora (Jason)|Aurora]] using [[Ruidium]] to power Battery
+		- exploded, hitting [[Chobeg Turen|Chobeg]] who now has [[Ruidium Corruption]]
+	- Meeting new char [[Selene Noctis (Til)|Selene]]
+		- different names and mask for each char -> sus
+		- she searched for [[Rio Dain]], marked as death, was part of [[Betrayers rise]] expedition!
+	- Officially became members of the [[Cobalt Soul]]!
+		- Group name NSFW holds strength, did not individually get a Title in the [[Cobalt Soul]]
+			- But are on similar Level as Expositors, still report directly to [[Iwo Zalarre]]
+		- Still have to abide by the rules of the [[Hands of Ord]] 
+			- Not disturbing the public or putting others at risk
+			- Have to produce evidence, otherwise [[Cobalt Soul]] gets in trouble
+		- Bought Divination/Detect Magic/Commune scroll
+		- Translated [[Lafthal's Research]]
+			- Can now access more abilities of [[Ruidium]], specifically to enhance spells
+		- [[Jamil A'alithiya]] revealed plans to directly attack the [[Consortium of the Vermilion Dream|Consortium]] in the Future
+			- Then get access to [[Cael Morrow]]
+- [[Encounter - Some kind of Hideout]] (Acting on the information they got from [[Kruuk]])
+	- Took sad [[Selene Noctis (Til)|Selene]] with them to investigate
+	- Found place
+		- Narrow Building, with strange signs on door
+			- (meaning Hideout in Thieves Cant)
+	- Endet at
+		- [[Main Party|NSFW]] entering place and finding rather big Tavern underground
+		- Lots of people turning heads and looking at them
+# Timeline / Agenda
+- [ ] Downtime -> check [[Downtime in Ank'Harel]]!!
+	- [x] [[Iwo Zalarre]] info regarding [[Kruuk]] and [[Ashann]]
+	- [x] [[Grand Tournament|Grand Festival]] -> Handout -> in 4 Weeks
+	- [ ] [[Maroon 5]] interaction?
+		- [[Eve-thra Arryn (Alina)|Eve]] x [[Galsariad Ardyth|Galsariad]] interaction? -> [[Ayo Jabe|Ayo]] asks Eve what she wants from him?
+	- [ ] [[The Proxies of Prolix]] mission?
+	- [ ] [[Encounter - He wants to Punish Vrill]]
+	- [ ] if [[Melantha (Melli) (Daniel)|Melli]] sees [[Arcane Battery]] + [[Ruidium]]: [[K'Var the Corrupted|K'Var]] will be interested!!!
+	- [x] [[Encounter - Xal'thul release]]
+- [ ] [[The Judge]] will approach [[Selene Noctis (Til)|Selene]]
+	- [ ] Happens if they dig too much into [[The Veil]]
+- [x] [[Blade of broken mirrors]] Seal is Broken -> [[Vorak Stormheart (Lars)|Vorak]] might know
+	- Can be destroyed a release [[Xal'thul]] at any time
+- [ ] IF [[K'Var the Corrupted|K'Var]] finds out about [[Ruidium]] [[Arcane Battery]]
+	- [ ] Approach [[Aurora (Jason)|Aurora]]!!
+- [ ] Random Encounter
+	- [ ] Somebody alone gets ambushed by three [[thug|Thugs]]
+		- likely only night
+		- say they are from [[The Veil]] but aren't probably
+## Night Time 
+- [ ] [[Eve-thra Arryn (Alina)|Eve]]: Sees small spider looking at her from the ceiling....heartbeat gets faster....eyes are glowing???...surely not
+- [ ] [[Encounter - He wants to Punish Vrill]]
+## Loose Threads
+- [i] [[Aurora (Jason)|Aurora]] x [[Vrill, the Moth|Vrill]] / [[K'Var the Corrupted|K'Var]] encounter
+	- [i] maybe even [[K'Var the Corrupted|K'Var]] who is interested in her inventions 
+		- [i] Wants a way to have [[Ruidium]] items without the corruption
+	- [i] Will stand in dark corner, face not visible
+	- [i] -> if light shines could activate anti magic or charm her! 
+- Magnet Lore:
+	- magnets sometimes don't work around the [[Cerulean Palace]]! 
+		- (400-600m range) 
+		- Multiple times a day -> more towards the evening
+		- its the [[cobalt-golem-tdcsr|Cobalt Golem]] ability -> have to activate it once per day for maintenance reason
+- [ ] Nobody knows yet that the first [[The Luxon|Luxon]] was discovered after a certain person killed himself
+- [[Melantha (Melli) (Daniel)|Melli]] Ripping out eye:
+	- Disadvantage on all perception and attack rolls!
+	- Eye might survive and attack?
+## NPCs
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 25g = 250gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [r] Silvered Longsword (worth 750-1000g)
+- [r] Tracking Orb, points to [[Blade of broken mirrors]] 
+- [r] Encoded Sheet of paper found at [[Old Man Kruuk's]]
+	- High DC for decoding! -> transactions, delivers, no names tho
+	- Is enough as evidence!!!
+# Summary
+- Finished [[Encounter - Some kind of Hideout]]
+	- Talked to [[Tristan]], found him sus, didnt find anything else
+		- heard him talking to somebody and eve detected 3 creatues
+		- Melli later saw a familiar smile for a sec
+	- Sai talked with [[Brag and Drench]], rough looking homies, builders, responsible for setting up secret hinges etc
+	- [[Astar]], human male, barkeeper, teeth missing
+		- [[Sai Nailo - (Karl)|Sai]] bough 10gp wine, [[Melantha (Melli) (Daniel)|Melli]] + [[Selene Noctis (Til)|Selene]] bough 40gp wine glasses
+	- [[Selene Noctis (Til)|Selene]] got access to top floor from [[Tristan]]
+	- Talked with Lionkin [[Halimat]], male, wearing outfit of those in [[Cerulean Palace]]
+		- nothing too important, wants [[Ruidium]] for [[Ank'Harel]]s prosperity
+	- told [[Iwo Zalarre]] everything, they knew about [[Hidden Hinge Society]], not really dangerous, but if they are connected to [[The Veil]] thats a different story 
+- [ ] eve learned [[arcane-lock]]
+- +1 Day
+	- Selene x aurora, building flying Owl, worked but nuked a house
+		- if aurora wants to do it, at best one time uncontrollable thing, not magical
+	- Did Fight selene x Aurora vs Vorak x Eve
+		- Vorak won, melli cheated tho
+- Downtime
+	- Downtime, is to further character goals, further main/side plot, give information you want to find out
+	- Aurora: Building
+	- Sai: helped [[Aphelia Starshadow]], and started learning marquesian, end of week: made blessed water
+	- Vorak: ?
+	- melli:?
+	- Selene: Went and looked for corruption
+- +2 Day
+	- Vorak went to [[Crossing of Eventide]], talk to [[Isinia Zeria]], next day to bring [[Xal'thul]] dagger
+- +3 Day
+	- [[Encounter - Xal'thul release]]
+		- Everyone prepped and [[Isinia Zeria]] instantly destroyed [[Blade of broken mirrors]] to initiate fight
+		- [[Xal'thul]] spawned and seemed very confident
+		- was resistant to a lot, but also had resistant to force through his shield
+			- retcon: mistake: not immune to necrotic just resistant
+		- Casually banished [[Sai Nailo - (Karl)|Sai]] to [[Tharizdun]], had to see what [[Callimar Despana|Callimar]] saw and clawed his eyes out for
+		- people doing insane damage, especially [[Vorak Stormheart (Lars)|Vorak]], [[Aurora (Jason)|Aurora]] pushing him into the blood, making him stuck
+		- cast massive spell and healed himself to full
+			- then tried to leech off of [[Vorak Stormheart (Lars)|Vorak]] close range
+		- [[Isinia Zeria]], not showing much emotions, even when other clerics are dying
+			- [ ] They "come back to life", in truth puppets controlled by her
+			- Helped healing party and even at the end still standing 
+		- Then big moment, [[Xal'thul]] talking to [[Kenshi Takahashi (Til)|Kenshi]], he gave no answer to who he wanted to protect
+			- came [[power-word-kill]]
+			- [[Sai Nailo - (Karl)|Sai]] put beatiful images inside everyones heads, and was on his way with his father towards a better place,
+				- then [[Xal'thul]] cast soul cage to gather [[Sai Nailo - (Karl)|Sai]] soul
+				- Later wanted to destroy him (wasting action)
+				- but then THE GOAT appeared [[Vax'ildan|Champion of Ravens]] appeared and saved Sai 
+		- [[Vorak Stormheart (Lars)|Vorak]] had killing blow, but even then [[Xal'thul]] had a backup and moved his phylactery to the diamond way in advance
+
+- [[Sai Nailo - (Karl)|Sai]]s last images
+	- [[Vorak Stormheart (Lars)|Vorak]]
+		- Fighting pit, grew closer
+		- Vorak being alone with green eyes
+	- [[Aurora (Jason)|Aurora]]
+		- Sai carrying Aurora so she can see past people
+		- Aurora sitting on golem overshadowing everybody
+	- [[Eve-thra Arryn (Alina)|Eve]]
+		- Sai promising eve to help her (start of journey)
+		- Eve going through cities, renown for killing [[Lolth, the Spider Queen]] cult
+	- [[Kenshi Takahashi (Til)|Kenshi]]
+		- both sitting after fight against [[Xal'thul]] (tavern)
+		- [[Kenshi Takahashi (Til)|Kenshi]] trusting [[Sai Nailo - (Karl)|Sai]], sai was the responsible one
+		- [[Kenshi Takahashi (Til)|Kenshi]] cured, has children, is good father, because he cared about his father
+	- [[Melantha (Melli) (Daniel)|Melli]]
+		- was difficult at times, but always came closer again
+		- was always that annoying sister to him
+		- melli in casino, getting god of gambling ("Götting des glückspiels")
+	- Final:
+		- everyone important to him in bar
+		- sai floating up from his seat, above everyone, happy that everyone is happy
+	- final words:
+		- "nicht da ende das ich mir gewünscht habe aber ich kann nicht alles kontrollieren"
+		- [ ] Could pick up with [[The Raven Queen, Matron of Death|Raven Queen]]: "nobody can but, together you can achieve way more than you think"
+			- say these words when sai gets ressurrected!!!

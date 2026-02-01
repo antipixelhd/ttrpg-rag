@@ -1,0 +1,97 @@
+{
+  "query": "Who did Selene kill?",
+  "timestamp": "2026-02-01T07:34:05.717482",
+  "num_results": 10,
+  "results": [
+    {
+      "name": "Session 35 - Part 5",
+      "source": "Session 35 Summary.txt",
+      "content": "- Endet at\n\t- Selene poking out Mellis eye -> ran away (cursed)\n\t\t- tried to influence Eve but failed, Sai killed it",
+      "score": 0.5690309907353736,
+      "chunk_id": 35005,
+      "session_number": 35,
+      "chunk_number": 5
+    },
+    {
+      "name": "Session 39 - Part 5",
+      "source": "Session 39 Summary.txt",
+      "content": "- Selene x Nummer 1\n\t- Talked about their mission and targets being Jamil and J'mon Sa Ord\n\t- Selene wanted to see confirmation of Luceris\n\t\t- Had mirror scene, judge layed hand and she her consiousness went somewhere else\n\t\t- saw here right in front of her, smiled\n\t\t- [i] Retcon: Had mask similar to Selene or the others...mask smiled and selene is confident its Luceris \n\t\t- Luceris touched her (mirror) then vision ended",
+      "score": 0.5403393594006886,
+      "chunk_id": 39005,
+      "session_number": 39,
+      "chunk_number": 5
+    },
+    {
+      "name": "Session 41 - Part 3",
+      "source": "Session 41 Summary.txt",
+      "content": "- Selene went away to talk to Nummer 1\n\t- Wanted to make Galsariad suffer\n\t- But Nummer 1 saw it as too risky, gotta eliminate all possibility of finding out about \"the Masks\"\n\t- Said on Day 5 she will start the mission\n\t\t- Next day Ivella comes!\n\t- He knew something about Ivella?!??!",
+      "score": 0.505903981030324,
+      "chunk_id": 41003,
+      "session_number": 41,
+      "chunk_number": 3
+    },
+    {
+      "name": "Session 37 - Part 5",
+      "source": "Session 37 Summary.txt",
+      "content": "- Selene x Rest of party talk\n\t- explained the mask, and why she cant talk about it\n\t- everyone witnessed a strange event of Selene falling unconscious etc",
+      "score": 0.49795705935535506,
+      "chunk_id": 37005,
+      "session_number": 37,
+      "chunk_number": 5
+    },
+    {
+      "name": "Session 36 - Part 3",
+      "source": "Session 36 Summary.txt",
+      "content": "- Sewers\n\t- Found a random group of mercenaries, rather weak, that supposedly had a \"bodyguard\" to help them kill NSFW\n\t\t- suggesting one of the Consortium hired them \n\t\t- Selene was approached by somebody she knew talking about \"The Strangler\" waiting in the next door\n\t- Poor Ludwig got hit by Eve firebolt to the face, then killed by Selene to get some answers (with speak with dead spell)\n\t- Let the leader Ulrich live and escape (same as one more)\n\t- Room with \"bodyguard\" was empty, clean, very clean and smelled like Zitronen",
+      "score": 0.4947356118585362,
+      "chunk_id": 36003,
+      "session_number": 36,
+      "chunk_number": 3
+    },
+    {
+      "name": "Session 42 - Part 2",
+      "source": "Session 42 Summary.txt",
+      "content": "- Heading back outside \n\t- Did not care about being sneaky and got spotted by a giant shark\n\t- Was infused with Ruidium, even giving it regenerative abilities\n\t- Selene heard some weird screams, some even herself?",
+      "score": 0.48945065200977605,
+      "chunk_id": 42002,
+      "session_number": 42,
+      "chunk_number": 2
+    },
+    {
+      "name": "Session 43 - Part 2",
+      "source": "Session 43 Summary.txt",
+      "content": "- Selene decided to stay away from the party and focus on mission first, then return to party\n\t- The Judge said she decides what happens next after mission (regarding Luceris Noctis)",
+      "score": 0.48279500534608577,
+      "chunk_id": 43002,
+      "session_number": 43,
+      "chunk_number": 2
+    },
+    {
+      "name": "Session 39 - Part 2",
+      "source": "Session 39 Summary.txt",
+      "content": "- Finished Aboleth (Alyxian) fight\n\t- strange thing, now the Aboleth claimed to be \"The Apotheon\", even Aurora believing he was alyxian\n\t\t- vorak got out of charm but Aurora got hit instead\n\t\t- massive damage -> under his control!\n\t\t\t- Aurora teleported him away\n\t\t\t- Aboleth (Alyxian) excaped!\n\t\t- eve/sai tried to convince aurora to be sane....Selene knocked her out",
+      "score": 0.46754817203709254,
+      "chunk_id": 39002,
+      "session_number": 39,
+      "chunk_number": 2
+    },
+    {
+      "name": "Session 42 - Part 3",
+      "source": "Session 42 Summary.txt",
+      "content": "- Selene getting a diamond \n\t- Went to Hidden Hinge Society to talk to Tristan\n\t- Offered 600g, but Tristan said it would only cover his fee, 300g would be for somebody else\n\t- Wheelchair Guy gave diamond\n\t\t- Had intense altercation, he knows The Judge and the masks Selene wears?\n\t\t- Apparently he is responsible for the attack on J'mon Sa Ord?",
+      "score": 0.4634128359685412,
+      "chunk_id": 42003,
+      "session_number": 42,
+      "chunk_number": 3
+    },
+    {
+      "name": "Session 34 - Part 5",
+      "source": "Session 34 Summary.txt",
+      "content": "- Endet at\n\t- Everyone interrogating Selene, getting something out of it\n\t- And then Selene receiving a mysterious letter",
+      "score": 0.45666848488108747,
+      "chunk_id": 34005,
+      "session_number": 34,
+      "chunk_number": 5
+    }
+  ]
+}

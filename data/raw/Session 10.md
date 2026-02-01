@@ -1,0 +1,441 @@
+
+# Characters:
+1) [[Aurora (Jason) | Aurora]]
+2) [[Eve-thra Arryn (Alina)| Eve]]
+3) [[Kenshi Takahashi (Til) | Kenshi]]
+4) [[Melantha (Melli) (Daniel) | Melli / Melantha]]
+5) [[Sai Nailo - (Karl) | Sai]]
+6) [[Vorak Stormheart (Lars) | Vorak]]
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Who is Lafthal?
+	- encounter with [[Aloysia Telfan]]
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai backstory
+	- recognizes [[Ruidium Corruption]]
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have Rapier be Vestige -> evolves to healing -> to dimension rapier
+- Kenshi
+	- He is not cursed but is consecuted
+	- Later: Getting power temptation vision (maybe after retrieving the blade)
+	- Later: If Kenshi refuses he is tempted at Ruins of Sorrow:
+		- Spell slot refresh + heal (maybe even standing up from downed)
+- [[Eve-thra Arryn (Alina)]] magic progression
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [[Eve-thra Arryn (Alina)|Eve]] ring
+	- [[stone-of-good-luck]] (owned but not repaired)
+		- Gem Auge fehlt, emerald 200gp
+	- Stormrider Boots (owned but not repaired)
+		- Nur die Metallsohle ist übrig
+		- Needs to attach leather
+		- 2x DC 20 Tinkering check to activate
+			- Needs Infusion slot to power
+			- Further: Find element to infuse for damage 
+- [[Alyxian the Apotheon]]
+	- Vision will hit once they go into barbed fields
+- [[Vorak Stormheart (Lars)|Vorak]] past
+	- If he dies he resurrects (once)
+	- He remembers the engravings on [[Blade of broken mirrors]] which are the same as the Necromancer had in his past 
+# Planning
+### Organisatorisches
+
+- [x] Give Daniel real life healing potion
+- [x] HP rolling
+- [x] Keep reminding me about your abilities/effects
+- [x]  Inspiration rule -> Hero points!
+	- [x] Make inspiration tracker for each session
+	- [x] Use before Roll!! -> Eve/Melli should be more powerful
+	- [x] Gain
+		- Cool things, out of the box thinking
+		- Roleplay moments -> especially current story/backstory -> like Aurora/Melli example
+- [x]  Vorak: Crimson Rite works for only one weapon, any weapon, can do infinite times but have to redo on every time on different weapon
+- [x] Explain Item charges (Eve), shows spells and you can just click "cast" -> need to reset on your own
+
+
+---
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+- [ ]  Have a (in battle) slow mo scene where somebody has a vision of their past, could be [[Vorak Stormheart (Lars)|Vorak]] seeing his parents die in battle 
+## Session Start
+- Explored the Cave (Vurnir’s Quest continued)
+	- Found and destroyed an altar to Lolth, the Spider Queen (Blood)
+	- Found a note describing a ritual to locate a being named Xal’thul
+	- Fought a giant spider, not a normal one, it was able to use magic
+		- Early critical moment: Sai was unconscious and the spider moved extremely fast
+		- [[Aurora (Jason)|Aurora]] dealt heavy damage while on ist back
+		- The spider was only able to extract Sai’s magic once
+		- Kill: Vorak chokehold + Eve Blast + Kenshi Blast + Melli KYS 
+	- Instead of a goblin, you found a gnome with the bag
+		- A fairly large amount of gold was found, which someone took (not distributed)
+		- Aurora took his spellbook and arcane crystal
+		- A Note reading “Let me know when you have the goods and where we should meet” 
+		- Only [[Eve-thra Arryn (Alina)|Eve]] knows whats inside the bag (nothing)
+- Back at the caravan
+	- Gave the Bag to [[Vurnir]] and received a rapier in return
+		- Vurnir refused to say anything about the contents
+	- Conversation between [[Melantha (Melli) (Daniel)|Melli]] and [[Aurora (Jason)|Aurora]], asking who Lafthal is
+	- Last thing
+		- The sun set and the group set up their sleeping gear next to the oxen fence
+
+
+## Travel to [[Bazzoxan]]
+### Random Rolls:
+![[Xhorhas#Weather]]
+
+- Rules:
+	- Roll each Day: remove roll from possibilities
+	- 8 Days to stop + 4 Days to [[Bazzoxan]]
+	- Weather cant back to back!
+	- **Watch out for food and drink**
+- **Important changes:**
+	- Possibly skip Ballista encounter (move back) -> have it just before [[Bazzoxan]] and non combat intention
+### Scenery:
+- Before Barbed Fields: Es gibt es vereinzelte grüne Bäume oder gras Abschnitte aber hauptsächlich abgestorben, stein / gelbliche Erde.
+- Night: Halbmond Katha, Vollmond Ruidus (as always)
+- [[Barbed Fields]]
+### Emerald Loop Caravan Stop
+(Reach it at the end of the 8th day)
+- [I] Ihr seht mehrer Bäume in der Ferne
+- [I] Es scheint ein kleiner Wald zu sein.
+- [I] Die Blätter hoch aufragender Eichen rascheln im Wind und der Geruch eines Lagerfeuers weht aus einer Rauchfahne die von weiter vorne aufsteigt. Der Pfad ist durch unzählige Wagenräder tief zerfurcht.
+- [I] Nach einer Weile kommt ihr an ein Hölzernes Schild. Darauf geschrieben ist "Emerald Loop Karawanen Rastplatz", daneben ist ein Hirtenstock der mit einem Blumenkratz umgeben ist in das Holz geschnitzt. (Melora Symbol) [[MeloraSymbolIMG.png]]
+- Recall information: DC 13 History:
+	- sicherer und angesehener Wegpunkt den es seit über 150 Jahren gibt
+	- Die besten Jäger der Region verkaufen hier ihre Beute
+	- Angeblich wird hier das beste mastodon kor'rundl, in der Kryn Dynasty verkauft 
+- Recall information: DC 13 Religion:
+	- [[TreantIMG.png]] Treant namens Wandering Oak hat den Wald gesät und hat ihn später einem par dryads der Wildmother anvertraut die sich  Acorn Schwestern nennen. Holzfällen ist nur bedingt erlaubt, wer mehr nimmt als erlaubt wird stark bestraft.
+- [I] Der Waldweg öffnet sich zu einer großen Lichtung (ungefähr 40m breit). Musik, Gelächter und die schmackhaften Aromen von frisch gekochtem Essen ziehen durch die Luft. 
+- [I] Rechts von euch steht eine ausgewachsene Horizonback-Schildkröte. Auf ihrem Rücken befindet sich die Behausung einer Goblinfamilie, die gerade Reparaturen an dem Gebäude vornehmen.
+- [I] In der Mitte der Lichtung stehen sieben Planwagen (bedeckter Wagen) um ein Lagerfeuer herum, und weiter links von euch seht ihr einen Zaun, in dem einige Ochsen und ein Pferd steht. Daneben sind ein par Zelte aufgestellt bei denen ihr bekannte Gesichter sieht. (Ayo und co)
+![[023-map-2.2-Emerald-Loop-Caravan-Stop.webp]]
+#### L2: Big Yuyo 
+- Benannt nach einem Gemüse das in Rosohna wächst (ockerfarbene Gurke)
+- Die Plattformen und Strukturen auf Big Yuyos Rücken sind aus Holz, Stroh, Segeltuch und Seilen gefertigt.
+- **Goal:** Sind auf der durchreise nach Asarius um die andere Seite ihrer Familie zu treffen (Bugbear)
+- Goblin Family:
+	- Papa Drazagorr (male goblin, [[veteran]])
+		- served in the Aurora Watch when he was younger and still has an appreciation for military discipline. These days, he doesn't wear armor or carry weapons, except for a dagger.
+	- Opa Kelbadurn (male goblin, [[guard]]) 
+		- served in the Asarius Town Guard and still has his old chain mail, spear, and shield stored in the command post (area L2f). He's easygoing and artistic.
+	- Tante Jaller (female hobgoblin, [[Database/compendium/bestiary/humanoid/druid|druid]]) 
+		- is old and elegant-looking, thanks to her long silver hair and deep green robes. She calls herself an "old witch" and spends much of her time brewing potions and inventing new tea blends.
+	- Kleiner Gothby (male child goblin)
+		- is a dutiful 5-year-old. He doesn't talk to strangers but instead heads for one of his dads if he is approached.
+	- Kleine Chespa (female child goblin)
+		- is 3 years old. She can speak in full sentences, and can read and write as well as an adult. She likes to hop down off the tortoise and frolic through the clearing.
+#### L3: Ochsen Zaun
+- Sieben Ochsen chilling
+	- DC 15 Intimidation to cause chaos
+#### L5: Lagerfeuer
+- [I] Es liegen einige Holzstämme die als Sitzplätze dienen um das Lagerfeuer. 
+- [I] Einige andere Reisende chillen um das Lagerfeuer, spielen spiele, reden und singen. Von denen die herausstechen sind:
+- [I] Zwei Menschen die in Fell und Leder gekleidet sind, aussehen erinnernd euch an die Leichen die ihr um den Udaak gesehen habt
+	- Eine frau, ein mann, die sich ähnlich sehen (Tyvak (F) und Moghra (M) Wastewalker,  harsh voice ) 
+	- Kinder von Kierchaly
+	- [r] Tyvak: Trades +1 Dagger for [[1-weapon|+1 Battleaxe]], bedankt sich 
+		- haben mit Vorak geredet und angelogen das sie nicht weg gerannt sind (sie haben nie nach dem dagger gesucht)
+			- sind äuserst dankbar wenn sie ihn sehen (angry fasade droppt und sind nett)
+			- Die Battleaxt ist von seinem Vater, er ist der nächste Häuptling
+- [I] [[Justice]] schläft draußen bei seinem Moorbounder
+- [I] Zwei Frauen die goldenes Licht ausstrahlen und Haare und Kleidung aus sich bewegenden Blättern tragen ([[dryad]]) [[DryadIMG.png]]
+	- Acorn Schwestern (Lanata, Robur), Hüter des Waldes.
+		- Repräsentieren die Wild mother (melora)
+		- (If offering is given: Next day maximum hitpoints restored through hit dice)
+	- Nur Totes Holz verbrennen ist erlaubt
+- [[Vurnir]]
+	- Hat die Kiste von [[Vordri Hesul|Ahrim]]s sachen geöffnet
+	- Auf dem weg nach Asarius
+	- **Shop**
+		- [I] Wagon wird von zwei Bugbears in Rüstung und Schild bewacht. Außerdem befinden sich sechs Aurora watch Soldaten in der nähe und schauen das alles bei rechten dingen zu geht
+		- Items:
+			- ![[Pasted image 20240519154914.png]]
+			- https://5e.tools/adventure.html#crcotn,2,l5%3a%20bonfire
+			- Longbow/Shield
+			- Various Gems, small, Diamonds worth 300
+		- [[Vordri Hesul|Ahrim]] items
+			- Magic paper from [[Vordri Hesul|Ahrim]], that he left behind, 50gp worth 
+### Night Time / Sleep
+- If Kenshi asks about [[Xal'thul]]
+	- History check DC 20: Falls unconscious, shaking, Schaum aus dem Mund, as he recalls countless of images and is overloaded
+	- Views childhood memories like on a tv but are all in first person
+- [[Justice]] approaches [[Sai Nailo - (Karl)|Sai]] to tell them they are leaving
+	- [[Vurnir]] found some of [[Vordri Hesul|Ahrim]]s stuff
+	- maybe in the middle of the night
+- [[Sai Nailo - (Karl)|Sai]]
+	- Notices that Catha ist abnehmender Halbmond
+- [[Melantha (Melli) (Daniel)|Melli]] Dream:
+	- Let Daniel describe any dream he would have
+	- Have Ruidus flare and bad things happen
+		- Maybe Red veins
+- Spicy [[Eve-thra Arryn (Alina)|Eve]] moment
+	- Simulate assassination fear, could use when someone approaches her
+	- Lolth Dagger through belly from behind, blood coming out of mouth
+	- Hand holding her mouth shut
+	- going limp, dying
+- [[Eve-thra Arryn (Alina)|Eve]] Dream/Thoughts:
+	- Albträume über deine Vergangenheit, was dir angetan wurde aber auch was du tun musstest
+	- Wacht auf, schwitzend mit dem Gedanken: 
+	- (**If letter read):** Folgst du gerade in ihren Fußstapfen? Musst du sie irgendwann wieder konfrontieren? Außerdem was passiert wenn sie in finden? Können sie dann ihr Ziel erreichen und die Dynasty zu fall bringen. Und was ist mit deinem Vater, ist er noch in Rosohna, sicher wäre er stark genug zu überleben...richtig? 
+### Continued Travel
+- [[Kenshi Takahashi (Til)|Kenshi]]
+	- Maybe more memories of the past (scenery) maybe not
+- If [[Sai Nailo - (Karl)|Sai]] uses [[remove-curse]] on [[Kenshi Takahashi (Til)|Kenshi]]: spellcasting check DC20:
+	- Success: 
+		- fühlt zwei Präsenzen
+		- kann entscheiden ob er zum Luxon oder zum Patron geht -> darkness oder light
+		- Triggers him getting confronted with [[Xal'thul]]
+		- Sees black humanoid husk with black tether into the abyss and grey comforting light
+		- maybe [[Tharizdun]] teaser
+	- Failure: 
+		- knows there is some other presence, that you are not powerful enough to interact with
+	- Regardless: knows there is no curse
+- **Have Aurora watch encounter one day before Ruins of Sorrow!! -> max hp increase important**
+### Alyxian Vision:
+volume to 45-50, set music to non repeat
+- [!] Use as potential Cliffhanger or when entering barbed Fields
+- [I] Das Amulet von Eve beginnt zu leuchten und euch überkommt eine plötzliche Müdigkeit. Ihr schließt eure Augen, alles ist Schwarz. 
+- [!] Start music  
+- [I] Auf einmal seht ihr einen roten Punkt der immer größer wird. Es ist Ruidus. Ihr öffnet eure Augen.
+- [I] Und das unheimliche Leuchten von Ruidus hüllt alles in einen dumpfen, roten Farbton. Das Licht erfüllt euch mit einem Gefühl von Unbehagen und Angst. Ihr schaut euch um und eure Gefährten sind verschwunden. 
+- [I] Schwärme von dämonisch aussehenden Kreaturen fliegen am schwarzen Himmel umher. Überall, wo ihr hinschaut, seht ihr Zeichen des Krieges. Die Erde ist aufgerissen. Die Luft riecht nach Blut, Schwefel und Tod. Wenn ihr versucht zu atmen, füllt Asche eure Lunge.
+- [I] Seltsamerweise aber, klingen die Geräusche von Krieg, Schmerz, Verzweiflung und Wut alle gedämpft, wie als wären sie Unterwasser.
+- [I] Am Horizont sind nebelverhangene Berge zu sehen, die von einer Festung mit großen schwarzen Türmen gekrönt werden. Gewaltige Blitze aus reinem weißen Licht und tiefdunklen Schatten, die durch göttliche Magie erzeugt werden, erhellen die Ebenen von Xhorhas...
+- [I] Plötzlich werden die Töne klarer und die Gerüche schärfer. Das rote Licht wird von einem strahlenden, freundlichen Gold verdrängt...Und eine Welle von grünen Kleeblättern und bunten, duftenden Blumen strömt über den Boden. 
+- [I] Saubere Luft füllt für einen Moment eure Lungen... Ihr dreht euch um und seht eine Gruppe von Soldaten... Jeder von ihnen strahlt ein göttliches Licht aus. Vorneweg geht ein stattlicher junger Mann mit braunem, lockigem Haar. Er trägt einen Speer und einen Schild. Um seinen Hals hängt eine glänzende Goldscheibe an einer dünnen Goldkette... Neben ihm geht eine Frau mit gefiederten Flügeln, die so weiß wie der Mond sind, in der Hand hält sie einen großen Streitkolben (mace).  
+- [I] **Alyxian** wirft einen kurzen Blick in Himmel und beobachtet Ruidus mit einem beunruhigtem Ausdruck. Danach richtet er seine Augen wieder nach vorne und ruft mit lauter Stimme: "Ghor Dranas ist gefallen, unser Ziel bleibt unverändert. Für die Moonweaverin, für Exandria".  Die Gruppe von Kriegern rennt weiter an euch vorbei, in Richtung der Festung mit den schwarzen Türmen... 
+- [I] Langsam verdunkelt sich wieder alles, bis nur noch das rote Glühen von Ruidus übrig bleibt. Als auch dieses letzte Licht erloschen ist und man nur noch bedrückende, kalte Dunkelheit spürt ... hört ihr eine Stimme: (Die stimme von Alyxian) „Helft mir!"
+- [!] Set music back to repeat 
+- (Sai fällt auf das die Frau große Ohrringe trug die wie der Halbmond geformt sind -> symbol of Sehanine)
+- Amulet leuchtet danach noch etwas und hört dann auf.
+- (Kein voller Ruidus zu sehen, alles normal)
+### Ruins of Sorrow
+- [!] Explain Double Attack: can replace one with grapple/shove or other flavor 
+- Lore: 
+	- (Wenn [[Perigee]] gestorben ist, war ihr finaler Angriff so stark, dass er die Barriere zwischen dem Abyss und der Material Plane geschwächt hat)
+	- Heut zu Tage werden die Ruinen immer von [[Aurora Watch]] patrouilliert
+	- Alle Jahre kommt es dazu, dass sich ein Rift öffnet wodurch Dämonen strömen, was immer viele Tote mit sich bringt
+- [I] Encounter starts with Aurora watch soldier running and screaming for help (Guard)
+	- [[Eve-thra Arryn (Alina)|Eve]] Amulet starts glowing 
+- [I] Describe scenery, Niedriger Nebel arrives. 
+- [I] Amulet jedem ein leichtes schimmern.
+- [I] Ayo's party fighting in the distance
+- [!] Everyone can cast one spell as preparation 
+- [!] Close curtain to prevent reflection? 
+- [!] (Area with the Portal has explosion crater )
+- [!] Catha ist nicht zu sehen (Neumond)
+- [[RoS_Setup_IMG.jpg]]
+- Encounter 1:
+	- Start: 6 Aurora watch Soldaten (1x dead, geköpft. 2x down -> 2 turns to die), fighting [[hezrou-custom|Hezrou]] and [[draegloth-custom|Draegloth]], hidden [[babau-vgm]] using gaze, [[Ayo Jabe|Ayo]]'s Gruppe kämpft etwas weiter weg
+	- Allies: [[veteran]]
+		- Ein Offizier, zwei normale Soldaten am Leben
+		- USE AVERAGE DAMAGE!!
+	- Enemies: 
+		- Slow dumb Strong: [[hezrou-custom#^statblock|Hezrou]]
+			- "hulk artige Kröte mit spikes auf dem rücken, drei finger mit langen Krallen, Spitzen Zähnen"
+			- [[Hezrou_IMG.png]]
+			- **Tactic**: can grapple and throw on range
+		- Smart fast Strong: [[draegloth-custom#^statblock|Draegloth]]
+			- [[Draegloth_IMG.png]]
+			- **Tactic**: Will use Web if enemy is too far away
+		- Smart fast weak: [[babau-vgm#^statblock|Babau]]
+			- [[Babau_IMG.png]]
+			- **Tactic**: Can cast darkness and levitate to really fuck with the party
+		- fodder: [[wretched-sorrowsworn-custom#^statblock|Wretched]]
+			- [[Wretched_IMG.png]]
+			- **Tactic:** Has advantage if allies are nearby! And resistance if in dim light / darkness!
+		- final boss: [[nycaloth-custom#^statblock|Nycaloth]] (maybe go all out with damage on everyone, including Rivals)
+			- (optional): Hat metallische Handschuhe [[ForceGauntled_IMG.png]]
+			- **Tactic:** Spells + can push people + AOE attack 
+	- Lair Actions:
+		- DC 13 Dexterity  Save: 2d6 necrotic damage. Half on save, if <8: max hp reduced
+			- "Hands in the fog take their life away"
+		- DC 13 Charisma Save: Attack rolls have disadvantage, other spells: DC 10 spell casting check or potentially miss. if <8: all attacks have advantage
+			- "Leid/Kummer überschüttet, unkontrollierbares Weinen"
+		- DC 13 Intelligence Save: Spend action to fight or take 2d6 Psychic damage, if <8 permanent +1d6 damage regardless
+			- "Gegner/Skelette bilden sich aus dem nebel und greifen an"
+		- DC 13 Strength Save on ground: Ground is difficult terrain, if <8: 0 movement
+			- Steinige Untergrund wird schlammig"
+- PHASE 2
+	- Prepare notes to write everyone's description 
+	- Make it so time slows down and some scenes occur on the battlefield
+	- [I] Für das was folgt soll bitte immer nur der Reden der dran ist der rest soll bitte ruhig bleiben, es wird jetzt etwas serious.  
+	- [I] Zeit scheint sich zu verlangsamen und ihr fühlt wie euch ein enormes Gefühl an Leid und Trauer überkommt. Beschreibt das schlimmste was eurem Character passiert ist oder passieren könnte, wo ihr euch am schlechtesten Gefühlt habt oder fühlen würdet.-> können details weg lassen um nichts den anderen zu verraten
+	- Was seht ihr? Was fühlt ihr? Was denkt ihr?
+	- [!] Everyone who is corrupted needs to make a CH15 save 
+	- [[Kenshi Takahashi (Til)|Kenshi]] addition: 
+		- Es Regent, Siehst duzende Leichenhaufen, Viele in Rüstung aber auch Familien...Kinder
+		- Du Schaust nach oben und siehst keine Sonne, keinen Mond, nur endlose Dunkelheit, spürst wie der Regen auf dich nieder prasselt, über dich Fließt. 
+		- Dein Blick fällt nach unten, du siehst wie der rote Regen an deinen armen hinunter läuft. Blut an deinen Händen und ganzen Körper klebt. Es sind nicht deine Hände aber sie fühlen sich so an als wären sie deine. Du hast die gleichen Hände schon einmal in einer Erinnerung gesehen hast. Dunkel blaue Haut, fast schon Lila,  
+		- Dir fällt auf wie schwarze Fäden vom Handgelenk aus in den Himmel steigen
+		- Zeit vergeht und du hörst töne wie Metall auf Metall schlagen, Schwert Hiebe und so so viele Schreie 
+		- Leichen werden immer mehr und jedes mal wenn eine weitere erscheint steigt ein kleiner weißer Punkt in den Himmel, 
+		- Hörst eine tiefe Stimme: "Haltet sie auf bevor sie die Umbral Gates erreichen...tötet sie alle"
+		- Blut steht bis zu deinen Knien, Du willst dich bewegen kannst es aber nicht
+		- Alles löst sich in schwarzen Rauch auflöst und du ein tiefes Lachen hörst
+		- Alles wird schwarz -> Überkommt ein Gefühl das du schon sehr gut kennst: regret
+		- Wieder zurück: Fühlt stechenden Schmerz am Hals + keine Luft
+	- [[Sai Nailo - (Karl)|Sai]] addition: Maybe do at long rest, but play Provenance of Dark again!!
+		- Maybe transition with water wave washing everything away then:
+		- [I] Du siehst zwei Personen vor dir, beide Elf, ein größerer schlanker Mann leicht braune Haut mit kurzen schwarzen Haaren er trägt einen langen beigen Mantel mit hohen Kragen, darunter eine schwarze Leder Weste mit weißten Schal, ein größeres Buche steckt in einer Seitentasche. Die andere eine Frau, nur leicht kleiner als du, mit langen weißen Haaren und Eisblaue Augen die dich an deine eigenen Erinnern. Sie trägt ein langes bläuliches Kleid. Ihr rechter Arm ist voller Tattoos, schwarze Linien die abgewinkelt um den Arm gehen. An ihrem linken Arm trägt sie einige Armreifen und ketten
+		- [!] what do you want to do
+			- He notices that he is underwater but is not bothered
+		- [I] Der mann hält seine Hände zu dir aus...-....auf einmal beginnst du zu sinken und diese ekelhaften fleischigen roten Adern kommen von allen Seiten und versperren dein Sichtfeld, das letzte was du siehst ist: Perception Check: schlingen sich um den Mann. 
+		- [I] Du kannst nicht mehr Atmen und sinkst weiter 
+		- Details if he asks: 
+			- Man has prosthetic finger, wears leather vest with white scarf
+			- Woman wears "armloses Kleid", Armreifen und Ketten sehen sehr billig und selbstgemacht aus. Manche sogar wie von einem kleinen Kind gemacht
+	- [[Melantha (Melli) (Daniel)|Melli]] addition (if daniel describes this scene): Do at long rest or after seeing [[Aloysia Telfan]]
+		- Remembers the moment when two people talked with her parents, nur von der Ferne
+			- Rote Robe (crimson/Purpurrot) (darunter braun/schwarze Kleidung)
+			- Die eine einfach, die andere hatte war mit vielen Mustern und Edelstein Verzierungen bestückt, Kleidung die du noch nie zuvor gesehen hast 
+			- (Tabaxi / Female Human)
+			- Flash: erinnert sich an [[Aloysia Telfan]] /  [[Vrill, the Moth]] ihr Umhang sah genauso aus
+	- **Kenshi**: Fühlt stechenden Schmerz am Hals + keine Luft (roter strich um Hals -> Narbe)
+	- Lair action 2 activates. 
+	- Portal öffnet sich
+- Vision 1: 
+	- [!] Stop battle music
+	- [I] Eure Sicht verdunkelt sich und für einen Moment befindet ihr euch unter Wasser. Der enorme druck presst euch den Atem aus der Lunge während in der Ferne ein schwaches rotes Licht zu sehen ist.
+	- [I] Dann, einen Moment später, seid ihr wieder auf dem Schlachtfeld..aber auf einem anderen und ihr seid nicht ihr selbst, euer Körper und eure Gedanken sind die eines anderen. 
+	- [!] Start vision music now
+	- [I] Der Himmel ist dunkel, und du bist von unzähligen Kreaturen umgeben. Du stichst deinen Speer durch einen grässlichen Dämon, bevor du dich drehst und die Kehle eines ebenso hässlichen Elfen durchschneidest, eines derjenigen, die sich auf die Seite der Betrayer gods schlagen. 
+	- [I] Du siehst, wie einer deiner Verbündeten niedergestreckt wird, sein rotes Blut vermischt sich mit dem schwarzen Schleim, den du unter deinen Schuhen spürst. Du wirbelst herum und weichst aus, schneidest und stichst zu, während der Geruch von Blut und faulen Eiern in deiner Nase brennt.
+	- [I] Du wirst von nur einem Gedanken motiviert: "Wo ist Perigee?" 
+	- [I] Ein massiver Dämon mit Stoßzähnen und schwarzen Federn fährt dir mit seinen Klauen über den Rücken... Du spürst ihn kaum, bemerkst nur die Zeit, die du brauchst, um ihm einen Speerstoß durch den Schädel zu setzen. 
+	- [I] Du **musst** Perigee finden. 
+	- [I] Wenn ein Wesen, das von der Moonweaverin selbst erschaffen und gesegnet wurde, den Fluch von Ruidus nicht überwinden kann, welche Hoffnung gibt es dann noch? Sie führt den Sturm an; sie wird bei den schlimmsten Schlachten dabei sein, mit den größten Dämonen kämpfen. 
+	- [I] Du stürmst durch einen Haufen kleinerer Dämonen, mit dem Schild voran, und wirfst sie zu Boden, nicht ahnend, dass sie unter den Hufen eines Stierdämons zerquetscht werden, der gerade einen anderen deiner Verbündeten aufspießt.
+- [[Maroon 5]] Arrive to help out
+- Vision 2:
+	- Describe start again -> running and finding Perigee
+	- [I] Eine göttlich helle Explosion strahlenden Lichts lichtet das Feld vor dir, und du kannst sie sehen, **Perigee**, mit mondhellen Flügeln und einem glänzenden Streitkolben, der mit schwarzem Blut bespritzt ist. Sie kämpft mit all ihrer Entschlossenheit...Sie ist stark, das weißt du, denn sie hat dir schon unzählige Male das Leben gerettet, während ihr beide versucht habt die dämonische Präsenz in Wildemount zu beenden...
+	- [I] Doch ihr jetziger Gegner ist ein riesiger Dämon mit schwarzen brennenden Flügeln und gewaltigen Hörnern. Seine Peitsche hat sich um ihren Unterarm gewickelt und verbrennt ihr Fleisch; du kannst es von hier aus riechen, kannst die Hitze spüren, die die Kreatur ausstrahlt.
+	- [I] Noch eine Drehung und ein Stich. Du hörst, wie Perigee ein Gebet zur Moonweaver singt, hörst das Klirren, als sie einen feurigen Schwert-hieb abwehrt, riechst brennende Federn. Das göttliche Licht wird heller, ihre Stimme lauter, du rufst ihren Namen. Doch der Dämon schlägt erneut zu, und Abyssal und Göttliches Feuer prallen aufeinander. 
+	- [!] Emil Despair music
+	- [I] Auf einmal scheint die zeit sich auf ein unendliches zu verlangsamen. Eine Schockwelle reißt dir deinen Speer aus der Hand. Du versuchst zu ihr zu kommen, hast deinen Arm ausgestreckt... Eine silberne Träne fließt ihre Backe hinunter und ihre Lippen bewegen sich leicht aber das Piepsen in deinen Ohren ist zu laut um etwas zu verstehen, dir fällt nicht einmal auf das ihr Streitkolben, samt Arm in einem rot/gelben Licht hinter ihr steckt. Du versuchst die Magie des Amuletts zu aktivieren aber es ist zu spät, im nächsten Moment nimmt das Licht dein gesamtes Sichtfeld ein.
+	- [I] Deine Augen werden klar, du blinzelst die Tränen weg. Jeder im Umkreis der Explosion, ob Freund oder Feind, ist verschmort und liegt qualmend auf dem Boden... Der dämonische General ist bereits zu rauchender, schwarzer Galle geschmolzen... 
+	- [I] Perigee ist nur noch sanft glühende, silberne Asche. Im Himmel leuchtet Catha, voll und schön. Daneben glänzt Ruidus, rot und hasserfüllt.
+	- [I] Du fällst auf die Knie. Die Zeit verlangsamt und beschleunigt sich (du weißt ganz genau was sie sagen wollte, denn du hast dir im Moment das gleiche gedacht. )
+	- [I] Auf dem Schlachtfeld um dich herum flieht der Feind und zerstreut sich, sein General ist besiegt. Deine verbliebenen Verbündeten jubeln, denn sie haben einen weiteren Tag überlebt und sind einen Schritt näher Bazzoxan zu erobern....
+	- [I] ...Doch...du kannst keine Freude empfinden.... kannst vor Schmerzen in deiner Brust nicht atmen... 
+	- [I] Ihr seht wie die Sonne aufgeht, und sich Alyxian aufrappelt, sich übers Gesicht wischt, seinen Speer nimmt und aufmacht... in Richtung der schwarzen Festung in den Bergen, um weitere Schlachten zu kämpfen. 
+	- werden zurück gezogen in das hier und jetzt
+	- Erschüttert durch die Echtheit der Vision und der Emotionen: Charisma save (Lair action 2 again)
+	- [!] final music
+	- [I] (slow) Ihr schaut nach vorne und seht wie sich der Spalt ein weiteres mal öffnet und ein größer Demon hin durch schreitet. 
+	- [ ] Jeder der den char save schafft: Ihr hört eine Stimme in eurem Kopf wie als würde sie von weit entfernt kommen: (leidend) "Jeder Demon muss sterben" + maybe gain heal?
+	- What Perigee Thought: (Ich werde bis ans ende der Welt gehen um dich zu finden)
+- Aftermath:
+	- [!] Everyone gains Hero Point!!!
+	- Offizier: [[Kronin Duendalos]], Mensch mit auffallend Lila Augen (Stationiert in [[Rosohna]], Patrouilliert)
+		- Frägt [[Eve-thra Arryn (Alina)|Eve]] ob sie sich schon einmal wo gesehen haben (Taverne in Rosohna)
+			- *(Erkennt Gesichtszüge und Beschreibung von wanted postern)*
+			- [[Eve-thra Arryn (Alina)|Eve]] hat ihn eventuell auf Bildern in den Räumen von ihrem Vater gesehen
+		- Frägt was ihr ziel ist, kann sie empfehlen
+		- [r] 50gp + Empfehlung zu [[Verin Thelyss]] und/oder [[Dayereth Duandalos]]
+			- Info: Thelyss ist einer der ruling dens (Höchsten Familien) mit Den Kryn und Den Mirimm ([[Durth Mirimm]])
+	- [[Maroon 5]]
+		- Went already into [[Bazzoxan]] and returned with a couple Guards
+		- Haben keine Vision gesehen
+		- Fragen was der Rest von Alyxian halten
+		- [[Ayo Jabe|Ayo]]: Hatte Vision von Weltuntergang, Stimme sagt Alyxian nicht zu vertrauen, weiß nicht was sie glauben soll.
+		- [[Galsariad Ardyth|Galsariad]]: Nahe zu einem Zusammenbruch -> beleidigt schon fast jeden (sarkastisch)
+			- Erinnert sich an seine Schwäche nichts für seine Geschwister getan zu haben
+		- [[Irvan Wastewalker|Irvan]] zieht sich immer mehr zurück
+			- Schiebt die Schuld auf seine Schwäche
+		- [[Dermot Wurder|Dermot]]: will am liebsten wieder nach [[Jigow]], alles zu gefährlich
+## NPCs
+- [[Justice]] (red skin, kleine Hörner, Tiefling)
+## Monsters
+
+## Treasure
+- [r] Red Crystal 50g = 500gp
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [r] 50g Paper + 100g Diamonds
+- [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- Stormrider Boots (owned but not repaired)
+	- Nur die Metallsohle ist übrig
+	- Needs to attach leather
+	- 2x DC 20 Tinkering check to activate
+		- Needs Infusion slot to power
+		- Further: Find element to infuse for damage 
+# Summary
+- Finished Caravan Stop
+	- Aurora trying to find out what to fit into the stone
+	- Sai/Kenshi confronting [[Vurnir]] and intimidating him to give them 50g worth of paper + 100g worth diamond. Then [[Vurnir]] left fast
+	- Eve summoning Gojo (White cat) 
+- Travel to [[Bazzoxan]], [[Barbed Fields]]
+	- mostly stayed clear of the deeper [[Barbed Fields]]
+	- [[Sai Nailo - (Karl)|Sai]] confronting [[Kenshi Takahashi (Til)|Kenshi]] first time
+		- using remove curse, no curse but sensing some other presence
+	- [[Sai Nailo - (Karl)|Sai]] confronting [[Kenshi Takahashi (Til)|Kenshi]] second time **(secret)**
+		- using zone of truth, Kenshi couldn't lie
+		- Kenshi, denkt Sehlen nehmen ist besser um gutes zu tun -> wenn er stärker ist kann er mehr retten
+		- Sagt er ist keine Gefahr für die Gruppe
+		- Hat gesagt er hat seine eigene Seele versprochen
+		- Will seine Ehre wieder herstellen -> hat jemanden aus dem righteous brand getötet
+		- [[Sai Nailo - (Karl)|Sai]] hat angst das Kenshi's pact der Gruppe verletzt
+	- Last day of travel saw what can only be [[Bazzoxan]], relatively simplistic looking city that has giant black walls and and even more massive black cathedral in the back built into the mountain
+	- Is a similar view that you saw in [[Alyxian the Apotheon|Alyxian]]'s first vision as he and Perigee led a army of soldiers to [[Bazzoxan]]. While there was a raging battle all around you. Kenshi remembered the destructed Land.
+- Ruins of Sorrow
+	- Followed the help call of a young drow woman
+	- Giant battle ensued while being protected by the amulet, Ayo's group was fighting in the distance what must have been multiple minutes already. (Smaller demons in general, but there where a couple big ones as well)
+	- Mist attacked
+	- New Demons came through a portal 
+	- Worst moment in their live
+		- [[Melantha (Melli) (Daniel)|Melli]]: 
+			- smoke all around, screams, pain, looked behind saw a couple figures that where killed by a arrow rain (parents)
+		- [[Eve-thra Arryn (Alina)|Eve]]
+			- Saw countless people around her as well as this group fall and die. then she died as well (mother)
+		- [[Sai Nailo - (Karl)|Sai]]
+			- is in cave with ritualistic candlelight and a person is injecting something in his shoulder (thinks that's where the wound came from)
+			- Later sees Ruidus flaring indefinitely and everything is burning and destroyed
+				- Exactly the same what [[Ayo Jabe|Ayo]] sees and what the bad ending entails
+		- [[Aurora (Jason)|Aurora]]
+			- Workshop with small dead figure ([[Chobeg Turen]]), everything destroyed, destroyed dreams
+			- Hearing banging fists on door and screams
+		- [[Vorak Stormheart (Lars)|Vorak]]
+			- desolate landscape, demons and undead everywhere, mortals enslaved, everyone he knows dead. A demon king ruling everything. -> [[Xal'thul]] bad ending, [[Tharizdun]] unleashed
+		- [[Kenshi Takahashi (Til)|Kenshi]]
+			- In front of bakery and a man and women (parents). Woman crying. Hears a voice "Do it" and strikes down the man (father)
+			- He is afraid of having to sacrifice his Father to gain power
+			- Had additional vision in a dark place, inhabiting a different body
+		- Fight continued
+		- Ayo's group finished up their side and came to help
+			- Both sides technically helped it each other
+		- Alyxian Vision hit
+			- Out of [[Alyxian the Apotheon|Alyxian]]s POV, saw him fighting against hordes of demons just to get to [[Perigee]].
+			- Saw her in her final Moment as she sacrificed herself to take out the Demon General
+			- With that they won and Alyxian continued despite being absolutely devasted, towards [[Bazzoxan]]
+			- [ ] Distance to [[Bazzoxan]] is exactly the same as from the Ruins you fought + you saw a giant (explosion crater) 
+			- [ ] Also the Amulet he held in his hands (around neck) is the same as the one Eve is wearing
+		- After that [[Nycaloth_IMG.png]] showed up with deadly AOE attacks (ice and fire) while also being able to fly and cast magic
+		- Multiple people went down and almost died, in the final moments while the Nycaloth was charging another fire wave to potentially kill everyone. Vorak missed both his crossbow shots and Kenshi desperately missed his first Eldritch blast but concentrated, remembered what it would mean if he failed now, and annihilated the Nycaloth with a giant beam
+	- Many Aurora watch died, only the General miraculously survived (unconscious) -> Drow girl ran to [[Bazzoxan]]
+- Party Status: Melli/Aurora unconscious, Rivals: Dermot/Irvan unconscious
+- [ ] In recap reveal "Ruins of Sorrow" name
+- [ ] Ask if this seriousness is fine for everyone
+	- [ ] depending on roleplay it can get more intense
+- [ ] everyone should remain serious, everyone thinks fighting is over but still everyone witnessed great deal of trauma -> mostly directed at Kenshi/Melli
+- [ ] No catha in the sky and only Ruidus visible
+- [ ] Galsariad Convo: "Zum Glück sind wir in der Nähe eines Beacons dann hätte wenigstens irvan die Geschichte unserer heroischen Niederlage weiter erzählen können"
+- [ ] Rivals see their worst nightmares, [[Ayo Jabe|Ayo]] sees similar vision to [[Sai Nailo - (Karl)|Sai]] with world burning
+- [ ] Melli/Sai/Vorak need to roll charisma save for [[Ruidium Corruption]]
+- [ ] Könnt gerne nach mehr Beschreibung Fragen, auch nach einer Vision um Sachen zu verstehen
+- [ ] Future: Sai also remembers the extremely red coloring of [[Consortium of the Vermilion Dream]] clothing -> same clothing as the person he saw in Ruins of Sorrow
+- [ ] To Kenshi response: Wir haben die schlimmsten Albträume gesehen von Sachen aus unserer Vergangenheit oder Zukunft, so wie du dich benimmst hast du definitiv etwas aus der Zukunft gesehen und dann hoffe ich für dich das es war wird. Dann lernst du vielleicht das man Freunde braucht die dich an deinem Tiefsten moment unterstützen.  
+ Find Ost to start season -> sad??

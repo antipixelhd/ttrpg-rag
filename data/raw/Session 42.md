@@ -1,0 +1,163 @@
+
+# Current Threads
+- [[Melantha (Melli) (Daniel)|Melli]] trying to find out why her village got attacked
+	- [ ] Restoring her eye -> [[ersatz-eye-xge|Ersatz Eye]]
+- [[Sai Nailo - (Karl)|Sai]] 
+	- destroying [[Consortium of the Vermilion Dream|Consortium]]
+- [[Eve-thra Arryn (Alina)]] 
+	- Trigger [[Ruidium Corruption]], if she "fails" (need alona approval)
+	- Spells to find
+		- [[silent-image]] (1)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+- [[Aurora (Jason)|Aurora]]
+	- More [[Arcane Battery]] stuff
+	- [[Chobeg Turen|Chobeg]] dying to [[Ruidium Corruption]] -> now at 3!
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[The Raven Queen, Matron of Death|Raven Queen]] task to end [[Xal'thul]] -> voices get quite and he regains his other half soul
+	- [[Croog Lynn]]
+# Planning
+## Organisatorisches
+
+- [ ] For me: If deadline to stop -> mention it ingame to speed things along for cliffhanger!
+- [x] Healing potions
+	- Minor: Melli / Selene  / Aurora 
+	- Major: Eve
+- [x] exhaustion 1 for [[Vorak Stormheart (Lars)|Vorak]]
+- [x] [[Sai Nailo - (Karl)|Sai]] is fish cursed!!
+- [x] Remove Illdrex and dreali names (dragonborn/human) from list
+- [x] Clarification
+	- [x] You do roll damage on downed people which can insta kill
+	- [x] Any damage is one death save, any crit is two
+	- [x] But any attack within 5 feet is AUTOCRIT, aka its always a nat 20 (causing two death saves)
+	- [x] if further away its only at advantage (cancels out the prone disadvantage)
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Back on the outside, in [[Ank'Harel]]
+	- [[Eve-thra Arryn (Alina)|Eve]] bought pearls for time spell
+	- [[Irvan Wastewalker|Irvan]] x [[Sai Nailo - (Karl)|Sai]] talk, Irvan: 
+		- Talked about [[Consortium of the Vermilion Dream|Consortium]] and, he wanted to confirm [[Sai Nailo - (Karl)|Sai]] is not hostile
+		- Warned him about bad news coming
+		- Said he shouldn't worry about [[Larthul the Wolf|The Wolf]]
+		- Somehow recognized the mask [[Selene Noctis (Til)|Selene]] wears?!
+	- [[Aurora (Jason)|Aurora]] sold loot, gained 2000+ gold
+		- [[Dreali]], writer and noble, lives in the woods (between districts)
+			- knows "Kenshai"
+	- [[Vorak Stormheart (Lars)|Vorak]] sold Pre-Divergence vintage wine for 1,1k gold
+		- [[Illdrex]] Dragonborn, white shiny scales, in noble district (supplies Palace)
+		- Got [[Sandkeg's Hide]] sample for free! (4 shots)
+			- some kind of VERY intoxicating alcohol 
+	- [[Melantha (Melli) (Daniel)|Melli]] got robbed (insane double nat 1 on perception), lost all her money to unknown attacker
+- Back at [[Harried Mongoose]] (Evening) -> Group talks
+	- [[Selene Noctis (Til)|Selene]] got drunk (first time?)
+		- Also brought out her own wine, from Giants? ([[Westruun]], [[Tal'Dorei]])
+		- Revealed stuff about her backstory
+	- [[Melantha (Melli) (Daniel)|Melli]] and [[Sai Nailo - (Karl)|Sai]] trolled [[Vorak Stormheart (Lars)|Vorak]] with illusion Raven
+		- [[Sai Nailo - (Karl)|Sai]] spottet real raven outside who looked at him
+	- [[Sai Nailo - (Karl)|Sai]] x [[Aurora (Jason)|Aurora]] talk
+		- Sai not sure which side he is on, asking her if she believes in him (regarding [[Maroon 5]])
+	- [[Selene Noctis (Til)|Selene]] x [[Eve-thra Arryn (Alina)|Eve]] talk
+		- About spell, Leiter der Bibliothek ist in [[Ank'Harel]]
+- [[Selene Noctis (Til)|Selene]] went away to talk to [[The Judge|Nummer 1]]
+	- Wanted to make [[Galsariad Ardyth|Galsariad]] suffer
+	- But [[The Judge|Nummer 1]] saw it as too risky, gotta eliminate all possibility of finding out about "the Masks"
+	- Said on Day 5 she will start the mission
+		- Next day Ivella comes!
+	- He knew something about Ivella?!??!
+- Went back to [[Cael Morrow]]
+	- Short stop at [[Cael Morrow - Allegiance Main Base]]
+		- [[Aurora (Jason)|Aurora]] found [[Insight Acuere|Insight]] grieving?, apparently [[Galeokaerda]] was found dead?
+			- Her body older than how long she was missing? ("Months")
+		- They informed [[Iwo Zalarre|Iwo]] about it > will look into it!
+	- Went straight to "disgusting Water" to hunt the [[Aboleth (Alyxian)|Aboleth]]
+		- Found Ruins, turned out to be a giant Graveyard
+		- [[Selene Noctis (Til)|Selene]] suprised attacked one of the spawn to kick things off
+		- [[Aboleth (Alyxian)|Aboleth]] used illusion version of himself and swapped places
+		- He used [[Vorak Stormheart (Lars)|Vorak]] (charmed) to attack and down party members
+			- almost killed [[Sai Nailo - (Karl)|Sai]] once but [[Eve-thra Arryn (Alina)|Eve]] saved him
+		- [[Melantha (Melli) (Daniel)|Melli]] death
+			- used coin to risk it all, potentially come back and end all charms
+			- but rolled death, and instantly died
+		- [[Aboleth (Alyxian)|Aboleth]] made it seem he tried to escape but in reality wanted to kill [[Sai Nailo - (Karl)|Sai]]
+			- Because he used the Amulet, and saw some memories
+			- Everything came down to split second descisions
+				- [[Aurora (Jason)|Aurora]] spottet him and with [[Chovi]] got the killing blow
+	- Resurrection attempt
+		- [[Sai Nailo - (Karl)|Sai]] praying, calling upon memories, even getting [[Eve-thra Arryn (Alina)|Eve's]] help
+		- But it was clear, [[The Raven Queen, Matron of Death|Raven Queen]] doesn't like that you mess with Fate
+		- And even After calling upon [[Sehanine, The Moon Weaver]], no answer came
+		- [[Melantha (Melli) (Daniel)|Melli]] did not wake up
+- Explanation of [[Ruidium Corruption]] mechanic:
+	- From What you know:
+		- Everyone has minor levels, and there major level thresholds 
+		- Increasing the corruption Minor Level, increases the exhaustion by one up to the maximum allowed my the Major Level
+		- Increasing the minor Level above the next Major level threshold increases the Major Level by one and therfore the maximum amount of exhaustion one can get from [[Ruidium Corruption]]
+		- The only way known to decrease [[Ruidium Corruption]] is through the spell [[greater-restoration]]
+			- Reduced the current minor levels back to the nearest major level threshold 
+	- Sai/Melli are currently at Major level 0
+		- Vorak/Eve are currently at Major level 1 -> max exhaustion is currently 1
+# Start
+- [x] [[Olara]] died to radiant burns
+- [x] Describe dead [[Aboleth (Alyxian)|Aboleth]] body
+	- divinity/why Apotheon knowledge and impersonating etc
+	- [x] Last words (mental): "Perigee....." (dont retcon, let [[Ruidium]] part do it)
+- Still have the body of [[Allegiance of Allsight|Allegiance]] member and money
+- Proof of [[Aboleth (Alyxian)]] death!!
+- [ ] If they leave:
+	- [[corrupted-giant-shark-crcotn|Corrupted Giant Shark]] stalking above!!
+# Timeline / Agenda
+- [x] [[Encounter - Melli's Resurrection]]
+- [ ] [[Entering Cael morrow]] [[Cobalt Soul]] quest
+	- [ ] Palace
+	- [ ] Rift
+	- [ ] Broken Towers
+- [x] [[Chobeg Turen|Chobeg]], has only one more week
+- [ ] [[Maroon 5]] could come with them!
+	- [ ] Depends on timing and faction standing!
+	- First rooms are visions only, split at n26 
+- [ ] Before going into [[Netherdeep]]
+	- [ ] Ask if there are any loose threads everyone wants to close!!
+	- [ ] Force [[Encounter - Attack Jamil and J'mon]] here??!?!?
+## Loose Threads
+- Magnet Lore:
+	- magnets sometimes don't work around the [[Cerulean Palace]]! 
+		- (400-600m range) 
+		- Multiple times a day -> more towards the evening
+		- its the [[cobalt-golem-tdcsr|Cobalt Golem]] ability -> have to activate it once per day for maintenance reason
+- [ ] Nobody knows yet that the first [[The Luxon|Luxon]] was discovered after a certain person killed himself
+- [ ] [[Vorak Stormheart (Lars)|Vorak]] attracts [[Ethereal Plane]] creatures (due to half soul)
+- [ ] Door in [[Ank'Harel]] 
+	- Random family is inside who got paid to have symbol there
+	- [x] If [[Main Party]]/[[Eve-thra Arryn (Alina)|Eve]] comes
+		- [ ] [[The Judge]] cast time stop to check out Eve!!
+		- [ ] [[The Visionary]], could be "old grandma" in rocking chair reading something (blind!)
+		- [ ] [[The Child]] is also in entrance hall! -> has mask but also disguise self up!!
+- Veil meeting
+	- Maybe first [[The Veiled Five]] to test them, if they can be trusted they get audience
+		- [[The Judge]] talks with [[Veil of the Forgotten]]!
+	- everyone hidden!
+	- theater style, high up leaders, empty spaces where [[The Veiled Five]] could appear?
+- [ ] [[Encounter - Attack Jamil and J'mon]]
+- [ ] [[Sai Nailo - (Karl)|Sai]] knows location of [[Sentinels of Memory]] base 
+- [ ] [[Bibbity Bobbity]] tasked them with finding a buyer for the ring
+	- [ ] If they dont find it: have to pay 200G for misty step and paper
+	- [ ] Could lead into [[J'mon Sa Ord]]  and [[Bibbity Bobbity]] confrontation!
+- [ ] [[Ulrich]] stole [[Melantha (Melli) (Daniel)|Mellis]] money!! to get revenge
+	- could reinvest into [[The Veil]] to attack them? probably not 
+## NPCs
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 25g = 250gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g) (Aurora has 8x 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [r] Tracking Orb, points to [[Xal'thul]] after he got his body back!!!, currently pointing nowhere
+	- [r] gave it to [[Cobalt Soul]]! 
+- [r] Encoded Sheet of paper found at [[Old Man Kruuk's]]
+	- High DC for decoding! -> transactions, delivers, no names tho
+- [r] [[Aurora (Jason)|Aurora]]: small bronze statue of elf (no gender) that looks to be casting a spell
+	- [r] 35-50gp (Corellon statue) 
+- [r] [[Sandkeg's Hide]] 4x shots (double), worth 100g  
