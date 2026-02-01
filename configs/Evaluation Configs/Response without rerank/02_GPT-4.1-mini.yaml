@@ -48,7 +48,7 @@ retrieval:
 # Reranking (optional) - Re-score results with a cross-encoder model
 # -----------------------------------------------------------------------------
 reranking:
-  enabled: true                  # Set to true to enable reranking
+  enabled: false                  # Set to true to enable reranking
   model: "cross-encoder/ms-marco-MiniLM-L6-v2"  # Cross-encoder model to use
 # -----------------------------------------------------------------------------
 # Query Expansion (optional) - Generate multiple search queries

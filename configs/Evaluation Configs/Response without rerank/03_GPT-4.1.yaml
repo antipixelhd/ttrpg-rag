@@ -1,0 +1,79 @@
+# =============================================================================
+# Base Configuration for TTRPG RAG System
+# =============================================================================
+# This file contains default settings for the RAG pipeline.
+# You can override these values with a custom config file or CLI arguments.
+
+# -----------------------------------------------------------------------------
+# Paths - Where to find and store data
+# -----------------------------------------------------------------------------
+paths:
+  raw_notes: "data/raw"           # Input: Raw markdown session notes
+  processed: "data/processed"     # Output: Cleaned summaries
+  qdrant_storage: "qdrant_storage" # Vector database storage location
+
+# -----------------------------------------------------------------------------
+# Preprocessing - How to extract summaries from raw notes
+# -----------------------------------------------------------------------------
+preprocess:
+  input_pattern: "Session *.md"   # Which files to process
+  extract_section: "# Session Start"  # Section header to extract from
+
+# -----------------------------------------------------------------------------
+# Chunking - How to split summaries into smaller pieces
+# -----------------------------------------------------------------------------
+chunking:
+  strategy: "bullet_points"       # Split by top-level bullet points
+
+# -----------------------------------------------------------------------------
+# Embedding - How to convert text to vectors
+# -----------------------------------------------------------------------------
+embedding:
+  model: "text-embedding-3-large" # OpenAI embedding model to use
+
+# -----------------------------------------------------------------------------
+# Indexing - Qdrant vector store settings
+# -----------------------------------------------------------------------------
+indexing:
+  collection_name: "rpg_sessions_large" # Name of the Qdrant collection
+
+# -----------------------------------------------------------------------------
+# Retrieval - Search settings
+# -----------------------------------------------------------------------------
+retrieval:
+  top_k: 10                        # Number of results to return
+  limit_per_query: 20             # Results per individual query
+
+# -----------------------------------------------------------------------------
+# Reranking (optional) - Re-score results with a cross-encoder model
+# -----------------------------------------------------------------------------
+reranking:
+  enabled: false                  # Set to true to enable reranking
+  model: "cross-encoder/ms-marco-MiniLM-L6-v2"  # Cross-encoder model to use
+# -----------------------------------------------------------------------------
+# Query Expansion (optional) - Generate multiple search queries
+# -----------------------------------------------------------------------------
+query_expansion:
+  enabled: false                  # Set to true to enable query expansion
+  model: "gpt-4o-mini"            # Model to use for generating queries
+
+# -----------------------------------------------------------------------------
+# Response Generation - LLM settings for generating answers
+# -----------------------------------------------------------------------------
+response:
+  model: "gpt-4.1"            # LLM model to use for responses (valid: gpt-4o, gpt-4o-mini)
+  temperature: 0.2                # Low temperature to reduce hallucinations
+  max_tokens: 1000                 # Maximum response length
+
+# -----------------------------------------------------------------------------
+# Output - Control what gets printed during execution
+# -----------------------------------------------------------------------------
+output:
+  verbose: false                  # Print detailed progress (file-by-file, chunk-by-chunk)
+
+# -----------------------------------------------------------------------------
+# Evaluation - Settings for evaluating the RAG system
+# -----------------------------------------------------------------------------
+evaluation:
+  questions_file: "data/questions.json"  # Path to evaluation questions
+  eval_model: "gpt-4.1"                  # Model to use for LLM-based evaluation

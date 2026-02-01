@@ -6,7 +6,6 @@ echo              TTRPG RAG - Batch Configuration Evaluation
 echo ================================================================================
 echo.
 
-REM Ask for evaluation type
 echo Select evaluation type:
 echo   1) Retrieval Evaluation (search --evaluate)
 echo   2) Response Evaluation (chat --evaluate)
@@ -32,13 +31,10 @@ echo.
 echo ================================================================================
 echo.
 
-REM Ask for folder path
 set /p CONFIG_FOLDER="Enter the folder path containing .yaml config files: "
 
-REM Remove quotes if user entered them
 set CONFIG_FOLDER=%CONFIG_FOLDER:"=%
 
-REM Check if folder exists
 if not exist "%CONFIG_FOLDER%" (
     echo.
     echo ERROR: Folder does not exist: %CONFIG_FOLDER%
@@ -50,7 +46,6 @@ echo.
 echo ================================================================================
 echo.
 
-REM Count yaml files
 set COUNT=0
 for %%f in ("%CONFIG_FOLDER%\*.yaml") do (
     set /a COUNT+=1
@@ -69,7 +64,6 @@ echo.
 echo ================================================================================
 echo.
 
-REM Process each yaml file
 set PROCESSED=0
 for %%f in ("%CONFIG_FOLDER%\*.yaml") do (
     set /a PROCESSED+=1

@@ -1,16 +1,16 @@
 [
   {
-    "timestamp": "2026-02-01T11:52:39.820493",
+    "timestamp": "2026-02-01T12:44:42.259285",
     "num_questions": 50,
     "metrics": {
-      "avg_groundedness": 3.18,
-      "avg_correctness": 3.04
+      "avg_groundedness": 3.52,
+      "avg_correctness": 2.82
     },
     "token_usage": {
-      "generation_input_tokens": 106090,
-      "generation_output_tokens": 2180,
-      "evaluation_input_tokens": 118177,
-      "evaluation_output_tokens": 11740
+      "generation_input_tokens": 102413,
+      "generation_output_tokens": 2362,
+      "evaluation_input_tokens": 114685,
+      "evaluation_output_tokens": 12210
     },
     "model": "gpt-4.1-nano",
     "eval_model": "gpt-4.1",
@@ -22,17 +22,17 @@
     }
   },
   {
-    "timestamp": "2026-02-01T12:09:58.320540",
+    "timestamp": "2026-02-01T12:53:56.701611",
     "num_questions": 50,
     "metrics": {
-      "avg_groundedness": 3.16,
-      "avg_correctness": 4.4
+      "avg_groundedness": 3.42,
+      "avg_correctness": 4.44
     },
     "token_usage": {
-      "generation_input_tokens": 106090,
-      "generation_output_tokens": 3736,
-      "evaluation_input_tokens": 119732,
-      "evaluation_output_tokens": 12224
+      "generation_input_tokens": 102413,
+      "generation_output_tokens": 3865,
+      "evaluation_input_tokens": 116184,
+      "evaluation_output_tokens": 12637
     },
     "model": "gpt-4.1-mini",
     "eval_model": "gpt-4.1",
@@ -40,6 +40,94 @@
       "embedding_model": "text-embedding-3-large",
       "top_k": 10,
       "reranking_enabled": true,
+      "query_expansion_enabled": false
+    }
+  },
+  {
+    "timestamp": "2026-02-01T13:03:09.941770",
+    "num_questions": 50,
+    "metrics": {
+      "avg_groundedness": 3.6,
+      "avg_correctness": 4.5
+    },
+    "token_usage": {
+      "generation_input_tokens": 102413,
+      "generation_output_tokens": 4413,
+      "evaluation_input_tokens": 116732,
+      "evaluation_output_tokens": 12404
+    },
+    "model": "gpt-4.1",
+    "eval_model": "gpt-4.1",
+    "config": {
+      "embedding_model": "text-embedding-3-large",
+      "top_k": 10,
+      "reranking_enabled": true,
+      "query_expansion_enabled": false
+    }
+  },
+  {
+    "timestamp": "2026-02-01T15:03:13.482529",
+    "num_questions": 50,
+    "metrics": {
+      "avg_groundedness": 3.38,
+      "avg_correctness": 2.76
+    },
+    "token_usage": {
+      "generation_input_tokens": 98500,
+      "generation_output_tokens": 2098,
+      "evaluation_input_tokens": 110508,
+      "evaluation_output_tokens": 11764
+    },
+    "model": "gpt-4.1-nano",
+    "eval_model": "gpt-4.1",
+    "config": {
+      "embedding_model": "text-embedding-3-large",
+      "top_k": 10,
+      "reranking_enabled": false,
+      "query_expansion_enabled": false
+    }
+  },
+  {
+    "timestamp": "2026-02-01T14:16:28.047218",
+    "num_questions": 50,
+    "metrics": {
+      "avg_groundedness": 3.34,
+      "avg_correctness": 4.18
+    },
+    "token_usage": {
+      "generation_input_tokens": 98500,
+      "generation_output_tokens": 3593,
+      "evaluation_input_tokens": 111999,
+      "evaluation_output_tokens": 12350
+    },
+    "model": "gpt-4.1-mini",
+    "eval_model": "gpt-4.1",
+    "config": {
+      "embedding_model": "text-embedding-3-large",
+      "top_k": 10,
+      "reranking_enabled": false,
+      "query_expansion_enabled": false
+    }
+  },
+  {
+    "timestamp": "2026-02-01T14:23:37.792784",
+    "num_questions": 50,
+    "metrics": {
+      "avg_groundedness": 3.26,
+      "avg_correctness": 4.36
+    },
+    "token_usage": {
+      "generation_input_tokens": 98500,
+      "generation_output_tokens": 3764,
+      "evaluation_input_tokens": 112170,
+      "evaluation_output_tokens": 12306
+    },
+    "model": "gpt-4.1",
+    "eval_model": "gpt-4.1",
+    "config": {
+      "embedding_model": "text-embedding-3-large",
+      "top_k": 10,
+      "reranking_enabled": false,
       "query_expansion_enabled": false
     }
   }

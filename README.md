@@ -1,94 +1,69 @@
 # TTRPG RAG System
 
-A local Retrieval-Augmented Generation (RAG) system designed for querying and analyzing tabletop RPG (TTRPG) session summaries. This system indexes session notes, retrieves relevant context using semantic search, and generates natural language responses to queries about campaign history, characters, and events.
+A Retrieval-Augmented Generation (RAG) system for querying TTRPG session summaries.
 
-## Quickstart
+## Quick Start
 
-### Setup
+### 1. Install Dependencies
 
-1. Create a virtual environment:
-```bash
-python -m venv .venv
-```
-
-2. Activate the virtual environment:
-   - **Windows (PowerShell)**: `.venv\Scripts\Activate.ps1`
-   - **Windows (CMD)**: `.venv\Scripts\activate.bat`
-   - **Linux/macOS**: `source .venv/bin/activate`
-
-3. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-### Configuration
+### 2. Configure API Key
 
-API keys and secrets are stored in configuration files and are **NOT committed** to version control.
+Copy the secrets template and add your OpenAI API key:
 
-1. Copy the example secrets file:
 ```bash
 cp configs/secrets.example.yaml configs/secrets.yaml
 ```
 
-2. Edit `configs/secrets.yaml` and add your API keys:
-   - OpenAI API key (for embeddings and generation)
-   - Google Gemini API key (optional, for alternative generation)
-   - Qdrant URL and API key (if using remote Qdrant instance)
+Edit `configs/secrets.yaml` and replace the placeholder with your actual API key:
 
-3. The `configs/base.yaml` file will reference `secrets.yaml` for sensitive values (exact mechanism TBD in later implementation steps).
+### 3. Initialize the System
 
-## Usage
+Run preprocessing to extract summaries:
 
-### Command Line Interface
-
-View available commands:
 ```bash
-python src/cli.py --help
+python main.py preprocess
 ```
 
-Initialize a new RAG pipeline run:
+Run indexing to create embeddings and populate the vector database:
+
 ```bash
-python src/cli.py init-run --config configs/base.yaml
+python main.py index
 ```
 
-### Run Artifacts
+### 4. Query the System
 
-Each pipeline execution creates a unique run directory under `runs/<run_id>/` containing:
-- Processed data and intermediate outputs
-- Generated embeddings and index snapshots
-- Retrieval results and evaluation metrics
-- Logs and configuration snapshots
+Search for relevant chunks:
 
-This structure enables experiment tracking, reproducibility, and comparison of different pipeline configurations.
-
-## Project Structure
-
-```
-ttrpg-rag/
-├── src/               # Source code
-│   ├── cli.py         # Command-line interface
-│   ├── config.py      # Configuration management
-│   ├── types.py       # Type definitions
-│   ├── paths.py       # Path utilities
-│   ├── preprocess.py  # Data preprocessing
-│   ├── chunking.py    # Text chunking strategies
-│   ├── index.py       # Vector index management
-│   ├── retrieval.py   # Retrieval strategies
-│   ├── expansion.py   # Query expansion
-│   ├── aggregation.py # Result aggregation
-│   ├── reranking.py   # Reranking strategies
-│   ├── prompting.py   # Prompt templates
-│   ├── generation.py  # LLM generation
-│   ├── evaluation.py  # Evaluation metrics
-│   └── reporting.py   # Report generation
-├── configs/           # Configuration files
-│   ├── base.yaml      # Base configuration
-│   └── secrets.example.yaml  # Template for secrets
-├── data/              # Data directories (gitignored)
-├── runs/              # Run artifacts (gitignored)
-└── requirements.txt   # Python dependencies
+```bash
+python main.py search "What happened in session 5?"
 ```
 
-## Development Status
+Get an AI-generated answer:
 
-This project is under active development. The scaffold is in place for incremental implementation of RAG pipeline components.
+```bash
+python main.py chat "Who is the main villain?"
+```
+
+## Available Commands
+
+| Command | Description |
+|---------|-------------|
+| `preprocess` | Extract summaries from raw session notes |
+| `index` | Create embeddings and upload to Qdrant |
+| `search` | Search for relevant session information |
+| `chat` | Get AI-generated answers using RAG |
+| `run` | Run the full pipeline (preprocess + index + search + chat) |
+
+## Common Options
+
+- `-c, --config` - Use a custom config file
+- `-v, --verbose` - Print detailed progress
+- `--evaluate` - Run evaluation on question set (for `search` and `chat`)
+
+## Configuration
+
+Main configuration is in `configs/base.yaml`

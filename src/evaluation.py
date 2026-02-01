@@ -272,7 +272,7 @@ def evaluate_response(config, verbose: bool = False) -> dict:
         all_correctness.append(correctness)
         total_eval_input_tokens += c_in
         total_eval_output_tokens += c_out
-        time.sleep(3)
+        #time.sleep(3)
         
         if verbose:
             print(f"    Correctness: {correctness}/5")
