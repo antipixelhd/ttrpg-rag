@@ -1,0 +1,206 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Who is Lafthal? Wo killed her Parents?
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai 
+	- Problems with faith
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have [[Sehanine, The Moon Weaver]] upgrade the rapier -> evolves to healing -> to dimension rapier
+- Kenshi
+	- ...group solve...
+	- getting support from [[Sai Nailo - (Karl)|Sai]]
+	- Later: Getting power temptation vision
+- [[Eve-thra Arryn (Alina)]] 
+	- [[Vaelistra Zaphyr]] confrontation in [[Betrayers rise]]
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [[Eve-thra Arryn (Alina)|Eve]] ring
+	- [[stone-of-good-luck]] (owned but not repaired)
+		- Gem Auge fehlt, emerald 200gp
+	- Stormrider Boots (repaired)
+		- needs small runic part repaired (in [[Ank'Harel]])
+		- maybe decide between attunement and own slot
+- [[Alyxian the Apotheon]]
+	- [[Betrayers rise]] vision
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[Ank'Harel]] has Cleret Order members 
+	- If he dies he resurrects (once)
+	- He remembers the engravings on [[Blade of broken mirrors]] which are the same as the Necromancer had in his past 
+# Planning
+### Organisatorisches
+- [ ] Kleiner Checkup: Frage ob ihr mit der derzeitigen Gruppen situation zurecht kommt und die okay ist
+	- Wir erzählen eine gemeinsame Geschichte
+	- Speziell die tension in der Gruppe (Melli/Kenshi/Vorak vs Sai/Eve/Aurora)
+		- Entweder euren Charactern ist es egal
+		- Oder es ist ihnen nicht egal aber euch interessiert solche interaction zu roleplayen und diese zu überkommen (sich zu beweisen / rauzureden etc)
+		- Oder ihr habt keine lust drauf und dann hören die anderen auf 
+		- (kann sich auch noch umentscheiden)
+- [ ] Important talk about good/evil + kenshi confrontation/conflict
+	- [ ] Andere fragen wenn ihr euch nicht sicher seid
+	- [ ] actual ernster conflict, soll behandelt werden. Grundsätzlich durch roleplay nicht pvp
+	- [ ] Mir sagen wenn euch was nicht gefällt oder nicht wollt das etwas passiert oder nicht sicher seid bei etwas
+
+- [x] SELF: Make Strichliste to track how many times each one got hit/attacked
+	- add reminder to let [[Melantha (Melli) (Daniel)|Melli]] / Eve have successes -> fail saves for monsters!!
+	- reminder: ask for more stealth checks?!?
+	- current time 9:00
+- [x] About planned roleplay: You have always less time than you think
+- [x] Exhaustion reminder
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Finished Hydra fight
+	- Everyone escape -> Clutch Eve temporal stasis to prevent reactions
+- Aurora didn't want to give the diamond away - tension
+- Followed stairs deeper into the Betrayers Rise
+- Entered a "library" with strange green crystal, wanting to know secrets
+	- Sai admitted his believes in Sehanine are wavering and wants to know his past
+	- Got the response that "I know all secrets", but didnt engage further
+- Solved a small mirror puzzle and went into the blood room with two demonic orcs.
+- [[Kenshi Takahashi (Til)|Kenshi]] talked with Sai and motivated him (insane roleplay) to keep believing in his faith
+- 3 way split on ways to go
+	- Crawlway der zu drei Gängen in unterschiedlichen Farben führt
+		- -> Eve/Melli gained exhaustion
+	- Ein Weg der zu silbernem Nebel führt und den Stimmen die ihr schon einmal auf einer Brücke gehört habt
+	- und zuletzt ein Gang zu einer natürlichen Höhle führt
+# Start
+- Everyone rejoined to discuss were to go 
+- [x] if [[Question]] goes to the edge of the cliff, she will say: "I can hear them...(walks closer) they are down there (walks closer)...I am sure....(jumps)"
+- [ ] Mention [[Kenshi Takahashi (Til)|Kenshi]] maze pattern 
+# Timeline / Agenda
+- [ ] [[Question]] reacts to the group!
+	- [ ] (*if* she sees it again) confronts [[Aurora (Jason)|Aurora]] because of gun -> praises her
+	- [ ] Maybe asks what they did before, how they met?
+	- [ ] Asks [[Eve-thra Arryn (Alina)|Eve]] how she feels about fighting her mother?
+- [ ]  Situation/room to watch a lot of demons?
+## Night Time 
+- [ ] Do [[Alyxian Visions#Parents death (13th)]]? 
+- [ ] [[Question]] -> drinks alcohol to sleep
+- [[Melantha (Melli) (Daniel)|Melli]] / [[Sai Nailo - (Karl)|Sai]] meditate instead of sleeping
+	- ask what they are thinking about
+- [ ] [[Melantha (Melli) (Daniel)|Melli]] wanted to talk with [[Sai Nailo - (Karl)|Sai]] about [[Ruidium Corruption]] (Aids)
+- [ ] [[Eve-thra Arryn (Alina)|Eve]] Albtraum -> mother talking, killing friends etc
+- [[Sai Nailo - (Karl)|Sai]], [[Sehanine, The Moon Weaver]], motivation
+	- possibly roll d100 to find out what happens
+	- scale of only feeling emotion/connection to a doorway appearing and him walking through
+		- [!] Play Sai calm theme -> geige
+		- location should be night, with Herbst setting (rot/braun/gelbe blätter), giant trees?
+		- she appears as moon light floating down
+			- -> he has to react first 
+			- She motivate to believe in friends. But leaves choices to him!
+## Loose Threads
+- If [[Sai Nailo - (Karl)|Sai]] uses [[remove-curse]] on [[Kenshi Takahashi (Til)|Kenshi]]: spellcasting check DC20:
+	- If on Sword: removes attunement -> visual effects? 
+	- Success: 
+		- [i] Everyone leaves table 
+		- fühlt zwei Präsenzen
+		- kann entscheiden ob er zum Luxon oder zum Patron geht -> darkness oder light
+		- Triggers him getting confronted with [[Xal'thul]]
+		- Sees black humanoid husk with black tether into the abyss and grey comforting light
+		- maybe [[Tharizdun]] teaser
+	- Failure: 
+		- knows there is some other presence, that you are not powerful enough to interact with
+	- Regardless: knows there is no curse
+- [[Kenshi Xal'thul Talk]]
+- [[Kenshi Takahashi (Til)|Kenshi]] asking for more from [[Xal'thul]]
+	- [[Xal'thul]] deal
+		- confirm that this is serious business
+		 1) Roll d20 + Charisma mod to decide strength, advantage if insane offering
+			- 15 and higher: max strength
+			- 5-15, save required from hydra
+			- 1-4: doesn't work
+		2) Take offering, roll d100 for lost/remaining years, or favor 
+		3) "Animation" 
+			- Appears
+			- tries to teleport X away but needs more power -> [[Kenshi Takahashi (Til)|Kenshi]] goes unconscious
+			- "Hurl through Abyss" - effects depending on strength 
+	- [[Xal'thul]] appearance -> **more complete!!** -> maybe see void chest -> [[Vorak Stormheart (Lars)|Vorak]] flashback (same amulet)
+		- [i] Play The Mad Devil OST
+		- [[Vorak Stormheart (Lars)|Vorak]] can hear voices from [[Xal'thul]] instead of [[Kenshi Takahashi (Til)|Kenshi]]
+		- [[Xal'thul]] says to [[Vorak Stormheart (Lars)|Vorak]]: (consume soul feeling:) "Ah..ein Teil von dir wurde dir bereits genommen..vielleicht findet es ja noch seinen weg zu mir"
+		- Savage line: "Im Gegensatz zu euch hab ich ihn nicht sterben lassen sondern sein Leben gerettet"
+	- [i] "Ah einen Schritt näher"
+## If they go for Lethal attacks
+- [[Sai Nailo - (Karl)]]
+	- Schulter schmerzt stark und das blaue Licht von sein Amulet flackert und seine Magie wird rötlich
+	- Erinnert sich an die Worte von Sehanine
+	- (**Nur gute Erfahrungen gemacht mit Ayo's Gruppe gemacht**)
+- [[Kenshi Takahashi (Til)|Kenshi]]
+	- Fragen: wie fühlt es sich an?
+		- Eine Dunkelheit umfasst dein Herz und du fühlst dich stark, unbesiegbar aber auf der anderen Seite verlierst du etwas von dir selbst
+		- Du erinnerst dich an den Moment wo du das erste mal einen Meschen getötet hast und schreckst vor dir selbst zurück. Merkst wie sich eine Dunkelheit um dein Herz gelegt hast und schüttelst sie ab. Und du fühlst dich stark. 
+- [[Melantha (Melli) (Daniel)|Melli]]
+	- Wie reagiert Melli auf den Gedanken andere "Menschen" zu töten?
+	- Du fühlst du dich stark und mit den Leuten kannst du sicher dein Ziel erreichen
+- [[Vorak Stormheart (Lars)|Vorak]]
+	- Verdienen für Vorak das Ayo's Gruppe stirbt?
+	- Du hörst die Schreie von _insert dead rival_ weiter in deinem Kopf und es hört nicht auf
+## NPCs
+- [[Kronin Duendalos]]
+- [[Sylphie]] -> Father [[Aderik]]
+- [[Vuzur]]
+- Berrain
+	- Guard of [[Verin Thelyss]]
+	- Can use [[zone-of-truth]] and [[charm-person]]
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 50g = 500gp
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- Stormrider Boots (owned but not repaired)
+	- Used her own Leather boots
+		- Further: Find element to infuse for damage
+		- Effect: uses air to propell 
+- [r] Black diamond - cursed, nobody wants it, maybe unlocks door in [[Betrayers rise]]
+	- gets warmer
+	- Cant give it away, goes unconscious if she looses it while cursed
+- Minor Loot
+	- Drei bunte Ringe (2gp each) -> from the Vrock belly
+- Screwdriver 
+	- "pristine polished metal, with three ring to spin on handle"
+		- First ring: changes type, second ring: changes instrument within type, third ring: changes specifications of instrument
+	- Lore: Tool used by Artificers during the Age of Arcanum (quite common)
+- Aurora Flashlight -> runs on temp battery, still needs 2h of work
+	- each day additive chance that it breaks? (roll d100)
+# Summary
+
+- [ ] [[Galsariad Ardyth|Galsariad]] destroyed the gravity crystal and put a shard into the [[Wand der Unvergessenen]]
+
+- [ ] make some kind of table that decides how much hp [[Maroon 5|Maroon 5]] has, should depend amount of short/long rests in the dungeon
+
+- [ ] say that nobody should say why they attack, stay in character and talk, mind stays calm
+- [ ] add that red mist comes from Vorak and flows towards statue
+- [ ] Sai/Aurora wrote letter to Shandri/Chobeg
+- [ ] [[Xal'thul]] has +1 soul from Orc
+- [ ] use german song as recap song
+- Looked at mist pit, [[Question]] heard voices of her friends
+- looked at lava cave and saw the/a demon that killed Perigee
+- Went through the three tunnels, gained some exhaustion, allways dark was the solution
+	- lead to smaller cave clearing
+	- found books and tagebuch -> found out name but not that [[Xal'thul]] was mentioned -> explain it as "übersetung war falsch"
+	- Fought hands, aurora almost got dragged, Melli dived in and found portal to [[Far Realm]], acidic air
+- Further walking 4h
+- Past black chains, everyone made it except Gojo
+- long rest, +1 day, maybe go back and have conversations -> spicy
+- To the Cathedral...
+	- Everyone failed charisma except Kenshi (maybe adjust)
+	- Vorak failed wisdom save
+- Current time: 4:00
+- Melli regained coin charge in flip
+- [ ]  dont forget nat 1 saves cause much rolling 
+- sleep DC is 17!
+- maybe do [[Alyxian the Apotheon|Alyxian]] vision during sleep?

@@ -1,0 +1,196 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Who is Lafthal? Wo killed her Parents?
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai backstory
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have [[Sehanine, The Moon Weaver]] upgrade the rapier -> evolves to healing -> to dimension rapier
+- Kenshi
+	- ...group solve...
+	- Later: Getting power temptation vision
+- [[Eve-thra Arryn (Alina)]] 
+	- [[Vaelistra Zaphyr]] confrontation in [[Betrayers rise]]
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [[Eve-thra Arryn (Alina)|Eve]] ring
+	- [[stone-of-good-luck]] (owned but not repaired)
+		- Gem Auge fehlt, emerald 200gp
+	- Stormrider Boots (repaired)
+		- needs small runic part repaired (in [[Ank'Harel]])
+		- maybe decide between attunement and own slot
+- [[Alyxian the Apotheon]]
+	- [[Betrayers rise]] vision
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[Ank'Harel]] has Cleret Order members 
+	- If he dies he resurrects (once)
+	- He remembers the engravings on [[Blade of broken mirrors]] which are the same as the Necromancer had in his past 
+# Planning
+### Organisatorisches
+
+- [x] Healing potions
+	- Melli: 2
+- [x] SELF: Make Strichliste to track how many times each one got hit/attacked
+	- add reminder to let [[Melantha (Melli) (Daniel)|Melli]] have successes -> fail saves for monsters!!
+	- reminder: ask for more stealth checks?!?
+	- current time 7:30
+- [x] [[Eve-thra Arryn (Alina)|Eve]] can still change prepared spells
+	- used 3x level 1 slots + 15hp
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+## Session Start
+- Gang voller Messer überstanden -> Opfergabe für den Crawling King
+- Seltsamer Raum voller Federn die in die Wand gezeichnet wurden und einen Altar in der Mitte
+	- Long rested, Melli hat eine Münze aus der Schüssel auf dem Altar genommen
+	- [i] say recovered Exhaustion
+- Centrale Große Kammer
+	- Musik hat den Raum erfüllt und ihr wurdet von Menschenartigen Flammen zum Tanzen aufgefordert
+	- War nötig um die Bunte Mosaik Glaswand zu öffnen -> (Symbole der Betrayer Götter in richtige reinfolge auswählen) -> Sai speed solved it
+	- [[Vorak Stormheart (Lars)|Vorak]] wollte brute forcen -> hätte auch geklappt aber hätte weh getan xD
+- Kenshi/Vorak auf ein par Landminen gestellt
+	- Melli die von Kenshi übernommen und Misty step
+	- Aurora hat Vorak mit dem dimensional sword slice weg teleport
+- Nächster Raum, Weißer Teufel der eine Drachen Gottheit verehrte
+	- Erste Fight der durch intimidation beendet wurde (Kenshi)
+	- Melli wurde mit ner nat1 persuasion nicht ernst genommen und hat seine Gottheit beleidigt
+	- Kenshi wurde in eine Pit trap gezogen in dem Flammen loderten -> Kein problem mit resistance und fly
+- Wo wir aufgehört haben
+	- Hohe 5 eckige Kammer betreten in der in der Mitte haufenweise Silber/Bronze/Gold lag
+	- Von einer Stimme aufgefordert euren "Tribut zu zahlen"
+	- In der Mitte stand Text auf Draconic: *"Häufe Reichtum an aber gebe wenig aus"*
+	- Bis dann eine Riesige Hydra mit 5 Drachenköpfen in den Raum geflogen ist
+	- Ihr habt lange gebraucht bis jeder all sein Geld abgegeben hat was sie schon ziemlich Wütend gemacht hat -> Kenshi hat ein Platinum stück genommen was dann zu viel war
+	- Der zweite von drei Texten sagt: *"Keine Beleidigung darf ungestraft bleiben"*
+- Fight
+	- [[Kenshi Takahashi (Til)|Kenshi]] hat 1,5m x 1,5m Loch in Steinwand gemacht
+	- Hydra und die Statuen im Raum haben euch angegriffen
+	- Aurora hat ihre Schuhe benutzt um Vorak zu heilen und zu entkommen
+
+# Start
+- Melli voulnerable to radiant (+1d4 necrotic), Aurora half healing (1d4 poison)
+- Vorak +1d4 fire
+- the legendary action should be round based instead of dracohydra focused ->  round nothing happened yet
+	- [i] tell everyone! question didn't get hit yet!
+- [ ] Vorak is down but stable, Sai should be still unconsious, til has bane (white is concentrating)
+- [ ] Track Hits!! maybe write everyone hp?
+- [ ] Hydra should focus kenshi with multi attack
+# Timeline
+- [ ] [[Question]] reacts to the group!
+	- [ ] (if she sees it again) confronts [[Aurora (Jason)|Aurora]] because of gun -> praises her
+	- [ ] Maybe asks what they did before, how they met?
+	- [x] [[Blade of broken mirrors]]
+- [ ] Incorporate way to use maze amulet -> maybe suggest just using it and thinking of place
+	- also ask what everyone is doing -> traps might appear
+- [ ] Add situation/room to watch a lot of demons (maybe later)
+## Night Time 
+- [ ] Do [[Alyxian Visions#Parents death (13th)]]? 
+- [ ] [[Question]] -> drinks alcohol to sleep
+- [[Melantha (Melli) (Daniel)|Melli]] / [[Sai Nailo - (Karl)|Sai]] meditate instead of sleeping
+	- ask what they are thinking about
+- [ ] [[Melantha (Melli) (Daniel)|Melli]] wanted to talk with [[Sai Nailo - (Karl)|Sai]] about [[Ruidium Corruption]] (Aids)
+- [ ] [[Eve-thra Arryn (Alina)|Eve]] Albtraum -> mother talking, killing friends etc
+- [[Sai Nailo - (Karl)|Sai]], [[Sehanine, The Moon Weaver]], motivation
+	- possibly roll d100 to find out what happens
+	- scale of only feeling emotion/connection to a doorway appearing and him walking through
+		- [!] Play Sai calm theme -> geige
+		- location should be night, with Herbst setting (rot/braun/gelbe blätter), giant trees?
+		- she appears as moon light floating down
+			- -> he has to react first 
+			- She motivate to believe in friends. But leaves choices to him!
+# Lore on [[Maroon 5|Maroon 5]] member
+ - Saw massive demon with multiple hands and spherical head that had hundrets of eyes
+ - Wanted to take other way and got teleported a bunch, its only time based
+ - maybe already infected with [[Ruidium]] -> [[Aloysia Telfan|Aloysia]] promised cure
+## Loose Threads
+- If [[Sai Nailo - (Karl)|Sai]] uses [[remove-curse]] on [[Kenshi Takahashi (Til)|Kenshi]]: spellcasting check DC20:
+	- If on Sword: removes attunement -> visual effects? 
+	- Success: 
+		- [i] Everyone leaves table 
+		- fühlt zwei Präsenzen
+		- kann entscheiden ob er zum Luxon oder zum Patron geht -> darkness oder light
+		- Triggers him getting confronted with [[Xal'thul]]
+		- Sees black humanoid husk with black tether into the abyss and grey comforting light
+		- maybe [[Tharizdun]] teaser
+	- Failure: 
+		- knows there is some other presence, that you are not powerful enough to interact with
+	- Regardless: knows there is no curse
+- [[Kenshi Xal'thul Talk]]
+## NPCs
+- [[Kronin Duendalos]]
+- [[Sylphie]] -> Father [[Aderik]]
+- [[Vuzur]]
+- Berrain
+	- Guard of [[Verin Thelyss]]
+	- Can use [[zone-of-truth]] and [[charm-person]]
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 50g = 500gp
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- Stormrider Boots (owned but not repaired)
+	- Used her own Leather boots
+		- Further: Find element to infuse for damage
+		- Effect: uses air to propell 
+- [r] Black diamond - cursed, nobody wants it, maybe unlocks door in [[Betrayers rise]]
+	- gets warmer
+	- Cant give it away, maybe later forced to eat it?
+- Minor Loot
+	- Drei bunte Ringe (2gp each) -> from the Vrock belly
+- Screwdriver 
+	- "pristine polished metal, with three ring to spin on handle"
+		- First ring: changes type, second ring: changes instrument within type, third ring: changes specifications of instrument
+	- Lore: Tool used by Artificers during the Age of Arcanum (quite common)
+- Aurora Flashlight -> runs on temp battery, still needs 2h of work
+	- each day additive chance that it breaks? (roll d100)
+# Summary
+
+- [ ] [[Galsariad Ardyth|Galsariad]] destroyed the gravity crystal and put a shard into the [[Wand der Unvergessenen]]
+
+- [ ] make some kind of table that decides how much hp [[Maroon 5|Maroon 5]] has, should depend amount of short/long rests in the dungeon
+- [ ] or Future: only tell [[Melantha (Melli) (Daniel)|Melli]] / [[Kenshi Takahashi (Til)|Kenshi]] about potential level up, 
+
+
+- [ ] Idea for kenshi offering
+	- If Til doesnt specify maybe just let it work or roll (without him telling what he sacrificed)
+		- maybe let kenshi fall unconcious as additional price depending on roll (after [[Xal'thul]] appeared, not to say he came out of kenshi)
+	- What he wants
+		- He wants a "favor"
+		- He wants him to stay behind
+		- Remaining years of his life -> could roll d100 for how many years he looses
+	- In return
+		- Maybe roll d100 for strength
+		- Could appear and teleport Hydra for one round away
+		- Could focus the attention away from party/nullify attacks
+	- Favor
+		- could be later receiving souls 
+		- could be instant betrayal and forces kenshi to stay behind
+			- He would almost certainly insta die, bad because no party conversation
+- [ ] if [[Question]] goes to the edge of the cliff, she will say: "I can hear them...(walks closer) they are down there (walks closer)...I am sure....(jumps)"
+- [ ] no more healing potions -> give some to [[Cobalt Soul]] expedition (most are smashed)
+- Finished Hydra
+	- Everyone escape -> Clutch Eve stasis to prevent reactions
+- Aurora didn't want to give the diamond away - tension
+- Followed stairs deeper into the Betrayers Rise
+- Entered a "library" with strange green crystal, wanting to know secrets
+	- Sai admitted his believes in Sehanine are wavering and wants to know his past
+	- Got the response that "I know all secrets", but didnt engage further
+- Through a small mirror puzzle into the blood room with two demonic orcs.
+- [[Kenshi Takahashi (Til)|Kenshi]] talked with Sai and motivated him (insane roleplay) to keep believing
+- 3 way split on ways to go
+	- Crawlway that leads to 3 colored ways -> Eve/Melli gained exhaustion
+	- One way that's rather close leading to silver mist and the same voices calling out to jumo
+	- last way leading to a natural cavern that's lighted and very hot
+- [ ] Sai/Aurora wrote letter to Shandri/Chobeg

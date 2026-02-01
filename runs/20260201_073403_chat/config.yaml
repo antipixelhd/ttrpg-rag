@@ -1,0 +1,31 @@
+paths:
+  raw_notes: data/raw
+  processed: data/processed
+  qdrant_storage: qdrant_storage
+preprocess:
+  input_pattern: Session *.md
+  extract_section: '# Session Start'
+chunking:
+  strategy: bullet_points
+embedding:
+  model: text-embedding-3-large
+indexing:
+  collection_name: rpg_sessions
+retrieval:
+  top_k: 10
+  limit_per_query: 20
+reranking:
+  enabled: false
+  model: cross-encoder/ms-marco-MiniLM-L6-v2
+query_expansion:
+  enabled: true
+  model: gpt-4o-mini
+response:
+  model: gpt-4.1-mini
+  temperature: 0.2
+  max_tokens: 500
+output:
+  verbose: false
+evaluation:
+  questions_file: data/questions.json
+  eval_model: gpt-4.1

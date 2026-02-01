@@ -1,0 +1,245 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Wo killed her Parents?
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai 
+	- finding out what truly is written in his book
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have [[Sehanine, The Moon Weaver]] upgrade the rapier -> evolves to healing -> to dimension rapier
+		- [[Moonweavers Touch]]
+- [[Eve-thra Arryn (Alina)]] 
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [[stone-of-good-luck]] (owned but not repaired)
+		- Gem Auge fehlt, emerald 200gp
+	- Stormrider Boots (repaired)
+		- needs small runic part repaired (in [[Ank'Harel]])
+		- maybe decide between attunement and own slot
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[Ank'Harel]] has Cleret Order members 
+	- If he dies he resurrects (once)
+	- if he sees [[Kenshi Takahashi (Til)|Kenshi]] chest -> remembers it on the necromancer from his past, possibly also the maze like engravings
+# Planning
+## Organisatorisches
+- [ ] if it comes up [[Sai Nailo - (Karl)|Sai]] doesn't know how old he is or was!! -> was at least 15 when he woke up
+- [x] Current time: 15:00
+- [x] Reminder for insight checks:
+	- Not forced to believe something if you have reason to doubt 
+		- example: random guy pot lying vs [[Kenshi Takahashi (Til)|Kenshi]] who lies a lot
+	- Also used to understand mannerism and pot gain more info
+- [x] Can always summarize events for chars that weren't present but the players were!!
+	- roleplay important if you have something to add
+		- lying, or mannerism/emotions
+		- extra details 
+	- (Example last session [[Aurora (Jason)|Aurora]] telling [[Melantha (Melli) (Daniel)|Melli]] what [[Kenshi Takahashi (Til)|Kenshi]] told them, etc)
+- [ ] Guide for improvising
+	- Never say straight "No", rather do "no but"
+		- casually think about it, 
+		- good guideline for roleplaying with each other
+	- Example: Me saying no to Brunnen but yes there was a bucket near
+
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Finished [[Encounter - Xal'thul Meetup
+	- [[Xal'thul]] said [[Kenshi Takahashi (Til)|Kenshi]] can kill himself when he wants
+	- Or maybe later he can also give up his body to become "immortal"
+- Kenshi x Aurora x Eve
+	- [[Hands of Ord]] alerted, they found the massacre
+	- Said "Kenshai" stayed in [[Step Aside]] for more questions
+- [[Vorak Stormheart (Lars)|Vorak]] business
+	- Did say they would meet in [[Guided District]] / [[Cobalt Soul]]
+	- (secret) Vorak told [[Sai Nailo - (Karl)|Sai]] he would do something else
+		- [[Vorak Stormheart (Lars)|Vorak]] investigated what [[Kenshi Takahashi (Til)|Kenshi]] claimed, wanted to connect with the dead
+		- Met [[Irsu]] from Cobalt soul, they both went into cellar 
+		- Vorak found:
+			- Tagebuch: "Stimme des dunklen Engels das ihn Retten wird"
+			- Stimme von young Asian girl->"Bitte hilf mir" + Armband, selbst geflochten mit stein
+			- Kapuze von guy ohne Augen
+		- [[Irsu]], ladet ihn zum [[Temple of the Mentor]], secret archive
+		- [[Vorak Stormheart (Lars)|Vorak]] did reveal group name and his name 
+- [[Deliver the Figurine]] Quest from [[Allegiance of Allsight]]
+	- Elephant was unstable and appeared and killed 6 people
+	- charged at [[Aurora (Jason)|Aurora]], everyone else ducked out of the way
+	- Almost killed [[Sai Nailo - (Karl)|Sai]], by sitting on him
+	- killed by [[Kenshi Takahashi (Til)|Kenshi]] by blasting its ass open
+	- Gave back figureen to [[Lymmle Wist]]
+		- Said [[Ella]] searches for adventures and stays in the [[First Eclipse (Taverne)]]
+- [[The Cultist of Zehir]] Quest from [[Cobalt Soul]]
+	- followed [[Laurin Ophidas]] via carriage to his apartment in the [[Sigil District]]
+	- master plan with [[Melantha (Melli) (Daniel)|Melli]] knocking, [[Eve-thra Arryn (Alina)|Eve]] making noise (double Nat1)
+		- Turned violent, with [[Kenshi Takahashi (Til)|Kenshi]] and [[Melantha (Melli) (Daniel)|Melli]] engaging [[Laurin Ophidas]]
+		- others keeping watch
+	- [[Laurin Ophidas]] overwhelmed and threatened, he saw [[Kenshi Takahashi (Til)|Kenshi]] markings and dagger from [[Children of Malice]], was very scared
+	- Guards "caught" [[Kenshi Takahashi (Til)|Kenshi]]/[[Sai Nailo - (Karl)|Sai]] and [[Vorak Stormheart (Lars)|Vorak]], bringing them to [[Temple of the Mentor]] 
+	- the rest interrogated [[Laurin Ophidas]] in extra dimensional space created by [[Aurora (Jason)|Aurora]] 
+		- very clutch, [[Hands of Ord]] were swarming. (otherwise would not have gotten more information)
+		- afterwards got out and gave him to the [[Hands of Ord]] 
+# Timeline / Agenda
+- [x] Finish [[The Cultist of Zehir]]
+	- [x] Then free time until evening!
+- [x] [[Question]] funeral
+- [ ] [[Treassure Hunt - Devossa's Lair]] start!
+	- [ ] Meeting [[Ella]]
+	- [ ] Travel
+- [ ] [[Downtime in Ank'Harel]] 
+	- [ ] One or more of [[Maroon 5|Maroon 5]] might reach out to talk?
+- [ ] Alina rolls d20 again next day for [[Vaelistra Zaphyr|Vaelistra Zaphyr]]
+- [ ] [[Sai Nailo - (Karl)|Sai]] realizes "Lianosa" is anagram for "Sai Nailo"
+- [ ] [[Aurora (Jason)|Aurora]] might remember the name "Turen", or "Norbeg sounds familiar"
+- [ ] [[Aurora (Jason)|Aurora]] has encounter if she goes alone 
+- [ ] Random Encounter
+	- [ ] [[Aurora (Jason)|Aurora]] spots emerald on Nobel, its important to them tho
+	- [ ] Somebody alone gets ambushed by three [[thug|Thugs]]
+		- likely only night
+		- say they are from [[The Veil]] but aren't probably
+	- [x] Potentially encounter [[Vrill, the Moth|Vrill]] on the streets, or other member
+		- Either help out members
+		- or tell [[Melantha (Melli) (Daniel)|Melli]] to meet her in the [[First Eclipse (Taverne)]], alleine
+		- Or [[Melantha (Melli) (Daniel)|Melli]] spots her, to potentially tail her
+- If they go research
+	- [[Eve-thra Arryn (Alina)|Eve]] / [[Kenshi Takahashi (Til)|Kenshi]] might spot [[The Luxon|Luxon]] lore book
+## Night Time 
+- [[Sai Nailo - (Karl)|Sai]], [[Sehanine, The Moon Weaver]], motivation
+	- possibly roll d100 to find out what happens
+	- scale of only feeling emotion/connection to a doorway appearing and him walking through
+		- [!] Play Sai calm theme -> geige
+		- location should be night, aber erhellt durch das Mondlicht, with Herbst setting (rot/braun/gelbe blätter), giant trees?
+		- she appears as moon light floating down, could also do childishly playing around
+			- -> he has to react first 
+			- She motivate to believe in friends. But leaves choices to him!
+
+## Loose Threads
+- [[Vrill, the Moth|Vrill]] x [[Aurora (Jason)|Aurora]]
+	- Invites her and [[Melantha (Melli) (Daniel)|Melli]] to come to the [[First Eclipse (Taverne)]]
+	- "Gibt einfach Satzrak bescheid, dass ihr mit der Motte sprechen wollt"
+- If [[Sai Nailo - (Karl)|Sai]] uses [[remove-curse]] on [[Kenshi Takahashi (Til)|Kenshi]]: spellcasting check DC20:
+	- If on Sword: removes attunement -> visual effects? 
+	- Success: 
+		- [i] Everyone leaves table 
+		- fühlt zwei Präsenzen
+		- kann entscheiden ob er zum Luxon oder zum Patron geht -> darkness oder light
+		- Triggers him getting confronted with [[Xal'thul]]
+		- Sees black humanoid husk with black tether into the abyss and grey comforting light
+		- maybe [[Tharizdun]] teaser
+	- Failure: 
+		- knows there is some other presence, that you are not powerful enough to interact with
+	- Regardless: knows there is no curse
+- If [[Ayo Jabe|Ayo]] loses the spear!
+	- [[Xal'thul]] will demand [[Kenshi Takahashi (Til)|Kenshi]] to destroy the spear
+	- [[Xal'thul]] will force a Eldritch smite and will cast [[Banishing-Smite]] himself 
+- [[Kenshi Xal'thul Talk]]
+## If they go for Lethal attacks
+- [[Sai Nailo - (Karl)]]
+	- Schulter schmerzt stark und das blaue Licht von sein Amulet flackert und seine Magie wird rötlich
+	- Erinnert sich an die Worte von Sehanine
+	- (**Nur gute Erfahrungen gemacht mit Ayo's Gruppe gemacht**)
+- [[Kenshi Takahashi (Til)|Kenshi]]
+	- Fragen: wie fühlt es sich an?
+		- Eine Dunkelheit umfasst dein Herz und du fühlst dich stark, unbesiegbar aber auf der anderen Seite verlierst du etwas von dir selbst
+		- Du erinnerst dich an den Moment wo du das erste mal einen Meschen getötet hast und schreckst vor dir selbst zurück. Merkst wie sich eine Dunkelheit um dein Herz gelegt hast und schüttelst sie ab. Und du fühlst dich stark. 
+- [[Vorak Stormheart (Lars)|Vorak]]
+	- Verdienen für Vorak das Ayo's Gruppe stirbt?
+	- Du hörst die Schreie von _insert dead rival_ weiter in deinem Kopf und es hört nicht auf
+## NPCs
+- [[Gennal]], [[Aphelia Starshadow]]
+- [[Irsu]], [[Jamil A'alithiya]]
+- [[Vrill, the Moth|Vrill]]
+- [[Galsariad Ardyth|Galsariad]] 
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 50g = 500gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- Stormrider Boots (owned but not repaired)
+	- 400gp to fix 5-7 days (ordered)
+	- Used her own Leather boots
+		- Further: Find element to infuse for damage
+		- Effect: uses air to propell 
+- [r] [[Black diamond + Scroll]] 
+	- [i] Runes on the scroll glow now
+- Minor Loot
+	- Drei bunte Ringe (2gp each) -> from the Vrock belly
+- Bound Cage, carried by [[Aurora (Jason)|Aurora]] as necklace in form of the diamond
+	- Bound to the Key (not the gem)
+# Summary
+- Meeting at [[Temple of the Mentor]], finishing [[0_Cobalt Soul Story Track|Cobalt Soul Story Track]]
+	- [[Iwo Zalarre]] gave them a sending stone, [[Kenshi Takahashi (Til)|Kenshi]] now has it!
+- Research + [[Sai Nailo - (Karl)|Sai]] going to temple
+	- [[Kenshi Takahashi (Til)|Kenshi]] and [[Vorak Stormheart (Lars)|Vorak]] researching the [[Tharizdun|Chained Oblivion]] (Vorak general, Kenshi specific history, sealing)
+		- [ ] [[Irsu]] knows about the eyes missing and potential connection to [[Tharizdun]]
+	- [[Eve-thra Arryn (Alina)|Eve]] researching dunamancy, found out about [[The Luxon|Luxon]] lore, no proof that a consciousness exists 
+	- [[Aurora (Jason)|Aurora]] researching souls gathering, found soul anchor and lichdom
+	- [[Melantha (Melli) (Daniel)|Melli]] researching [[Consortium of the Vermilion Dream]]
+	- [[Sai Nailo - (Karl)|Sai]] went to Celestial Terrace, met [[Aphelia Starshadow]] 
+		- Used divination to find out [[Vaelistra Zaphyr|Vaelistra Zaphyr]] / [[Callimar Despana|Callimar]] are still tracking them!
+- [[Encounter - Question Funeral]]
+	- Everyone talked, Hydra is now engraved with her saving [[Answer]]
+	- [ ] [[Sai Nailo - (Karl)|Sai]] contacted [[Maroon 5]], specifically [[Galsariad Ardyth|Galsariad]] about [[Encounter - Question Funeral]]
+		- they were already busy, couldn't reach it in time
+		- [[Galsariad Ardyth|Galsariad]] revealed they know they lied!
+	- Mountain spectacle was interrupted by [[Vrill, the Moth|Vrill]]
+		- [[Aurora (Jason)|Aurora]] spottet her + chase
+		- said to talk to [[Satzrak Runestrider|Satzrak]], say they want to speak to "The Moth"
+	- [[Jamil A'alithiya]] confronted [[Kenshi Takahashi (Til)|Kenshi]]
+		- [ ] found out about "hope devourer", he is responsible
+		- [ ] knows [[Kenshi Takahashi (Til)|Kenshi]] is involved
+		- [ ] He believes [[Kenshi Takahashi (Til)|Kenshi]] is on their side, doesn't want to push too hard since he knows about patrons. Wants to use him to get more information. Suspects that "hope devourer" can listen and might act
+		- [ ] did offer help
+		- if he ever removes the sending stone, he will know that he betrayed the
+- Peak roleplay
+	- Started with [[Kenshi Takahashi (Til)|Kenshi]] nightmare
+		- [ ] Darkness, Blood pool, hands reaching up (making the same mistakes again)
+	- [[Kenshi Takahashi (Til)|Kenshi]] revealing trauma to first [[Melantha (Melli) (Daniel)|Melli]], then [[Sai Nailo - (Karl)|Sai]]/[[Aurora (Jason)|Aurora]], then rest
+		- [ ] "Ich kann damit nicht leben"
+		- [ ] "Leute haben angst vor ihm, jetzt weiß ich warum"
+		- [ ] "Mit meinem Tod wird alles beginnen, mein Ende, dein Ende, das Ende"
+		- [ ] Still has trauma from the girl
+	- [[Vorak Stormheart (Lars)|Vorak]] said "mich kennt er schon", revealing his connection
+	- [[Kenshi Takahashi (Til)|Kenshi]] blasting [[Aurora (Jason)|Aurora]] with nat 20 + eldritch smite (forced)
+	- [[Eve-thra Arryn (Alina)|Eve]] x [[Kenshi Takahashi (Til)|Kenshi]] (broken at this point)
+		- [ ] "Willst du Leben", reassuring that the group will help them
+		- [[Kenshi Takahashi (Til)|Kenshi]] doesn't want to live if [[Sai Nailo - (Karl)|Sai]] leaves them
+		- Ended session at [[Kenshi Takahashi (Til)|Kenshi]] finding empty room of [[Sai Nailo - (Karl)|Sai]]
+	- [[Sai Nailo - (Karl)|Sai]] left with saying that he doesn't want [[Kenshi Takahashi (Til)|Kenshi]] to die
+- [ ] [[Sai Nailo - (Karl)|Sai]] wants to talk to [[Sehanine, The Moon Weaver|Sehanine]] next, he gave [[Jewel of three prayers Abilties]] to [[Aurora (Jason)|Aurora]]
+- [ ] [[Vorak Stormheart (Lars)|Vorak]] has currently the [[Blade of broken mirrors]], established that it can teleport back to [[Kenshi Takahashi (Til)|Kenshi]] as long as he is attuned. Also [[Xal'thul]] forcefully smite [[Aurora (Jason)|Aurora]], normally only if he fails wisdom save but this time he was too broken to resist
+- [ ] Daniel, Wants to contact [[Consortium of the Vermilion Dream|Consortium]] to get help to beat [[Xal'thul]] or destroy blade?, [[K'Var the Corrupted|K'Var]] could pot destroy it using [[Ruidium]]
+	- He could also demand it (evil + greedy)
+	- Consortium could want money -> tie in to side quest
+	- or service to help them get more [[Ruidium]] 
+- [ ] [[Gennal]], worshipper of the [[Bahamut, The Platinum Dragon]], who came up from the [[Blessing Well]] and talked to [[Sai Nailo - (Karl)|Sai]] 
+- [ ] Insane [[Xal'thul]] line if they fight: to [[Vorak Stormheart (Lars)|Vorak]]: "Du glaubst wirklich du könntest deine andere Hälfte wieder zurück bekommen wenn du mich besiegtst. HAHAHA du wirst doch nur benutzt, sie ist schon lange vernichtet worden. Dumme sterbliche die immer den Göttern glauben"
+- [ ] [[Xal'thul]] knows [[Alyxian the Apotheon|Alyxian]] is the one who killed him and is alive
+	- nobody knows that he killed ihm, or how he got sealed
+- [ ] [[Xal'thul]] said they can only destroy the sword if [[Kenshi Takahashi (Til)|Kenshi]] dies
+	- this is only true because then [[Xal'thul]] will resurrect!
+- [ ] [[Kenshi Takahashi (Til)|Kenshi]] breaking contract means that his father dies ([[Xal'thul]] will threaten)
+- [ ] party goal is to kill/destroy [[Consortium of the Vermilion Dream]]
+	- [[Cobalt Soul]] will be against it -> need to gather evidence. Once they have (cobalt soul) the party can act. But first they have to prove themselves!
+	- [[Allegiance of Allsight|Allegiance]] wouldnt be opposed to it, dont like them. But concerned because of [[Hands of Ord]]
+- [ ] [[Vrill, the Moth|Vrill]] knows how to destroy the sword -> [[K'Var the Corrupted|K'Var]] anti magic, 
+	- [ ] define what she would want in return -> get back on main story with "money maybe"
+- [ ] design [[Asmutayya]] lair action for damage
+	- maybe summon statues 1d6 per round, dont make it too similar to [[Xal'thul]]!!!
+- [ ] [[Xal'thul]] might look into getting the soul anchor from [[Aurora (Jason)|Aurora]]
+- [ ] look into beholder lair, maybe have [[Sai Nailo - (Karl)|Sai]] and [[Melantha (Melli) (Daniel)|Melli]] be getting the feeling of "getting followed"
+- [ ] [[Galsariad Ardyth|Galsariad]] will approach [[Eve-thra Arryn (Alina)|Eve]] to get any connecting peace to her mother
+	- Ring/dagger could work
+	- only if he fails one more time
+- [ ] [[Vrill, the Moth|Vrill]] could ask [[Melantha (Melli) (Daniel)|Melli]] for a job (to join [[Consortium of the Vermilion Dream]])
+	- Only do it if [[Melantha (Melli) (Daniel)|Melli]] doesnt soon contact her

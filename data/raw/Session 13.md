@@ -1,0 +1,164 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Who is Lafthal?
+	- encounter with [[Aloysia Telfan]]
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai backstory
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have [[Sehanine, The Moon Weaver]] upgrade the rapier -> evolves to healing -> to dimension rapier
+- Kenshi
+	- consecution Decisions
+	- finding [[Blade of broken mirrors]]
+	- Later: Getting power temptation vision (maybe after retrieving the blade)
+- [[Eve-thra Arryn (Alina)]] 
+	- Will meet [[Vaelistra Zaphyr]]
+		- Find out Plans of [[Betrayers rise]] and [[Xal'thul]]
+	- [[Kronin Duendalos]] talk
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [[Eve-thra Arryn (Alina)|Eve]] ring
+	- [[stone-of-good-luck]] (owned but not repaired)
+		- Gem Auge fehlt, emerald 200gp
+	- Stormrider Boots (owned but not repaired)
+		- Nur die Metallsohle ist übrig
+		- Needs to attach leather
+		- 2x DC 20 Tinkering check to activate
+			- Needs Infusion slot to power
+			- Further: Find element to infuse for damage 
+- [[Alyxian the Apotheon]]
+	- Talking with researchers and [[Betrayers rise]] vision
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- Raven Feather -> noticed by the Raven queen
+	- If he dies he resurrects (once)
+	- He remembers the engravings on [[Blade of broken mirrors]] which are the same as the Necromancer had in his past 
+# Planning
+### Organisatorisches
+- [x] Drake -> Wyvern
+
+
+---
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- You received a request from [[Verin Thelyss]] to investigate what exactly the foreign researchers in [[Bazzoxan]] are planning.
+- [[Sai Nailo - (Karl)|Sai]] / [[Aurora (Jason)|Aurora]]
+	- Were at the [[Wand der Unvergessenen]]
+		- They offered a memento of [[Naevyn Tasthar]].
+	- [[Aurora (Jason)|Aurora]] was unsuccessful with the ballista
+- The rest sought out [[Vuzur]], the hobgoblin, in the canteen
+	- Not the brightest, has been mocked for quite a while
+	- He was offered a reddish crystal as a bribe
+- You set out toward the [[Betrayers rise]] and lied your way past the [[Aurora Watch]].
+	- [[Kenshi Takahashi (Til)|Kenshi]] touched the Umbral Gates and collapsed, saw a vision of his past self:
+		- He saw memories of a past life in which he took part in the last great battle of the [[Betrayers rise]], fighting on the side of the demons.
+		- You decided to resist and tried to stop, and the past body wanted the same, but it was futile - your willpower was too weak.
+		- While a kind of leader flew above you on his drake, you moved toward [[Alyxian the Apotheon|Alyxian]]. Just before you could strike the first blow, your memories jumped forward in time.
+		- You were completely alone in the ruins of [[Bazzoxan]] and finally felt a sense of freedom. With your last strength, you wanted to atone for your sins and killed yourself.
+		- Yet a part of you was still bound to the darkness. You saw thousands of souls falling with you.
+		- Until a grayish light suddenly stopped the fall and pulled you toward it.
+- [[Verin Thelyss]] explained [[Consecution|Anamnesis]] and [[Consecution]]
+	- Consecution is the ritual that binds a soul to the Luxon. If someone who is consecuted dies, they are reborn. 
+	- The memories usually return at a young age, which is called [[Consecution|Anamnesis]]. To help [[Kenshi Takahashi (Til)|Kenshi]], an important person from [[Rosohna]] will be coming.
+- In the temple of [[Avandra, The Change Bringer]], you encountered [[Foghome the Gardener]] (firbolg), who examined the amulet.
+- Lastly, you returned to the Ready Room to have a drink and talk with [[Question]] the tiefling
+	- She showed you her notebook 
+	- You noticed Aloysia entering the barn after you and eavesdropping on you from the bar.
+# Start
+- Sonne ist untergegangen
+- Tisch in der Mitte an der Wand mit Question
+	- [i] Kennt [[Perigee]], Engel von [[Sehanine, The Moon Weaver]]. 
+	- [i] Weiß das Sehanine [[Perigee]] geschickt hat um einem Helden in Wildemount beiseite zu stehen. Sie ist in Xhorhas gefallen und er ist in Marquet durch den Speer eines Betrayer gods gestorben.
+# Timeline
+- Night
+	- [x] Resolve [[Ready Room]], [[Aloysia Telfan|Aloysia]] and [[Question]]
+		- [x] [[Maroon 5]] showing up? -> gambling to ease tension
+	- [x] Potential [[Foghome the Gardener]] vision
+- Next day
+	- [x] [[Prolix Yusaf|Prolix]] encounter with Vrock encounter at Sacrifice Engine
+	- [x] [[Kronin Duendalos]] leaving?
+	- [x] [[Vaelistra Zaphyr|Visenya Telass]] roaming + maybe encounter
+	- [[Essek Thelyss]] showing up
+## Loose Threads
+- [x] [[Bazzoxan]] - [[Betrayers rise]] Lore, (Seat of Demon Lords + was called [[Bazzoxan]])
+- [[Graviton Lance(Lanze)|Ballista]] 
+- If Kenshi asks about [[Xal'thul]]
+	- History check DC 20: Falls unconscious, shaking, Schaum aus dem Mund, as he recalls countless of images and is overloaded
+	- Views childhood memories like on a tv but are all in first person
+## NPCs
+- [[Kronin Duendalos]]
+- [[Sylphie]] -> Father [[Aderik]]
+- [[Vuzur]]
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] Red Crystal 50g = 500gp
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- Stormrider Boots (owned but not repaired)
+	- Nur die Metallsohle ist übrig
+	- Needs to attach leather
+	- 2x DC 20 Tinkering check to activate
+		- Needs Infusion slot to power
+		- Further: Find element to infuse for damage 
+---
+- [r] Metallische Brille -> [[eyes-of-the-eagle|Eyes of the Eagle]] 
+- [r] [[Black Box Puzzle]] 
+# Summary
+- [[Ready Room]]
+	- [[Question]] finished 
+		- (she too scared to go in)
+	- [[Aloysia Telfan|Aloysia]]
+		- Melli/Aurora talked with her, revealed basic intentions, offered 50g per person to pay them
+		- She noticed Melli injury and Melli revealed that someone similarly clothed injured her like that
+			- [ ] Decide if Aloysia knows more about that or not
+- [[Foghome the Gardener]]
+	- Finished vision
+- [[Aurora (Jason)|Aurora]] went to wall
+	- Kenshi helped with dice set throwing down
+	- Melli cried to mask Aurora
+		- Maybe award inspiration
+	- tried invisibility got noticed, threw rock
+	- Chace scene, Melli and Kenshi didnt really help anymore, got away
+		- [ ] talk about that, not do in "important" moments
+- The rest talked to [[Maroon 5]]
+	- Ayo revealed someone talking to her, and that you shouldn't trust Alyxian
+- Next Day [[Prolix Yusaf|Prolix]] encounter
+	- got all relevant info
+	- did the [[Black Box Puzzle]]
+		- Aurora and Sai passed out
+		- Sai got probably affected the most
+		- received items, black diamond, and glasses 
+- [[Kronin Duendalos]] left
+	- No talk with Eve
+- Talked with [[Verin Thelyss]]
+	- Pressured to reveal personal goals, he knew who lied
+		- Forced even with Zone of Truth and Charm person on Vorak
+	- [ ] Said he will decide after His brother returns and talked with Kenshi
+- [[Vaelistra Zaphyr|Visenya Telass]]
+	- Encountered the group and introduced kindly
+	- Last reveal: She wants to talk with Ivella privately 
+- [ ] [[Kenshi Takahashi (Til)|Kenshi]] was busy in ready room 
+	- He had to confirm suspicions and meditated
+	- Say he has the option to contact patron
+	- He returned exactly when the others went outside and still heard the name Ivella
+- [ ] if they stay one more night, have story of eve mother about verin
+- [ ] History check for those who it makes sense for Cleret Order
+- [ ] Add the Box room to Betrayers Rise (probably after First knight room)
+- [ ] Say that dnd is designed to be cooperative
+- [ ] Describe [[Crematorium]] when they head north -> add bodies outside being pulled inside
+- [ ] Karl wants solo confrontation with [[Aloysia Telfan|Aloysia]]
+- [ ] If they encounter [[Maroon 5]] maybe have Ayo say: "Mal schauen wer Alyxian zuerst findet"
+- [ ] In case Til still doesnt reveal any truth /everything
+	- They can possibly help
+	- Ask if he is scared of patron

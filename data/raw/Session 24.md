@@ -1,0 +1,206 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Wo killed her Parents?
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai 
+	- finding out about [[Sai Nailo - (Karl)|Lafthal]] and [[Marcus Lianosa]] and [[Ruidium research mission]] 
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have [[Sehanine, The Moon Weaver]] upgrade the rapier -> evolves to healing -> to dimension rapier
+		- [[Moonweavers Touch]]
+- Kenshi
+	- [[Xal'thul]] follower meetup
+	- Later: Getting power temptation vision
+- [[Eve-thra Arryn (Alina)]] 
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [[Eve-thra Arryn (Alina)|Eve]] ring
+	- [[stone-of-good-luck]] (owned but not repaired)
+		- Gem Auge fehlt, emerald 200gp
+	- Stormrider Boots (repaired)
+		- needs small runic part repaired (in [[Ank'Harel]])
+		- maybe decide between attunement and own slot
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[Ank'Harel]] has Cleret Order members 
+	- If he dies he resurrects (once)
+	- if he sees [[Kenshi Takahashi (Til)|Kenshi]] chest -> remembers it on the necromancer from his past, possibly also the maze like engravings
+# Planning
+## Organisatorisches
+- [ ] if it comes up [[Sai Nailo - (Karl)|Sai]] doesn't know how old he is or was!! -> was at least 15 when he woke up
+- [x] Current time: 23:00
+- [ ] Talk at beginning. 
+	- Can absolutely split the party
+	- the more groups the faster we have to be 
+
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Finished gambling ([[Luck's Run Casino]])
+	- went to second floor, roulette
+	- [[Sai Nailo - (Karl)|Sai]] drew picture of [[Question]]
+	- talked with one servant that explained stuff about the [[Bowl of Judgement]]
+- Went to [[Bowl of Judgement]]
+	- met [[Sheed Caltor]] (owner), announced themselves as "Kenshai" instead of NSFW
+	- met [[Kane]], did deal, [[Kenshi Takahashi (Til)|Kenshi]] resisted the "bribe"
+	- [[Kane]] Fight
+		- Turned crowed favor early, with magic and charisma + [[Vorak Stormheart (Lars)|Vorak]] strength, had their own corner who cheered for them
+		- Won the fight with [[Vorak Stormheart (Lars)|Vorak]] holding him and [[Eve-thra Arryn (Alina)|Eve]] finishing with magic missile bolts
+		- Got 185g from betting, 250g as reward + 225g for crowd entertainment
+	- [[Sai Nailo - (Karl)|Sai]] saw [[Norbeg Turen|Norbeg]] and [[Bibbity Bobbity]] in crowd as well as [[Maggie Keeneyes|Maggie]] walking away with red figure 
+		- also felt presence watching from one of the towers of the Palast
+- Went to [[Crossing of Eventide]] (Raven Queen Temple)
+	- [[Kenshi Takahashi (Til)|Kenshi]] stayed outside and followed [[Xal'thul]]s directions
+	- Everyone else met [[Isinia Zeria]], [[Vorak Stormheart (Lars)|Vorak]] told her about his feather and his goals, align with what the raven queen wants
+	- [[Vorak Stormheart (Lars)|Vorak]] went into blood pool, while 6 more woman watched
+	- [[Vorak Stormheart (Lars)|Vorak]] [[The Raven Queen, Matron of Death|Matron of Death]] interaction (was secret)
+		- Was dying when he came back from the pool
+- Later: [[Eve-thra Arryn (Alina)|Eve]] and [[Aurora (Jason)|Aurora]] are searching for [[Kenshi Takahashi (Til)|Kenshi]]
+- [[Encounter - Xal'thul Meetup]] (Kenshi alone)
+	- [[Kenshi Takahashi (Til)|Kenshi]] saw hooded people that hid their face, no eyes
+	- he followed [[Xal'thul]] orders, met girl
+	- everyone killed themselves, seemingly magically compelled by [[Xal'thul]]
+	- everyone was dead, except one guy wishing the best for his son bleeding out, [[Kenshi Takahashi (Til)|Kenshi]] finished him
+	- At the end [[Kenshi Takahashi (Til)|Kenshi]] asked for more strength, [[Xal'thul]] showed that he cant handle the power 
+		- Asked what [[Xal'thul]] needs more, he revealed the only thing missing is his soul
+		- "Deine Seele ist die einzige die mir fehlt"
+# Timeline / Agenda
+- [x] First story track of one Faction
+	- [x] Guide towards [[Treassure Hunt - Devossa's Lair|Side Quest]] 
+- [ ] One or more of [[Maroon 5|Maroon 5]] might reach out to talk?
+- [x] [[Sai Nailo - (Karl)|Sai]] will connect the book once he sees Marquesian writing!
+- [x] Let [[Eve-thra Arryn (Alina)|Eve]]/Alina roll for [[Vaelistra Zaphyr|Vaelistra Zaphyr]] saving throw against scrying from [[Galsariad Ardyth|Galsariad]], only next day tho
+- [ ] [[Aurora (Jason)|Aurora]] might remember the name "Turen", or "Norbeg sounds familiar"
+- [ ] [[Aurora (Jason)|Aurora]] has encounter if she goes alone (could be of Vermillion dream or attack because she gambled)
+- [ ] Random Encounter
+	- [ ] [[Aurora (Jason)|Aurora]] spots emerald on Nobel, important to them
+	- [ ] Somebody alone gets ambushed by three [[thug|Thugs]]
+		- likely only night
+		- say they are from [[The Veil]] but arent probably
+	- [ ] Potentially encounter [[Vrill, the Moth|Vrill]] on the streets, or other member
+		- Either help out members
+		- or tell [[Melantha (Melli) (Daniel)|Melli]] to meet her in the [[First Eclipse (Taverne)]], alleine
+		- Or [[Melantha (Melli) (Daniel)|Melli]] spots her, to potentially tail her
+- If they go research
+	- [[Eve-thra Arryn (Alina)|Eve]] / [[Kenshi Takahashi (Til)|Kenshi]] might spot [[The Luxon|Luxon]] lore book
+## Night Time 
+- [[Sai Nailo - (Karl)|Sai]], [[Sehanine, The Moon Weaver]], motivation
+	- possibly roll d100 to find out what happens
+	- scale of only feeling emotion/connection to a doorway appearing and him walking through
+		- [!] Play Sai calm theme -> geige
+		- location should be night, with Herbst setting (rot/braun/gelbe blätter), giant trees?
+		- she appears as moon light floating down, could also do childishly playing around
+			- -> he has to react first 
+			- She motivate to believe in friends. But leaves choices to him!
+		- "Alyxian hat uns um Hilfe geboten aber wir können ihn nicht sehen und sind an das Divine Gate gebunden, deshalb hab ich dich auf die Reise geschickt."
+		- "Und anscheinend hat Alyxian euch alle auserwählt"
+## Loose Threads
+- [[Vrill, the Moth|Vrill]] x [[Aurora (Jason)|Aurora]]
+	- Invites her and [[Melantha (Melli) (Daniel)|Melli]] to come to the [[First Eclipse (Taverne)]]
+	- "Gibt einfach Satzrak bescheid, dass ihr mit der Motte sprechen wollt"
+- If [[Sai Nailo - (Karl)|Sai]] uses [[remove-curse]] on [[Kenshi Takahashi (Til)|Kenshi]]: spellcasting check DC20:
+	- If on Sword: removes attunement -> visual effects? 
+	- Success: 
+		- [i] Everyone leaves table 
+		- fühlt zwei Präsenzen
+		- kann entscheiden ob er zum Luxon oder zum Patron geht -> darkness oder light
+		- Triggers him getting confronted with [[Xal'thul]]
+		- Sees black humanoid husk with black tether into the abyss and grey comforting light
+		- maybe [[Tharizdun]] teaser
+	- Failure: 
+		- knows there is some other presence, that you are not powerful enough to interact with
+	- Regardless: knows there is no curse
+- If [[Ayo Jabe|Ayo]] loses the spear!
+	- [[Xal'thul]] will demand [[Kenshi Takahashi (Til)|Kenshi]] to destroy the spear
+	- [[Xal'thul]] will force a Eldritch smite and will cast [[Banishing-Smite]] himself 
+- [[Kenshi Xal'thul Talk]]
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 50g = 500gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- Stormrider Boots (owned but not repaired)
+	- 400gp to fix 5-7 days (ordered)
+	- Used her own Leather boots
+		- Further: Find element to infuse for damage
+		- Effect: uses air to propell 
+- [r] [[Black diamond + Scroll]] 
+	- [i] Runes on the scroll glow now
+- Minor Loot
+	- Drei bunte Ringe (2gp each) -> from the Vrock belly
+- Bound Cage, carried by [[Aurora (Jason)|Aurora]] as necklace in form of the diamond
+	- Bound to the Key (not the gem)
+# Summary
+- [[Encounter - Xal'thul Meetup]]
+	- done
+	- [[Xal'thul]] said [[Kenshi Takahashi (Til)|Kenshi]] can kill himself when he wants
+	- Or maybe later he can also give up his body
+	- [ ] [[Xal'thul]] removed markings of [[Tharizdun]] but the dead followers still had their eyes carved out
+	- [ ] 30-50 dead bodies
+- Kenshi x Aurora x Eve
+	- [ ] [[Hands of Ord]] alerted, they found the massacre
+	- [ ] Said "Kenshai" stayed in [[Step Aside]] for more questions
+- [ ] What did [[Vorak Stormheart (Lars)|Vorak]] do ??
+- [[Deliver the Figurine]] 
+	- Elephant was unstable and appeared and killed 6 people
+	- charged at [[Aurora (Jason)|Aurora]], everyone else ducked out of the way
+	- Almost killed [[Sai Nailo - (Karl)|Sai]], by sitting on him
+	- Gave back figureen to [[Lymmle Wist]]
+		- Said [[Ella]] searches for adventures and stays in the [[First Eclipse (Taverne)]]
+- [[The Cultist of Zehir]]
+	- followed [[Laurin Ophidas]] via carriage to his apartment in the [[Sigil District]]
+	- master plan with [[Melantha (Melli) (Daniel)|Melli]] knocking, [[Eve-thra Arryn (Alina)|Eve]] making noise (double Nat1)
+		- Turned violent, with [[Kenshi Takahashi (Til)|Kenshi]] and [[Melantha (Melli) (Daniel)|Melli]] engaging [[Laurin Ophidas]]
+		- others keeping watch
+		- [i] inspiration for [[Eve-thra Arryn (Alina)|Eve]] for plan + roleplay
+	- [[Laurin Ophidas]] overwhelmed and threatened, he saw [[Kenshi Takahashi (Til)|Kenshi]] markings and dagger from [[Children of Malice]], was very scared
+		- [i] inspiration for [[Melantha (Melli) (Daniel)|Melli]] for pulling the dagger
+	- Guards "caught" [[Kenshi Takahashi (Til)|Kenshi]]/[[Sai Nailo - (Karl)|Sai]] and [[Vorak Stormheart (Lars)|Vorak]], bringing them to [[Temple of the Mentor]] 
+	- the rest interrogated [[Laurin Ophidas]] in extra dimensional space created by [[Aurora (Jason)|Aurora]] 
+		- very clutch, [[Hands of Ord]] were swarming. (otherwise would not have gotten more information)
+		- [i] inspiration for [[Aurora (Jason)|Aurora]] 
+- afterwards got out and gave him to the [[Hands of Ord]] 
+- Session start
+	- [ ] maybe search for "faster way to get them to the [[Temple of the Mentor]]" (official carriage or smth)
+	- [ ] define time
+- [ ] [[Ella]] asked if they talked to [[Gamila]] and joined the [[Consortium of the Vermilion Dream|Consortium]] already etc
+	- [ ] she will not go with them, but askes for compensation for telling them something so they dont run away with any spoils
+	- [ ] maybe if they betray her have bartender approach approach and ask that the moth wants to talk to melli and aurora (weakest) 
+		- [ ] could do it regardless 
+- [ ] add more lore to the statue, effects, origin and normal magic item, also make sure it gets displayed in the hall!
+	- [ ] next [[Maroon 5]] will steal it
+- [ ] Prof Alstion Dunten (very old hafling man) was also there (1. floor)
+- [ ] Funeral for question tonight!
+- [ ] -2sp for [[Vorak Stormheart (Lars)|Vorak]]
+- [ ] [[Vaelistra Zaphyr|Vaelistra Zaphyr]] saved with nat 17 against [[Galsariad Ardyth|Galsariad]]
+- [ ] define new second name for [[Vrill, the Moth|Vrill]], the name
+- [ ] look into beholder lair, maybe have [[Sai Nailo - (Karl)|Sai]] and [[Melantha (Melli) (Daniel)|Melli]] be getting the feeling of "getting followed"
+- [ ] If they do both missions or regardless:
+	- [ ] Somehow tell them they cant join both, probably when they get second mission from one faction as this will be the one to join them
+- [ ] [[Vrill, the Moth|Vrill]] could ask [[Melantha (Melli) (Daniel)|Melli]] for a job (to join [[Consortium of the Vermilion Dream]])
+	- Only do it if [[Melantha (Melli) (Daniel)|Melli]] doesnt soon contact her
+- [ ] plan funeral for [[Question]]
+	- could play "the end" for when they display her heroic deed
+	- only focus on certain moments then fast forward the rest
+		- give PCs oppertunity to speak about [[Question]]
+			- "Bitte tretet vor wer für jemanden sprechen will"
+			- "Wir wollen diese Zeit nehmen um uns an ihre besten und heldenhaftesten Momente zu erinnern"
+		- have [[Answer]] speak
+	- [ ] [[Jamil A'alithiya]] will arrange funeral
+		- Will display most heroic thing she did -> saving [[Answer]]
+			- Sees burning village in the background
+		- At the end question will look at answer/the group, not sure and smile +wave
+		- "if lucy is dead, that means they are reunited now"
+	- Ask how each character finds closure then play ost, mention only for those that cared about her 

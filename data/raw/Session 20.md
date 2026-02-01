@@ -1,0 +1,243 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Who is Lafthal? Wo killed her Parents?
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai 
+	- Problems with faith
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have [[Sehanine, The Moon Weaver]] upgrade the rapier -> evolves to healing -> to dimension rapier
+- Kenshi
+	- ...group solve...
+	- getting support from [[Sai Nailo - (Karl)|Sai]]
+	- Later: Getting power temptation vision
+- [[Eve-thra Arryn (Alina)]] 
+	- [[Vaelistra Zaphyr]] confrontation in [[Betrayers rise]]
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [[Eve-thra Arryn (Alina)|Eve]] ring
+	- [[stone-of-good-luck]] (owned but not repaired)
+		- Gem Auge fehlt, emerald 200gp
+	- Stormrider Boots (repaired)
+		- needs small runic part repaired (in [[Ank'Harel]])
+		- maybe decide between attunement and own slot
+- [[Alyxian the Apotheon]]
+	- [[Betrayers rise]] vision
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[Ank'Harel]] has Cleret Order members 
+	- If he dies he resurrects (once)
+	- He remembers the engravings on [[Blade of broken mirrors]] which are the same as the Necromancer had in his past 
+# Planning
+### Organisatorisches
+- [ ] Kleiner Checkup: Frage ob ihr mit der derzeitigen Gruppen situation zurecht kommt und die okay ist
+	- Wir erzählen eine gemeinsame Geschichte
+	- Speziell die tension in der Gruppe (Melli/Kenshi/Vorak vs Sai/Eve/Aurora)
+		- Entweder euren Charactern ist es egal
+		- Oder es ist ihnen nicht egal aber euch interessiert solche interaction zu roleplayen und diese zu überkommen (sich zu beweisen / rauzureden etc)
+		- Oder ihr habt keine lust drauf und dann hören die anderen auf 
+		- (kann sich auch noch umentscheiden)
+- [ ] Important talk about good/evil + kenshi confrontation/conflict
+	- [ ] Andere fragen wenn ihr euch nicht sicher seid
+	- [ ] actual ernster conflict, soll behandelt werden. Grundsätzlich durch roleplay nicht pvp
+	- [ ] Mir sagen wenn euch was nicht gefällt oder nicht wollt das etwas passiert oder nicht sicher seid bei etwas
+- [x] SELF: Make Strichliste to track how many times each one got hit/attacked
+	- add reminder to let [[Melantha (Melli) (Daniel)|Melli]] / Eve have successes -> fail saves for monsters!!
+	- reminder: NAT 1 saving throw!! -> Lots of rolling today!!
+	- current time 4:00
+	- write down everyones HP to track?!?
+	- use ring markers for cursed -> [[Sai Nailo - (Karl)|Sai]] could be clutch
+- [x] Exhaustion reminder -> use ring markers!
+- [x] [[Aurora (Jason)|Aurora]] roll d100 if flashlight breaks! 15
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Three possible paths to go
+	- Looked at mist pit, [[Question]] heard voices of her friends
+		- Vorak stopped her from jumping down
+		- Everyone saw seltsames lila leuchten down, but didnt pursue it
+	- looked at lava cave and saw similar demon that killed Perigee
+		- ran away
+	- Went through the three tunnels, gained some exhaustion, always dark was the solution
+		- lead to smaller cave clearing
+		- found books and tagebuch von [[Isshkar the Burrowed]] (dem Vergrabenen)
+		- Fought hands, aurora almost got dragged, Melli dived in and found portal to [[Far Realm]], acidic air
+- Further walking 4h
+- Past black chains, everyone made it except Gojo who died
+- rested in front of tall doors, mit andauerndem weinen/heulen das aus dem nächsten Raum kommt
+- To the Cathedral...
+	- Everyone failed charisma except Kenshi 
+	- Vorak failed wisdom save
+# Timeline / Agenda
+- [ ] [[Question]] reacts to the group!
+	- [ ] (*if* she sees it again) confronts [[Aurora (Jason)|Aurora]] because of gun -> praises her
+	- [ ] Maybe asks what they did before, how they met?
+- [[Alyxian the Apotheon|Alyxian]] Vision options
+	- Needs time to react -> [[Melantha (Melli) (Daniel)|Melli]] 
+	- [x] Night time
+	- [ ] After Finale
+	- [ ] Leaving the Temple
+## Night Time 
+- [x] Do [[Alyxian Visions#Parents death (13th)]] Do another childhood memory?!?
+- [[Melantha (Melli) (Daniel)|Melli]] / [[Sai Nailo - (Karl)|Sai]] meditate instead of sleeping
+	- ask what they are thinking about!
+- [ ] [[Melantha (Melli) (Daniel)|Melli]] wanted to talk with [[Sai Nailo - (Karl)|Sai]] about [[Ruidium Corruption]] (Aids)
+- [ ] [[Eve-thra Arryn (Alina)|Eve]] Albtraum -> mother talking, killing friends etc
+- [[Sai Nailo - (Karl)|Sai]], [[Sehanine, The Moon Weaver]], motivation
+	- possibly roll d100 to find out what happens
+	- scale of only feeling emotion/connection to a doorway appearing and him walking through
+		- [!] Play Sai calm theme -> geige
+		- location should be night, with Herbst setting (rot/braun/gelbe blätter), giant trees?
+		- she appears as moon light floating down
+			- -> he has to react first 
+			- She motivate to believe in friends. But leaves choices to him!
+## Loose Threads
+- If [[Sai Nailo - (Karl)|Sai]] uses [[remove-curse]] on [[Kenshi Takahashi (Til)|Kenshi]]: spellcasting check DC20:
+	- If on Sword: removes attunement -> visual effects? 
+	- Success: 
+		- [i] Everyone leaves table 
+		- fühlt zwei Präsenzen
+		- kann entscheiden ob er zum Luxon oder zum Patron geht -> darkness oder light
+		- Triggers him getting confronted with [[Xal'thul]]
+		- Sees black humanoid husk with black tether into the abyss and grey comforting light
+		- maybe [[Tharizdun]] teaser
+	- Failure: 
+		- knows there is some other presence, that you are not powerful enough to interact with
+	- Regardless: knows there is no curse
+- [[Kenshi Xal'thul Talk]]
+- [x] [[Kenshi Takahashi (Til)|Kenshi]] asking for more from [[Xal'thul]]
+	- [[Xal'thul]] deal
+		- confirm that this is serious business
+		 1) Roll d20 + Charisma mod to decide strength, advantage if insane offering
+			- 15 and higher: max strength
+			- 5-15, save required from hydra
+			- 1-4: doesn't work
+		2) Take offering, roll d100 for lost/remaining years, or favor 
+		3) "Animation" 
+			- Appears
+			- tries to teleport X away but needs more power -> [[Kenshi Takahashi (Til)|Kenshi]] goes unconscious
+			- "Hurl through Abyss" - effects depending on strength 
+	- [[Xal'thul]] appearance -> **more complete!!** -> maybe see void chest -> [[Vorak Stormheart (Lars)|Vorak]] flashback (same amulet)
+		- [i] Play The Mad Devil OST
+		- [[Vorak Stormheart (Lars)|Vorak]] can hear voices from [[Xal'thul]] instead of [[Kenshi Takahashi (Til)|Kenshi]]
+		- [[Xal'thul]] says to [[Vorak Stormheart (Lars)|Vorak]]: (consume soul feeling:) "Ah..dir wurde schon ein Teil genommen..vielleicht findet es ja noch seinen weg zu mir"
+		- Savage line: "Im Gegensatz zu euch hab ich ihn nicht sterben lassen sondern sein Leben gerettet"
+	- [i] "Ah einen Schritt näher"
+## If they go for Lethal attacks
+- [[Sai Nailo - (Karl)]]
+	- Schulter schmerzt stark und das blaue Licht von sein Amulet flackert und seine Magie wird rötlich
+	- Erinnert sich an die Worte von Sehanine
+	- (**Nur gute Erfahrungen gemacht mit Ayo's Gruppe gemacht**)
+- [[Kenshi Takahashi (Til)|Kenshi]]
+	- Fragen: wie fühlt es sich an?
+		- Eine Dunkelheit umfasst dein Herz und du fühlst dich stark, unbesiegbar aber auf der anderen Seite verlierst du etwas von dir selbst
+		- Du erinnerst dich an den Moment wo du das erste mal einen Meschen getötet hast und schreckst vor dir selbst zurück. Merkst wie sich eine Dunkelheit um dein Herz gelegt hast und schüttelst sie ab. Und du fühlst dich stark. 
+- [[Melantha (Melli) (Daniel)|Melli]]
+	- Wie reagiert Melli auf den Gedanken andere "Menschen" zu töten?
+	- Du fühlst du dich stark und mit den Leuten kannst du sicher dein Ziel erreichen
+- [[Vorak Stormheart (Lars)|Vorak]]
+	- Verdienen für Vorak das Ayo's Gruppe stirbt?
+	- Du hörst die Schreie von _insert dead rival_ weiter in deinem Kopf und es hört nicht auf
+## NPCs
+- [[Kronin Duendalos]]
+- [[Sylphie]] -> Father [[Aderik]]
+- [[Vuzur]]
+- [[Berrain]]
+	- Guard of [[Verin Thelyss]]
+	- Can use [[zone-of-truth]] and [[charm-person]]
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 50g = 500gp
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- Stormrider Boots (owned but not repaired)
+	- Used her own Leather boots
+		- Further: Find element to infuse for damage
+		- Effect: uses air to propell 
+- [r] Black diamond - cursed, nobody wants it, maybe unlocks door in [[Betrayers rise]]
+	- gets warmer
+	- Cant give it away, goes unconscious if she looses it while cursed
+- Minor Loot
+	- Drei bunte Ringe (2gp each) -> from the Vrock belly
+- Screwdriver 
+	- Lore: Tool used by Artificers during the Age of Arcanum (quite common)
+- Aurora Flashlight -> runs on temp battery, still needs 1h30min of work
+	- each day additive chance that it breaks? (roll d100)
+- [[bestow-curse]] Scroll
+	- Infernal Runes inscribed, caster can enter pact with [[exandria-asmodeus|Asmodeus]], needs diamond as offering!
+# Summary
+
+- [ ] reuse BR osts in normal ost -> include playlist
+- [ ] Sai/Aurora wrote letter to Shandri/Chobeg
+
+- [ ] say that voraks eyes return to normal, maybe even have his voice return in thousands of screams then very quite in the background
+- [ ] next spear lightning spear attack (if it happens) should be described as strangely "weaker", something or someone in that moment at the prayer site both enhanced the spear and the amulet 
+- [ ] possible [[Prolix Yusaf|Prolix]] interaction: if they tell them about [[Question]], he suggest telling family members/cobalt soul! (doenst know about answer specifically) -> could have cobalt soul monk interrogation if they are caught lying!
+- [ ] Maybe have [[Melantha (Melli) (Daniel)|Melli]] roll charisma save for [[Ruidium Corruption]] as she saw [[Kenshi Takahashi (Til)|Kenshi]] possibly dead
+	- [ ] maybe [[Sai Nailo - (Karl)|Sai]] because he saw [[Question]] die
+- [ ] Say that [[Vorak Stormheart (Lars)|Vorak]] eyes return to silver and voices return
+- [ ] [[Kenshi Takahashi (Til)|Kenshi]] rolled 11 on d100 -> 11 years lost of his life
+- [ ] vorak real eyes: blau/grün + amber schein
+- [ ] if they encounter [[Callimar Despana]] again maybe have physical alterations because of [[Xal'thul]], or [[Vaelistra Zaphyr|Vaelistra Zaphyr]] will tell what happened to him
+	- Travel should take them 2-3 weeks
+- [ ] maybe add more post lore to [[Aloysia Telfan|Aloysia]] and what she did or what she wanted to find out
+- Long rest before statue
+	- Sai+Melli talk: Coin curse removed -> now unattuned
+	- Sai+Melli tried to get [[Aurora (Jason)|Aurora]] black diamond -> succeeded but she died, back alive when diamond returned
+		- [ ] Diamond could be soul anchor -> in combination with bestow curse scroll can offer soul from whom owns the diamond for blessing from asmodeus
+		- [ ] Or maybe come up with different explanation
+	- Sai+Melli+Kenshi talk: Melli notices Kenshi muster on chest but Kenshi refused to show it for now
+	- Kenshi+Aurora talk: Talk about getting to know each other, shared each others backstory
+	- Did both Alyxians vision
+- Statue fight 
+	- everyone except [[Kenshi Takahashi (Til)|Kenshi]] and [[Question]] failed charisma save 
+	- started with vorak getting out of control and knocking out [[Eve-thra Arryn (Alina)|Eve]], later he apologized with a bow 
+	- Sai came in clutch with advantage on wisdom saves
+	- Kenshi/Aurora had conflict as Aurora blasted Sai
+	- Focused on destroying the boubles on the hands to hinder the curse and regain control
+	- regroup and went further down into the [[Betrayers rise]], [[Kenshi Takahashi (Til)|Kenshi]] promised [[Question]] that they will find her friends eventually
+- [[Avandra, The Change Bringer]] Prayer Site
+	- [[Vorak Stormheart (Lars)|Vorak]] eyes returned to normal and no voices for the first time since they changed
+	- Crystal everywhere, stangely even the read veins where present
+	- [[Eve-thra Arryn (Alina)|Eve]] rested the amulet on the altar and triggered the vision
+		- Saw finale of the [[Betrayers rise]] battle during the calamity
+		- [[Kenshi Takahashi (Til)|Kenshi]] recognized himself as catching [[Alyxian the Apotheon|Alyxian]] off guard but then stopping as a divine moonbeam took the Wyvern rider from the sky and destroying one of the Watchtowers
+		- [[Alyxian the Apotheon|Alyxian]] faced off against [[Xal'thul]] and lost as at this time one blessing was not enough to beat the weakened [[Xal'thul]]
+		- [[Alyxian the Apotheon|Alyxian]] pleaded and gained another blessing from Avandra and taking in a second spark of divinity, his task: to cleanse the world of evil
+		- [[Alyxian Dialogue]] -> last thing he remembers is a giant spear approaching
+	- Waking up and being faced with [[Maroon 5|Maroon 5]] and [[Aloysia Telfan|Aloysia]]
+		- [[Irvan Wastewalker|Irvan]] lost arm and [[Ayo Jabe|Ayo]] gained spear that seemed to influence her mind
+		- Demanded the Amulet for a promise from [[Aloysia Telfan|Aloysia]] (to heal [[Dermot Wurder|Dermot]]?), refused and fight broke out
+		- Party targeted [[Aloysia Telfan|Aloysia]] but she was well defended (poor [[Dermot Wurder|Dermot]] taking hits)
+		- [[Ayo Jabe|Ayo]] threw the spear at [[Eve-thra Arryn (Alina)|Eve]] -> transform to black/yellow lightning, Eve decided to protect and Amulet transformed and giant shield appeared to take the blow
+		- Eve couldnt hold the amulet and Irvan managed to get it to [[Aloysia Telfan|Aloysia]] 
+		- [[Kenshi Takahashi (Til)|Kenshi]] promised [[Maggie Keeneyes|Maggie]] a date with [[Vorak Stormheart (Lars)|Vorak]] (Maggie stopped attacking him lul)
+		- [[Aloysia Telfan|Aloysia]] was getting REALLY low on hp so she decided to safe herself and cast HIGH LEVEL MAGIC (through scroll) to cut off the way
+	- [[Vaelistra Zaphyr|Vaelistra Zaphyr]] and [[Callimar Despana]] showed up, following the direction of a crystal ball...pointing towards [[Xal'thul]]
+		- [[Eve-thra Arryn (Alina)|Eve]] agreed to help her
+		- [[Vaelistra Zaphyr|Vaelistra Zaphyr]] attacked [[Question]] and demanded the sword from [[Kenshi Takahashi (Til)|Kenshi]] but [[Melantha (Melli) (Daniel)|Melli]] took them both away to catch [[Aloysia Telfan|Aloysia]] which lead to [[Question]]'s death :(
+		- [[Galsariad Ardyth|Galsariad]] revealed some of his past and hatred towards Vaelistra but knows they are outmatched so he left with the rest of [[Maroon 5|Maroon 5]] through the teleportation circle created through the first tablet
+		- [[Callimar Despana]] was actually the superior of the two and cast Cloudkill on the party shortening the time to stay alive
+		- In the meantime [[Melantha (Melli) (Daniel)|Melli]]/[[Kenshi Takahashi (Til)|Kenshi]] killed [[Aloysia Telfan|Aloysia]] to gain another tablet but were cut off -> [[Kenshi Takahashi (Til)|Kenshi]] sacrificed something to summon [[Xal'thul]] and give him more strength to make Callimar disappear and cause Vaelistra a lot of pain
+		- That way the party was able to escape through another tablet that [[Aurora (Jason)|Aurora]] got using her boots. 
+			- Was close as [[Sai Nailo - (Karl)|Sai]] was the last one who was face to face with Vaelistra
+		- [[Melantha (Melli) (Daniel)|Melli]] helped [[Kenshi Takahashi (Til)|Kenshi]] back up, looted and used the last tablet to escape the [[Betrayers rise]]
+- [[Arrival in Ank'Harel]]
+	- [ ] Decide if [[Maroon 5|Maroon 5]] is there -> probably yes
+		- [ ] Have [[Ayo Jabe|Ayo]] be mad and blame the party for killing [[Aloysia Telfan|Aloysia]] (ask first where she is -> have Galsariad check using scrying)
+		- [ ] [[Galsariad Ardyth|Galsariad]] be mad for not killing [[Vaelistra Zaphyr|Vaelistra Zaphyr]], might also lash out at [[Eve-thra Arryn (Alina)|Eve]] for having a "deal" with her
+			- [ ] still mad at [[Kenshi Takahashi (Til)|Kenshi]] but now also against [[Melantha (Melli) (Daniel)|Melli]]
+		- [ ] [[Dermot Wurder|Dermot]] might be sad that he got attacked so much they didnt trust him
+		- [ ] [[Maggie Keeneyes|Maggie]] wants date with [[Vorak Stormheart (Lars)|Vorak]], or maybe challanges him because he got downed and she wants to see his strength

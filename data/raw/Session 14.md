@@ -1,0 +1,240 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Who is Lafthal?
+	- encounter with [[Aloysia Telfan]]
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai backstory
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have [[Sehanine, The Moon Weaver]] upgrade the rapier -> evolves to healing -> to dimension rapier
+- Kenshi
+	- consecution Decisions
+	- finding [[Blade of broken mirrors]]
+	- Later: Getting power temptation vision (maybe after retrieving the blade)
+- [[Eve-thra Arryn (Alina)]] 
+	- Will meet [[Vaelistra Zaphyr]]
+		- Find out Plans of [[Betrayers rise]] and [[Xal'thul]]
+	- [[Kronin Duendalos]] talk
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [[Eve-thra Arryn (Alina)|Eve]] ring
+	- [[stone-of-good-luck]] (owned but not repaired)
+		- Gem Auge fehlt, emerald 200gp
+	- Stormrider Boots (owned but not repaired)
+		- Nur die Metallsohle ist übrig
+		- Needs to attach leather
+		- 2x DC 20 Tinkering check to activate
+			- Needs Infusion slot to power
+			- Further: Find element to infuse for damage 
+- [[Alyxian the Apotheon]]
+	- Talking with researchers and [[Betrayers rise]] vision
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- Finding out that [[Ank'Harel]] has Cleret Order members 
+	- If he dies he resurrects (once)
+	- He remembers the engravings on [[Blade of broken mirrors]] which are the same as the Necromancer had in his past 
+# Planning
+### Organisatorisches
+- [x] Enable Crossfade in Spotify!!!
+- [x] Um entschieden wegen geheim halten von Sachen die passiert sind
+	- Character and Player information should be the same
+	- Ich glaube es macht keinen sinn geheim zu halten was gerade passiert, vor allem wenn es eh jeder mit bekommt 
+		- Bezieht sich speziell auf Lore und "relevante" Sachen
+			- für jokes und so egal
+			- Beispiel: Vrill/Melli so lange her das du kaum mehr was darüber weißt
+			- Beispiel: Crystal + injuries
+	- Meta Sache: Story ist nur für bestimmten zeitraum relevant 
+	- Eure backstory ist eure und ihr könnt die so lange geheim halten wie ihr wollt
+	- Und bei NPCs ist es auch egal
+- [x] Short rest to heal is a option
+
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- the group spoke with [[Aloysia Telfan|Aloysia]]
+	- She said she wants to find a place of worship and is looking for an escort
+	- She briefly talked with [[Melantha (Melli) (Daniel)|Melli]] about her injury
+- You visited [[Foghome the Gardener]] and saw a vision of Alyxian that took place before the massive battle in [[Xhorhas]]
+- The party split up
+	- [[Aurora (Jason)|Aurora]] wanted to go to the [[Graviton Lance(Lanze)|Ballista]], [[Melantha (Melli) (Daniel)|Melli]] / [[Kenshi Takahashi (Til)|Kenshi]] helped, but were heavily hindered due to lack of light / darkvision
+		- They were discovered but luckily managed to get away
+	- The rest stayed in the [[Ready Room]] and talked with [[Maroon 5|Maroon 5]]
+- The next day, you encountered [[Prolix Yusaf|Prolix]] and completed a Trial of Asmodeus to open a black box
+	- A black diamond was found inside
+- Afterwards, you went to [[Verin Thelyss]] and reported what you had discovered
+	- [[Kenshi Takahashi (Til)|Kenshi]] was doing something else
+	- Because of the incident at the wall/ballista, you were questioned more closely
+- The decision is drawing closer regarding if and whom to take into the temple
+	- [[Aloysia Telfan|Aloysia]], the suspicious elf
+	- [[Prolix Yusaf|Prolix]], who is knowledgeable about artifacts
+	- [[Question]], who has been inside the temple before but is too afraid to enter again
+	- [[Vaelistra Zaphyr|Visenya]], who is familiar with the Abyssal Rifts
+- You stopped at the moment when [[Vaelistra Zaphyr|Visenya Telass]] introduced herself to you as a professor from [[Rosohna]] who also intends to go into the [[Betrayers rise]], and then asked “Ivella” to speak with her privately
+# Start
+- [ ] [[Kenshi Takahashi (Til)|Kenshi]] was busy in ready room 
+	- Patron
+		- He had to confirm suspicions and meditated
+		- Say he has the option to contact patron
+	- [[Dermot Wurder|Dermot]]
+		- Sehr ängstlich (alleine, ohne Ayo)
+		- Talks with him about curse for a friend
+			- ->  [[Bautha Dyrr]] (Infirmary) gefunden die einen sehr starke Schriftrolle haben soll und [[Foghome the Gardener]] der Flüche entfernen kann
+			- "Luxon hat mir leider nicht die Fähigkeit gegeben Flüche zu entfernen"
+		- About [[Galsariad Ardyth|Galsariad]] (before leaving)
+			- "Oh ähm...ich sehe Galsariad als einen Freund, ich hoffe ihr könnt euch irgendwann vertragen"
+	- He returned exactly when the others went outside and still heard the name Ivella
+- Aufgehört wo [[Vaelistra Zaphyr|Visenya Telass]] sich euch als Professorin aus [[Rosohna]] vorgestellt hat die auch vor hat in den [[Betrayers rise]] zu gehen und dann "Ivella" dazu gebeten hat unter vier Augen zu reden
+	- [i] It starts raining slightly -> prep for Essek  
+	- [x] When we resume at [[Eve-thra Arryn (Alina)|Eve]]
+		- "Der Name bringt Erinnerungen mit sich die du eigentlich gehofft hast zu vergessen"
+		- [[Vaelistra Zaphyr|Visenya Telass]] will lead her further away first
+	- start at [[Callimar Despana]] group
+		- High passive Insight: notices Callimar is absolutely disgusted (by their presences, especially elves)
+# Timeline
+- Today
+	- [x] [[Vaelistra Zaphyr|Visenya Telass]] encounter
+	- [x] [[Essek Thelyss]] showing up
+		- [x] [[Graviton Lance(Lanze)]] showing
+	- [ ] Have [[Vaelistra Zaphyr]] story with [[Verin Thelyss]] told 
+- Next Day
+	- Preparation Downtime
+		- Purchases
+		- Personal research/quests
+		- [ ] Who to take with them?
+		- [ ] What did Aurora do with the glasses?
+	- [ ] [[Betrayers rise]] (Gloomstalker fight)
+## Night Time 
+- Eve reminder: Spell copying 
+- [[Melantha (Melli) (Daniel)|Melli]] Dream:
+	- Let Daniel describe any dream he would have
+	- Have Ruidus flare and bad things happen
+		- Maybe Red veins
+- [[Melantha (Melli) (Daniel)|Melli]] Dream
+	- Erinnert sich an die Vision dann:
+	- Remembers the moment when two people talked with her parents, nur von der Ferne
+		- Rote Robe (crimson/Purpurrot) (darunter braun/schwarze Kleidung)
+		- Die eine einfach, die andere hatte war mit vielen Mustern und Edelstein Verzierungen bestückt, Kleidung die du noch nie zuvor gesehen hast 
+		- (Tabaxi / Female Human)
+		- Flash: erinnert sich an [[Aloysia Telfan]]  /  [[Vrill, the Moth]] ihr Umhang sah genauso aus
+- [[Kenshi Takahashi (Til)|Kenshi]]
+	- "Du spürst eine stärkere Verbindung zu deinem Patron, wenn du willst kannst du von dir aus versuchen mit im zu kommunizieren"
+	- Shadows take him and he is back in a familiar space
+		- Luxon
+			- [x] "Das Luxon hält deine Seele gefangen, du musst dich dem loswerden"
+		- Past Lives
+			- [ ] "Du hattest ein Leben vor dem jetzigen"
+				- [ ] (secret) "Ich habe schon einmal dir Kräfte gegeben"
+		- If he mentions negative past memories
+			- [ ] "Hört sich an als wärst du einen Pact eingegangen den du nicht ganz Verstanden hast. Und dich jemandem unterworfen den du eigentlich gar nicht unterstützt."
+				- [ ] (secret) "Du hast mir alles angeboten für deine enormen Kräfte, ich habe von dir genommen und dir gegeben."
+		- Why does he know so much
+			- [ ] "Ich habe andere...Diener...die mir Informationen bringen"
+		- Erweiterter Pact
+			- [ ] "Was dich gerade zurück hält ist deine Waffe...ich habe eine neue für dich. Keine Sorge sie kann die gleiche Form annehmen wie deine jetzige."
+			- [ ] "Sie befindet sich in [[Bazzoxan]]...aber ich glaube der Name hat sich über die Jahre geändert,  jetzt heißt er [[Betrayers rise]]"
+			- [ ] "Wenn wir unseren Pact erweitern dann kann **ich** die Tür zu der Waffe öffnen, ansonsten musst du es tun.
+				- (Ich weiß nicht was dich erwartet)
+			- Wie finde ich den Raum/Waffe?
+				- "Ich werde dich leiten, keine sorge du wirst die richtige Tür finden"
+			- Frage zu Waffe Stärke
+				- [ ] "Umso näher du mir stehst umso stärker wird sie sein. 
+				- [ ] (maybe don't) Die Seelen helfen aber ich brauche das versprechen deiner Seele um dir noch mehr Kräfte zu geben"
+		- Extra: If he asks how to redeem himself
+			- "Du hast nichts falsch gemacht, es ging um Leben und tut. Du denkst doch auch nicht über all die drow nach,  die du im Krieg getötet hast"
+			- "Aber wenn du Erlösung/Redemption suchst, werde stärker, beherrsche die Kräfte die ich dir gebe, dann wirst du niemals wieder gezwungen sein jemanden zu töten. Und du kannst jeden beschützen der dir am Herzen liegt."
+			- Future: ("Ich kann dir noch so viel mehr geben aber ich bin limitiert durch meine...Gefangenschaft....und Absenz von Körper. Wenn du mir hilfst das zu ändern dann..."
+## Loose Threads
+- [[Graviton Lance(Lanze)|Ballista]] 
+- If [[Sai Nailo - (Karl)|Sai]] uses [[remove-curse]] on [[Kenshi Takahashi (Til)|Kenshi]]: spellcasting check DC20:
+	- Success: 
+		- [i] Everyone leaves table 
+		- fühlt zwei Präsenzen
+		- kann entscheiden ob er zum Luxon oder zum Patron geht -> darkness oder light
+		- Triggers him getting confronted with [[Xal'thul]]
+		- Sees black humanoid husk with black tether into the abyss and grey comforting light
+		- maybe [[Tharizdun]] teaser
+	- Failure: 
+		- knows there is some other presence, that you are not powerful enough to interact with
+	- Regardless: knows there is no curse
+## NPCs
+- [[Kronin Duendalos]]
+- [[Sylphie]] -> Father [[Aderik]]
+- [[Vuzur]]
+- Berrain
+	- Guard of [[Verin Thelyss]]
+	- Can use [[zone-of-truth]] and [[charm-person]]
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] Red Crystal 50g = 500gp
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- Stormrider Boots (owned but not repaired)
+	- Nur die Metallsohle ist übrig
+	- Needs to attach leather
+	- 2x DC 20 Tinkering check to activate
+		- Needs Infusion slot to power
+		- Further: Find element to infuse for damage 
+- [r] Black diamond - cursed, nobody wants it, maybe unlocks door in [[Betrayers rise]]
+- [r] [[eyes-of-the-eagle|Eyes of the Eagle]] -> Aurora gathers best for Melli/Sai
+- Minor Loot
+	- Drei bunte Ringe (2gp each) -> from the Vrock belly
+# Summary
+
+- [ ] Reformat session notes to contain what will/might happen -> agenda 
+
+- [ ] If they encounter [[Maroon 5]] maybe have Ayo say: "Mal schauen wer Alyxian zuerst findet"
+- [ ] In case Til still doesnt reveal any truth /everything
+	- They can possibly help
+	- Ask if he is scared of patron
+- [[Kenshi Takahashi (Til)|Kenshi]] recognized patron connection, Dermot talk
+- [[Eve-thra Arryn (Alina)|Eve]], [[Vaelistra Zaphyr|Vaelistra Zaphyr]] talk
+	- Aurora, nat 20 to stealth and talk with her
+	- finished planned conversation
+	- talked about killing her friends then dragging her back to dumaran, 
+		- (nobody else knows) revealed that who is her brother
+	- Aurora got noticed in the end but she didnt react
+	- Eve broke down, got support from Aurora and everyone else
+- Big group talk about plans from eve info she gave
+	- talked about Children of Malice + lolth
+		- are against the kryn dynasty
+	- Eve mother wants to kill everyone
+- [[Essek Thelyss]], [[Abrianna Mirimm]] encounter
+	- fancy room
+	- Abrianna asked questions but was confused, Kenshi entered Luxon first but was hesitant, Connected to patron and told him to end Luxon connection. He did it and lost something inside him
+		- One thing he heard before killing his past self: "You are a victim of his plans"
+		- [ ] Memories should fade into background -> more like dream
+	- Told Verin about the traitor
+- Essek [[Graviton Lance(Lanze)|Ballista]]
+	- showed off, and explained the ballista
+	- and left again
+- Big execution
+	- [[Verin Thelyss]] assassenation attempt
+	- [[Kenshi Takahashi (Til)|Kenshi]] death and ressurrection 
+	- [[Vaelistra Zaphyr|Visenya Telass]] [[Callimar Despana]] ran away
+- [ ] Patron should react next night? maybe dream
+- [ ] ended at both running away -> resolve how they get away
+	- Have to announce somehow that they couldnt summon the chalicerei
+- [ ] Verin gives them reward -> entrance to [[Betrayers rise]] and maybe healing potions + money?
+	- Maybe task to kill them for money
+	- he reveals that he was face to face and almost died defending
+- [ ] At to session start, Tell Kenshi
+	- after death you went into complete darkness, your patron nowhere to be seen
+	- after coming back you were for a short time aware of your soul, just like the memory of your past after you killed yourself
+	- this time there was no pull to a grey light 
+	- and the thought crosses your mind, what happens to the souls you consume, where do they go. And if are they at a place where they shouldn't be 
+- [ ] [[Sai Nailo - (Karl)|Sai]] gains inspiration for revivify description
+- [ ] At to start: Very important to mark/track your abilities -> Dungeon!!
+- [ ] Start with what [[Kenshi Takahashi (Til)|Kenshi]] sees, starting up, Sai and everyone crying 
+- [ ] Cant use both glasses at the same time!

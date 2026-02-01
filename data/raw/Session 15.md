@@ -1,0 +1,280 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Who is Lafthal? Wo killed her Parents?
+	- encounter with [[Aloysia Telfan]]
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai backstory
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have [[Sehanine, The Moon Weaver]] upgrade the rapier -> evolves to healing -> to dimension rapier
+- Kenshi
+	- Patron confrontation
+	- finding [[Blade of broken mirrors]]
+	- Later: Getting power temptation vision (maybe after retrieving the blade)
+- [[Eve-thra Arryn (Alina)]] 
+	- [[Vaelistra Zaphyr]] confrontation in [[Betrayers rise]]
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [[Eve-thra Arryn (Alina)|Eve]] ring
+	- [[stone-of-good-luck]] (owned but not repaired)
+		- Gem Auge fehlt, emerald 200gp
+	- Stormrider Boots (owned but not repaired)
+		- Nur die Metallsohle ist übrig
+		- Needs to attach leather
+		- 2x DC 20 Tinkering check to activate
+			- Needs Infusion slot to power
+			- Further: Find element to infuse for damage 
+- [[Alyxian the Apotheon]]
+	- [[Betrayers rise]] vision
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- Finding out that [[Ank'Harel]] has Cleret Order members 
+	- If he dies he resurrects (once)
+	- He remembers the engravings on [[Blade of broken mirrors]] which are the same as the Necromancer had in his past 
+# Planning
+### Organisatorisches
+- [x]  Enable Crossfade in Spotify!!!
+- [ ] Kleiner Checkup: Frage ob ihr mit der derzeitigen Gruppen situation zurecht kommt und die okay ist
+	- Wir erzählen eine gemeinsame Geschichte
+	- Speziell die tension in der Gruppe (Melli/Kenshi/Vorak vs Sai/Eve/Aurora)
+		- Entweder euren Charactern ist es egal
+		- Oder es ist ihnen nicht egal aber euch interessiert solche interaction zu roleplayen und diese zu überkommen (sich zu beweisen / rauzureden etc)
+		- Oder ihr habt keine lust drauf und dann hören die anderen auf 
+		- (kann sich auch noch umentscheiden)
+- [ ] Gibt sonst von euch was anzusprechen? Auch gerne was wegen mir
+- [x] Nicht vergessen das ihr selbst nach der Antwort auf manch euerer Personal Goals suchen müsst
+	- Beispiel [[Aurora (Jason)|Aurora]]
+- [x] Very important to mark/track your abilities -> Dungeon!!
+	- Daniel (Inspiration/tell about Ability), Aurora (Gun, Flash recall)
+- [x] Gave [[Eve-thra Arryn (Alina)|Eve]] Item to easily see effects of [[mage-armor]]
+- [ ] Soll ich magic items drucken (important ones)
+
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+## Session Start
+- Kenshi’s patron hat figured out that the connection to him had been growing stronger throughout the journey and now that he is in [[Bazzoxan]], it is even possible for him to contact him directly.
+- Eve, or Ivella, had a conversation with her mother “[ [Vaelistra Zaphyr|Visenya Telass] ]”, which Aurora was also able to overhear due to a nat 20 on Stealth.
+	- She mentioned plans regarding [[Xal'thul]] and Ivella/her friends, as well as other family Connections (which the others do not yet know).
+	- Eve was too intimidated to speak up on her own.
+	- “Visenya” knew that someone else was present but did not react to it.
+	- Meanwhile, [[Callimar Despana]] was distracted by Melli.
+- Group conversation 
+	- Eve revealed that her mother is part of the so-called [[Children of Malice]], who worship Lolth, the Spider Queen, a Betrayer God.
+	- She herself has (supposedly) turned away from them and was on the run.
+	- This explained the assassins and her reaction in the cave where you found a Children of Malice hideout.
+- Afterwards, the group met [[Essek Thelyss]], the “Shadowhand” of the [[Kryn Dynasty]], who brought them into a room containing one of the [[The Luxon|Luxon]] Beacons.
+	- [[Abrianna Mirimm]] attempted to help [[Kenshi Takahashi (Til)|Kenshi]] recover his memories through the process of [[Consecution|Anamnesis]], but it did not work.
+	- She spoke of two veiled connections.
+	- Kenshi surrendered himself to the Luxon but was hesitant at first and needed encouragement from his patron.
+	- You stood face to face with your past “self” and saw many others you had no memories of.
+	- You heard countless voices; it was unclear whom or what you were communicating with, but before you broke the connection to the Luxon, you were told: “You are a victim of his plans.”
+- [[Verin Thelyss]] assassination attempt
+	- You told Verin about Visenya’s true intentions and convinced him to question her because of it, and through Essek you learned more about [[Xal'thul]], the [[Xal'thul|Hope Devourer]].
+	- After [[Essek Thelyss]] showed Aurora his [[Graviton Lance(Lanze)]], you went to wait in the canteen to see if anything would happen at all.
+	- ...until Visenya and Callimar actually attempted to kill him.
+		- The two of them apparently already expected to be confronted and caught [[Verin Thelyss]] by surprise.
+	- Massive chaos followed; both of them escaped, but not before Visenya did what she had promised Eve: to kill her friends.
+		- [[Kenshi Takahashi (Til)|Kenshi]] died
+	- A large number of soldiers chased after them, including [[Question]], but you were focused on Kenshi and bringing him back to life.
+# Start
+- Immediate Setup
+	- [[Kenshi Takahashi (Til)|Kenshi]] taking in his surroundings -> Sees Eve/Sai crying?
+	- Are at the end of the main building past the training area
+	- Took 10min to resurrect
+- [i] [[Callimar Despana]] might use [[cloudkill]] to kill a bunch of [[Aurora Watch]] -> Maybe on their way to [[Betrayers rise]] -> Bodies lying everywhere 
+# Timeline
+- Today
+	- [x] Maybe have somebody react to [[Aurora (Jason)|Aurora]] gun
+	- [x] [[Verin Thelyss]] talk 
+		- [x] Have [[Vaelistra Zaphyr]] story told 
+	- [ ] If they take nobody into BR -> [[Question]] reacts to [[Vorak Stormheart (Lars)|Vorak]] blood magic 
+- Next Day
+	- [x] prep spells! 
+	- Preparation Downtime
+		- Purchases
+		- Personal research/quests
+		- [x] Who to take with them?
+	- [x] [[Betrayers rise]] (Gloomstalker fight)
+	- [ ] [[Alyxian Visions#Netherdeep Visions (maybe do both)]]? 
+## Night Time 
+- [[Melantha (Melli) (Daniel)|Melli]] Dream
+	- Erinnert sich an die Vision dann:
+	- Du sitzt an dem Stadtbrunnen in Floria und beobachtest aus der Ferne wie zwei Figuren mit deinen Eltern reden
+		- Rote Robe (crimson/Purpurrot) (darunter braun/schwarze Kleidung)
+		- Die eine einfach, die andere hatte war mit vielen Mustern und Edelstein Verzierungen bestückt, (Kleidung die du noch nie zuvor gesehen hast)
+		- Erinnert sich das ihre Eltern nervös und aufgebracht aussahen
+		- (Tabaxi / Female Human)
+		- Flash: erinnert sich an [[Aloysia Telfan]]  /  [[Vrill, the Moth]] ihr Umhang sah genauso aus
+	- Schaust in den Himmel, zeit vergeht, sonne geht unter Catha und Ruidus sind zu sehen -> Flare
+		- Umgeben von Rauch und dem knistern von Feuer
+		- Hört Pfeilhagel....(sound auf stein)....(sound in Fleisch)...
+		- Wacht auf
+	- (If they didn't talk to [[Aloysia Telfan|Aloysia]])
+	- Might hear Footsteps approaching -> [[Aloysia Telfan|Aloysia]] wanting to talk 
+- [[Kenshi Takahashi (Til)|Kenshi]] -> Do this night!!!!
+	- [i] everyone leave table
+	- Shadows take him and he is back in a familiar space
+	- Floating in darkness, surrounded by smoke and shadows
+		- [x] Start
+			- "Gut gemacht, du hast den Fluch dieses Lichtes beendet" (Andauernde Wiederbelebung)
+			- "Nun können wir unseren Pact erweitern"...skull flies down, body not shown
+				- "Versprichst du mir deine Seele nach deinem Tot?"
+					- If Not: "Ich kann dich noch stärker machen, dass soll es doch wert sein?"
+			- "Aber unsere Verbindung ist immer noch nicht stark genug, begib dich in den [[Betrayers rise]] dort können wir uns...persönlich sehen"
+		- Why he let him die
+			- [x] Was kann ich dafür wenn du nicht stark genug warst zu überleben oder wenigstens mit mir zu kommunizieren
+			- [x] Du beendest die Verbindung mit dem Luxon aber hast mir noch nicht deine Seele anvertraut, das ist Gefährlich
+		- Past Lives
+			- [ ] "Du hattest ein Leben vor dem jetzigen"
+				- [ ] (secret) "Ich habe schon einmal dir Kräfte gegeben"
+			- [ ] Ja aber die waren nicht wichtig, in denen hattest du nichts erreicht
+		- Seelen
+			- [x] "Du behältst sie gerade noch in deinem Körper, wenn wir uns nahe genug sind werde ich sie an mich nehmen."
+			- [ ] "Sie stehen nicht mir zu, auch ich gebe sie nur weiter" ->
+		- If he mentions negative past memories
+			- [ ] "Hört sich an als wärst du einen Pact eingegangen den du nicht ganz Verstanden hast. Und dich jemandem unterworfen den du eigentlich gar nicht unterstützt."
+				- [ ] (secret) "Du hast mir alles angeboten für deine enormen Kräfte, ich habe von dir genommen und dir gegeben."
+		- Why does he know so much
+			- [ ] "Ich habe andere...Diener...die mir Informationen bringen"
+		- Erweiterter Pact
+			- [x] "Was dich gerade zurück hält ist deine Waffe...ich habe eine neue für dich. Keine Sorge sie kann die gleiche Form annehmen wie deine jetzige."
+			- [x] "Sie befindet sich in [[Bazzoxan]]...aber ich glaube der Name hat sich über die Jahre geändert,  jetzt heißt er [[Betrayers rise]]"
+			- Seele/Wiederbelebung
+				- is the same, he will allow him to come back to life
+			- Wie finde ich den Raum/Waffe?
+				- "Ich werde dich leiten, keine sorge du wirst die richtige Tür finden"
+			- Frage zu Waffe Stärke
+				- [x] "Umso näher du mir stehst umso stärker wird sie sein. 
+				- [x] (maybe don't) Die Seelen helfen aber ich brauche das versprechen deiner Seele um dir noch mehr Kräfte zu geben"
+		- Extra: If he asks how to redeem himself
+			- "Du hast nichts falsch gemacht, es ging um Leben und tut. Du denkst doch auch nicht über all die drow nach,  die du im Krieg getötet hast"
+			- "Aber wenn du Erlösung/Redemption suchst, werde stärker, beherrsche die Kräfte die ich dir gebe, dann wirst du niemals wieder gezwungen sein jemanden zu töten. Und du kannst jeden beschützen der dir am Herzen liegt."
+			- Future: ("Ich kann dir noch so viel mehr geben aber ich bin limitiert durch meine...Gefangenschaft....und Absenz von Körper. Wenn du mir hilfst das zu ändern dann..."
+## Loose Threads
+- If [[Sai Nailo - (Karl)|Sai]] uses [[remove-curse]] on [[Kenshi Takahashi (Til)|Kenshi]]: spellcasting check DC20:
+	- Success: 
+		- [i] Everyone leaves table 
+		- fühlt zwei Präsenzen
+		- kann entscheiden ob er zum Luxon oder zum Patron geht -> darkness oder light
+		- Triggers him getting confronted with [[Xal'thul]]
+		- Sees black humanoid husk with black tether into the abyss and grey comforting light
+		- maybe [[Tharizdun]] teaser
+	- Failure: 
+		- knows there is some other presence, that you are not powerful enough to interact with
+	- Regardless: knows there is no curse
+## NPCs
+- [[Kronin Duendalos]]
+- [[Sylphie]] -> Father [[Aderik]]
+- [[Vuzur]]
+- Berrain
+	- Guard of [[Verin Thelyss]]
+	- Can use [[zone-of-truth]] and [[charm-person]]
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] Red Crystal 50g = 500gp
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- Stormrider Boots (owned but not repaired)
+	- Nur die Metallsohle ist übrig
+	- Needs to attach leather, decide property how to fly
+	- 2x DC 20 Tinkering check to activate
+		- Needs Infusion slot to power
+		- Further: Find element to infuse for damage 
+- [r] Black diamond - cursed, nobody wants it, maybe unlocks door in [[Betrayers rise]]
+- [r] [[eyes-of-the-eagle|Eyes of the Eagle]] 
+	- Cant use both glasses at the same time!
+- Minor Loot
+	- Drei bunte Ringe (2gp each) -> from the Vrock belly
+- [[Aurora (Jason)|Aurora]] flashlight
+	- 40ft cone bright, 20ft dim light
+	- can regulate, in three steps (10+5/20+10/40+20)
+# Summary
+
+- [ ] Reformat session notes to contain what will/might happen -> agenda 
+- [ ] If they encounter [[Maroon 5]] maybe have Ayo say: "Mal schauen wer Alyxian zuerst fin
+
+- [ ] Find a way to give reward from [[Verin Thelyss]] but not tie to [[Kryn Dynasty]] but as 
+- Kenshi cries after being told that he actually died
+	- brought him to infirmary
+- Talk with [[Verin Thelyss]]
+	- Reveals about [[Vaelistra Zaphyr|Vaelistra Zaphyr]]
+	- gave healing potions, and promised reward if they could bring the assassins dead or alive, only need intact head
+	- searched room but found nothing
+- Talked with [[Aloysia Telfan|Aloysia]] in front of [[Ready Room]]
+	- They told her that they found a red crystal in [[Jigow]] in the Emerald grotto
+	- She told them about [[Ruidium]] and that her organizations goals is to find more of it, and that what Melli has is some kind of corruption by the material. Also that they utilize it somehow
+	- Insight check revealed that she was never lying but withholding more information
+	- She got told that they would decide until tomorrow -> she had already arrangements with [[Maroon 5|Maroon 5]] (unknown to the party)
+	- Her books information:
+		- Alyxian info she believes
+		- Drawing of the [[Ruidium Corruption]] veins
+		- Looks rather, new -> not that long in the organization
+- Went back into [[Gatehold Barracks]] and conversed in their room
+	- exchanged info about [[Ruidium Corruption]] and [[Sai Nailo - (Karl)|Sai]] revealed he has it too
+	- have to beware of [[Aloysia Telfan|Aloysia]], plan was to tell [[Verin Thelyss]] to not allow her inside -> was rooting for them
+	- Sadly didnt talk with [[Maroon 5|Maroon 5]] on that night because they already planned to go into [[Betrayers rise]] with [[Aloysia Telfan|Aloysia]] 
+		- [ ] Also they didn't talk with you or left a message
+- [[Kenshi Takahashi (Til)|Kenshi]] +  [[Xal'thul]] dream, in [[Infirmary]] (was only with til)
+	- Dreamt of his past, as child, watching is father train and he tried to replicate it too
+	- Then [[Xal'thul|Kenshi Patron]] came and talked with him, kenshi was angered because he didnt save him, Kenshi agreed to giving his soul after he died for the following promises: Nie Vater Seele holen and Has to tell his name
+	- His patron agreed and told him about the weapon, has to meet in the [[Betrayers rise]], will guide him
+	- Kenshi said: "Wir nutzen uns gegenseitig aus"
+- Slept (Melli had a Nightmare that made her curious about [[Consortium of the Vermilion Dream]]), +1 Day
+- [[Sai Nailo - (Karl)|Sai]] went to [[Aloysia Telfan|Aloysia]] room
+	- found nothing except
+	- black stain on the ground (ask Karl if he wants to tell everybody or not)
+		- Also found in secret out that [[Aloysia Telfan|Aloysia]] was trying to hide her left eye
+	- talked with [[Question]]
+		- she is comitted on finding remains of the rest of the group
+- Rest bought up stocks, healing potions, armor, rations, Aurora made special boots, almost completed them perfectly
+	- Aurora also made Voraks weapon special and sais shield
+- [ ] New Kenshi outfit, add in obsidian
+- [[Prolix Yusaf|Prolix]] went to them to talk
+	- informed about what happened at the [[Ruins of Sorrow]]
+	- and that [[Aloysia Telfan|Aloysia]] went with them to [[Betrayers rise]]
+		- party told him about [[Aloysia Telfan|Aloysia]] and [[Consortium of the Vermilion Dream]] goals
+	- Tried to pursuade him to come -> high roll -> instead offered payment for the information in form of introducing them to the [[Allegiance of Allsight]] in [[Ank'Harel]], [[Kenshi Takahashi (Til)|Kenshi]] asked for free stay there
+	- Also persuaded him to go back to [[Ank'Harel]]
+		- [ ] solve if he actually does or stay behind because he heard that the assassins went away, might have to stay behind because he only has one tabled (thought he has two)
+- [ ] nobody revealed the Amulet, still doesnt know what it exactly is!!
+- [ ] [[Eve-thra Arryn (Alina)|Eve]] got one spell done, should tell alina that [[Aurora (Jason)|Aurora]] already enhanced weapon for Vorak
+- [ ] create [[Vorak Stormheart (Lars)|Vorak]] magic item that Aurora made him
+- Went to the [[Betrayers rise]]
+	- opened the doors and got ambushed by two [[Gloomstalker]]
+	- very dangerous with the screams and paralized a lot of people
+	- Sai took 50 damage to start, down, Melli almost died
+		- Callimar and Vaelistra hid amongst a encampment and rushed inside, ignoring the rest
+		- [ ] maybe add dialogue to Eve, something like "I hope you didnt forget your little promise" but maybe it wont matter , probably not and only her smile
+	- question took a big hit like a champ and got picked up and dropped, as did vorak and Eve, but got both saved by Aurora feather fall
+		- edit question health to 80, maybe lower, to 60, argument that she levels up with the party later, also add the darts as consumable, maybe max 20 or so then she is kinda useless while frightenend
+	- first one went down to Kenshi repeated eldritch blast and Eve magic missle and Aurora laser
+	- second got absolutely gored by vorak with nat 20, mid air slice through the body
+- [ ] Maybe if they short rest the get Alyxian vision
+- [ ] Solve eve spells and what she did in her free time
+- [ ] Question saw vorak blood magic and will confront him!
+- [ ] solve aftermath of the gloomstalker attack
+- [ ] add potential magic item (inv check) to the Tiamat boss fight room
+- [ ] maybe move the Vorak +1 sword if Jason doesnt decide to revoke the magic
+- [ ] maybe add item that lets artificers redo infusions once per long rest
+	- [ ] maybe inform jason that he could build it himself?!?
+- [ ] big item for aurora: [All-Purpose Tool - DND 5th Edition](https://dnd5e.wikidot.com/wondrous-items:all-purpose-tool)
+	- [ ] look into more artificer specific items
+- [ ] [[Galsariad Ardyth|Galsariad]] destroyed the gravity crystal and put a shard into the [[Wand der Unvergessenen]]
+- [ ] Because they didnt show the amulet they didnt fit out that the door can only be opened by it
+- [ ] make some kind of table that decides how much hp [[Maroon 5|Maroon 5]] has, should depend amount of short/long rests in the dungeon
+- [ ] prep some [[Question]] reactions and ways for her to know the way
+	- some intersections she recognizes
+- [ ] more prep for Aurora
+	- Prepare full list of tools and examples you can do with them

@@ -1,0 +1,57 @@
+{
+  "question": "Who did Selene kill?",
+  "response": "Selene killed Ludwig after he was hit by Eve's firebolt, in order to get some answers using the speak with dead spell.",
+  "timestamp": "2026-02-01T07:34:06.717126",
+  "context_chunks": [
+    {
+      "chunk_id": 35005,
+      "name": "Session 35 - Part 5",
+      "source": "Session 35 Summary.txt"
+    },
+    {
+      "chunk_id": 39005,
+      "name": "Session 39 - Part 5",
+      "source": "Session 39 Summary.txt"
+    },
+    {
+      "chunk_id": 41003,
+      "name": "Session 41 - Part 3",
+      "source": "Session 41 Summary.txt"
+    },
+    {
+      "chunk_id": 37005,
+      "name": "Session 37 - Part 5",
+      "source": "Session 37 Summary.txt"
+    },
+    {
+      "chunk_id": 36003,
+      "name": "Session 36 - Part 3",
+      "source": "Session 36 Summary.txt"
+    },
+    {
+      "chunk_id": 42002,
+      "name": "Session 42 - Part 2",
+      "source": "Session 42 Summary.txt"
+    },
+    {
+      "chunk_id": 43002,
+      "name": "Session 43 - Part 2",
+      "source": "Session 43 Summary.txt"
+    },
+    {
+      "chunk_id": 39002,
+      "name": "Session 39 - Part 2",
+      "source": "Session 39 Summary.txt"
+    },
+    {
+      "chunk_id": 42003,
+      "name": "Session 42 - Part 3",
+      "source": "Session 42 Summary.txt"
+    },
+    {
+      "chunk_id": 34005,
+      "name": "Session 34 - Part 5",
+      "source": "Session 34 Summary.txt"
+    }
+  ]
+}

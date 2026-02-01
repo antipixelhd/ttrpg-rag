@@ -1,0 +1,109 @@
+
+# Current Threads
+- [[Melantha (Melli) (Daniel)|Melli]] trying to find out why her village got attacked
+	- [ ] Restoring her eye -> [[ersatz-eye-xge|Ersatz Eye]]
+- [[Sai Nailo - (Karl)|Sai]] 
+- [[Eve-thra Arryn (Alina)]] 
+	- Trigger [[Ruidium Corruption]], if she "fails" (need alona approval)
+	- Spells to find
+		- [[silent-image]] (1)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+- [[Aurora (Jason)|Aurora]]
+	- More [[Arcane Battery]] stuff
+	- [[Chobeg Turen|Chobeg]] dying to [[Ruidium Corruption]]
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- [[The Raven Queen, Matron of Death|Raven Queen]] task to end [[Xal'thul]] -> voices get quite and he regains his other half soul
+	- [[Croog Lynn]]
+# Planning
+## Organisatorisches
+
+- [x] For me: If deadline to stop -> mention it ingame to speed things along for cliffhanger!
+- [x] Healing potions
+	- Minor: Melli / Selene  / Aurora 
+	- Major: Eve
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Finished [[Aboleth (Alyxian)|Aboleth]] aftermath
+	- looting, [[Selene Noctis (Til)|Selene]] found secret hideout, containing [[Ruidium]] weapons and drawings of the [[jewel-of-three-prayers-crcotn|Jewel of Three Prayers]] 
+- Heading back outside 
+	- Did not care about being sneaky and got spotted by a giant shark
+	- Was infused with [[Ruidium]], even giving it regenerative abilities
+	- [[Selene Noctis (Til)|Selene]] heard some weird screams, some even herself?
+- [[Selene Noctis (Til)|Selene]] getting a diamond 
+	- Went to [[Hidden Hinge Society]] to talk to [[Tristan]]
+	- Offered 600g, but [[Tristan]] said it would only cover his fee, 300g would be for somebody else
+	- [[Ilena Hapayhari|Wheelchair Guy]] gave diamond
+		- Had intense altercation, he knows [[The Judge]] and the masks Selene wears?
+		- Apparently he is responsible for the attack on [[J'mon Sa Ord]]?
+- [[Encounter - Melli's Resurrection]] (at [[Blessing Well]])
+	- Contributions
+		- [[Aurora (Jason)|Aurora]]: Trying to mimic Mellis music to remind her of what she was capable of
+		- [[Eve-thra Arryn (Alina)|Eve]]: Trying to get [[Melantha (Melli) (Daniel)|Mellis]] heart pumping using [[telekinesis]] spell
+		- [[Sai Nailo - (Karl)|Sai]]: Pumping all his cure wounds spells into her
+	- [[Melantha (Melli) (Daniel)|Mellis]] perspective
+		- Was at [[Floria]], a festival, playing music, then slowly realizing something is wrong
+		- Countless ravens watching, then exploding to blood, everything became blood
+		- Interacted with [[The Raven Queen, Matron of Death]] herself
+			- [[Melantha (Melli) (Daniel)|Melli]] made bold claims, even insulting her
+			- In the end the last thing Melli said, was that mortals make mistakes...
+				- After that the Giant mask shrunk down to a beautiful woman and [[Melantha (Melli) (Daniel)|Melli]] woke up
+	- [[Coin of Fate]] returned to its original shape, to divine blood, and fell into the [[Blessing Well]]
+- [[Aurora (Jason)|Aurora]] and [[Sai Nailo - (Karl)|Sai]] helping [[Chobeg Turen|Chobeg]] 
+	- His condition worsened, now bedridden and unconscious, [[Ruidium]] crystal crew and is splitting him apart
+	- [[Sai Nailo - (Karl)|Sai]] used [[greater-restoration]] for the first time, and successfully slowed the [[Ruidium Corruption]]
+- Updating [[Cobalt Soul]], talking with [[Iwo Zalarre]]
+	- Got rewarded 2400g for completing two tasks
+	- Uncertain what happened with the spy, [[Galeokaerda]] is definitely dead
+- [[Selene Noctis (Til)|Selene]] bringing [[Eve-thra Arryn (Alina)|Eve]] to [[The Judge]]
+	- Interior appearance changed to fit description of [[Selene Noctis (Til)|Selene]]
+	- [[Eve-thra Arryn (Alina)|Eve]] thought she would learn a spell but "Der Professor" had a different intention
+		- After memory manipulation was in place: revealed his true intentions
+		- Finding out about why he remembers the name [[Eve-thra Arryn (Alina)|Ivella Zaphyr]]
+			- intense interrogation followed, searching through [[Eve-thra Arryn (Alina)|Eves]] memory to find a answer
+			- Did not find one directly, but saw [[Eve-thra Arryn (Alina)|Eve]] meet "her future self"
+		- Short scuffle, [[Eve-thra Arryn (Alina)|Eve]] trying to escape, [[Selene Noctis (Til)|Selene]] trying to tell her everything will be fine
+# Timeline / Agenda
+- [ ] [[Encounter - Attack Jamil and J'mon]]
+- [ ] [[Entering Cael morrow]] [[Cobalt Soul]] quest
+	- [ ] Rift
+	- [ ] Broken Towers
+- [ ] [[Maroon 5]] could come with them!
+	- [ ] [[Maroon 5]] reveal what they had to do!
+	- First rooms are visions only, split at n26 
+- [ ] Before going into [[Netherdeep]]
+	- [ ] Ask if there are any loose threads everyone wants to close!!
+	- [ ] Force [[Encounter - Attack Jamil and J'mon]] here??!?!?
+## Loose Threads
+- Magnet Lore:
+	- magnets sometimes don't work around the [[Cerulean Palace]]! 
+		- (400-600m range) 
+		- Multiple times a day -> more towards the evening
+		- its the [[cobalt-golem-tdcsr|Cobalt Golem]] ability -> have to activate it once per day for maintenance reason
+- [ ] Nobody knows yet that the first [[The Luxon|Luxon]] was discovered after a certain person killed himself
+- [ ] [[Vorak Stormheart (Lars)|Vorak]] attracts [[Ethereal Plane]] creatures (due to half soul)
+- [ ] [[Sai Nailo - (Karl)|Sai]] knows location of [[Sentinels of Memory]] base 
+- [ ] [[Bibbity Bobbity]] tasked them with finding a buyer for the ring
+	- [ ] If they dont find it: have to pay 200G for misty step and paper
+	- [ ] Could lead into [[J'mon Sa Ord]]  and [[Bibbity Bobbity]] confrontation!
+- [ ] [[Ulrich]] stole [[Melantha (Melli) (Daniel)|Mellis]] money!! to get revenge
+	- Either with thieves (another bully fight, or strong if with [[The Veil]])
+	- OR he is gabling and having fun
+		- reveals the story of why they attacked them
+## NPCs
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 25g = 250gp ([[Kenshi Takahashi (Til)|Kenshi]] has 25g) (Aurora has 8x 25g)
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [r] Tracking Orb, points to [[Xal'thul]] after he got his body back!!!, currently pointing nowhere
+	- [r] gave it to [[Cobalt Soul]]! 
+- [r] Encoded Sheet of paper found at [[Old Man Kruuk's]]
+	- High DC for decoding! -> transactions, delivers, no names tho
+- [r] [[Aurora (Jason)|Aurora]]: small bronze statue of elf (no gender) that looks to be casting a spell
+	- [r] 35-50gp (Corellon statue) 
+- [r] [[Sandkeg's Hide]] 4x shots (double), worth 100g  

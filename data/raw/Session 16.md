@@ -1,0 +1,195 @@
+
+# Current Threads
+- Melli trying to find out why her village got attacked
+	- Who is Lafthal? Wo killed her Parents?
+	- Dreams containing hints towards [[K'Var the Corrupted|K'Var]]
+- Sai backstory
+	- getting noticed by [[Vrill, the Moth]]
+	- Maybe have [[Sehanine, The Moon Weaver]] upgrade the rapier -> evolves to healing -> to dimension rapier
+- Kenshi
+	- finding [[Blade of broken mirrors]], name reveal
+	- Later: Getting power temptation vision (maybe after retrieving the blade)
+- [[Eve-thra Arryn (Alina)]] 
+	- [[Vaelistra Zaphyr]] confrontation in [[Betrayers rise]]
+	- Spells to find
+		- [[feather-fall|Feather Fall]] (1) (Aurora uses often)
+		- [[silent-image]] (1)
+		- [[invisibility|Invisibility]] (2) (Through amulet)
+		- [[blur]] (2)
+		- [[major-image|Major Image]] (3)
+	- Can help [[Galsariad Ardyth]] with [[gravity-fissure-egw|Gravity Fissure]] (on her own accord)
+- Aurora Repair Progression
+	- [[Eve-thra Arryn (Alina)|Eve]] ring
+	- [[stone-of-good-luck]] (owned but not repaired)
+		- Gem Auge fehlt, emerald 200gp
+	- Stormrider Boots (repaired)
+		- needs small runic part repaired (in [[Ank'Harel]])
+- [[Alyxian the Apotheon]]
+	- [[Betrayers rise]] vision
+- [[Vorak Stormheart (Lars)|Vorak]] 
+	- Finding out that [[Ank'Harel]] has Cleret Order members 
+	- If he dies he resurrects (once)
+	- He remembers the engravings on [[Blade of broken mirrors]] which are the same as the Necromancer had in his past 
+# Planning
+### Organisatorisches
+- [x] Healing potions
+	- Melli: 2
+	- Kenshi: 1
+	- Vorak: 1 (greater) + he buffed sword
+- [x] [[Eve-thra Arryn (Alina)|Eve]] decide spell preparation and lvl 3 spells
+- [x] Gave [[Vorak Stormheart (Lars)|Vorak]] the Aurora Greatsword
+- [x] How much magical paper did sai/aurora write down 
+- [x] SELF: Make Strichliste to track how many times each one got hit/attacked
+	- Time of day 17:00, maybe make tracking for time
+	- get black stift for til signing
+- [x] Make note to remind myself of NO LIGHT, or improvise on light
+---
+- [ ] Don't make negative assumptions about player interpretations -> STAY POSITIVE -> Have fun!!!
+- [ ] Do Whispers
+- [ ] Describe more senses
+- [ ] Describe age of NPCs
+# Session Start
+- Aftermath von [[Kenshi Takahashi (Til)|Kenshi]] Wiederbelebung während die zwei Assassinen auf der Flucht waren
+	- Mit [[Verin Thelyss]] gesprochen, der euch mehr über [[Vaelistra Zaphyr|Vaelistra Duandalos]] erzählt hat und euch mit healing potions ausgestattet hat
+- Ihr habt mit [[Aloysia Telfan|Aloysia]] vor dem [[Ready Room]] gesprochen
+	- Habt ihr gesagt einen roten Kristal in [[Jigow]] gesehen und den angefasst was sie anscheinend sehr zufrieden gestellt hat
+	- Sie hat preis gegeben das dieses Mineral/Kristal als [[Ruidium]] bezeichnet wird. Und ein großes Ziel des [[Consortium of the Vermilion Dream]] ist. Sie glauben das es die Kraft von [[Ruidus]] selbst besitzt und haben es daher benannt. 
+		- Und das was [[Melantha (Melli) (Daniel)|Melli]] hat ist eine resultierende Korruption, side effect
+	- Sie hat grundsätzlich die Wahrheit gesagt, aber definitiv Informationen zurück gehalten, unter anderem was ihre Pläne für den nächsten Tag waren...
+- In then [[Gatehold Barracks]] Gruppen Gespräch
+	- Über [[Ruidium Corruption]] ausgetauscht, [[Vorak Stormheart (Lars)|Vorak]], [[Melantha (Melli) (Daniel)|Melli]] haben es von dem Kristal in der Höhle von Jigow
+	- Big [[Sai Nailo - (Karl)|Sai]] reveal, has it too, but didn't talk about from where he got it
+- [[Kenshi Takahashi (Til)|Kenshi]] wurde in der Nacht von seinem Patron in einem Traum besucht
+- Nächster Tag
+	- Generelle Vorbereitung auf den [[Betrayers rise]], neue Rüstung, Kleidung für Kenshi, Aurora building boots, Waffe für Vorak und Schild für Sai
+	- [[Sai Nailo - (Karl)|Sai]] hat mit [[Question]] geredet, nachdem er den Schlafplatz von [[Aloysia Telfan|Aloysia]] untersucht hat, Sie würde gerne ihre Verlorenen Kameraden finden
+	- Gespräch mit [[Prolix Yusaf|Prolix]] der mit [[Maroon 5|Maroon 5]] nochmal bei den [[Ruins of Sorrow]] war und dort Rote Venen auf dem Boden gefunden hat und eine Versteckte inschrift in einem Stein 
+		- [[Kenshi Takahashi (Til)|Kenshi]] wollte ihn überreden mitzukommen, anstelle hat er angeboten euch der [[Allegiance of Allsight]] in [[Ank'Harel]] vorzustellen
+	- Durch Teil Nachforschungen und Prolix habt ihr herausgefunden das [[Maroon 5|Maroon 5]] mit [[Aloysia Telfan|Aloysia]] bereits in den Tempel gegangen sind und habt euch dann abrupt aufgemacht
+- Fight in front of [[Betrayers rise]]
+	- Als ihr dabei wart die Türen zu öffnen haben zwei [[Gloomstalker]] sie auf geslammt und FIGHT
+	- Die Schreie waren ein pain und in der ersten runde wurde Sai mit 50dmg gehittet 
+	- Callimar und Vaelistra hatten sich versteckt und sind in den Tempel gerannt
+	- Über den ganzen fight musste Vorak am meisten einstecken aber hatte den letzten Gloomstalker mit einer epic nat 20 und 37 dmg mid air getötet (Blut hat ihn befreit)
+# Start
+- Session Start
+	- Do phantom rolls!
+	- Aftermath: 
+		- [[Aurora Watch]] running to them, and into [[Betrayers rise]] 
+			- "Sie dachten nicht das die Attentäter den Berg hochklettern würden"
+		- [[Gloomstalker]] body stays, have to be transported -> from the Shadowfell 
+# Timeline
+- Before [[Betrayers rise]]
+	- [x] [[Question]] reacts to the group!
+		- [x] confronts [[Vorak Stormheart (Lars)|Vorak]] about Blood magic!
+		- [ ] confronts [[Aurora (Jason)|Aurora]] because of gun -> praises her
+	- [x] [[Question]] asks about [[Prolix Yusaf|Prolix]], if she should ask him to stay
+	- [x] [[Alyxian Visions#Netherdeep Visions (maybe do both)| Alyxian Vision]], could do while short rest? 
+- [[Betrayers rise]]
+	- [x] Give Epic summary description
+		- [x] [[Vorak Stormheart (Lars)|Vorak]] Voices!!
+		- [x] "Es ist jetzt fast 3 Wochen her seit dem ihr euch in Jigow kennengelernt habt"
+		- [x] [[Alyxian the Apotheon|Alyxian]] hat euch gebeten ihn zu Retten und ihn die Tiefen von [[Bazzoxan]] hinab zu steigen
+		- [x] Und jetzt seid ihr endlich hier, nach einer langen Reise, nach einigen Schlachten und nach sogar einem Tod betretet ihr den [[Betrayers rise]], einem Tempel zu den Betrayer Gods und einst der Hauptsitz der Dämonen Prinzen des Abyss
+		- [x] Eine verlorene Forschergruppe, zwei Assassinen die ihre eigenen Ziele haben, [[Maroon 5|Maroon 5]] mit [[Aloysia Telfan|Aloysia]] die euch voraus sind, [[Alyxian the Apotheon|Alyxian]]...so viele variablen, wir finden heraus was passiert
+		- [x] Everyone has to describe their Thoughts
+## Night Time 
+- [[Melantha (Melli) (Daniel)|Melli]] / [[Sai Nailo - (Karl)|Sai]] meditate instead of sleeping
+	- ask what they are thinking about
+## Loose Threads
+- If [[Sai Nailo - (Karl)|Sai]] uses [[remove-curse]] on [[Kenshi Takahashi (Til)|Kenshi]]: spellcasting check DC20:
+	- Success: 
+		- [i] Everyone leaves table 
+		- fühlt zwei Präsenzen
+		- kann entscheiden ob er zum Luxon oder zum Patron geht -> darkness oder light
+		- Triggers him getting confronted with [[Xal'thul]]
+		- Sees black humanoid husk with black tether into the abyss and grey comforting light
+		- maybe [[Tharizdun]] teaser
+	- Failure: 
+		- knows there is some other presence, that you are not powerful enough to interact with
+	- Regardless: knows there is no curse
+- [[Kenshi Xal'thul Talk]]
+## NPCs
+- [[Kronin Duendalos]]
+- [[Sylphie]] -> Father [[Aderik]]
+- [[Vuzur]]
+- Berrain
+	- Guard of [[Verin Thelyss]]
+	- Can use [[zone-of-truth]] and [[charm-person]]
+## Treasure
+- [r] Silberner Ring mit einem kleinen Saphir, eingraviert "Irvan Wastewalker" und Wappen (250g, don't know that)
+- [r] [[Ruidium]] 50g = 500gp
+	- Rotes Mineral -> schwarz/dunkelrote Schlieren (sieht wie Blut aus)
+	- Glatt/Ölig (Wie Obsidian/Jadeit)
+	- Magic present
+- [[stone-of-good-luck]]
+	- Stein in Form eines Katzenkopfs 
+	- Gem Auge fehlt, **required:** emerald 200gp
+- Stormrider Boots (owned but not repaired)
+	- Used her own Leather boots
+		- Further: Find element to infuse for damage
+		- Effect: uses air to propell 
+- [r] Black diamond - cursed, nobody wants it, maybe unlocks door in [[Betrayers rise]]
+- Minor Loot
+	- Drei bunte Ringe (2gp each) -> from the Vrock belly
+# Summary
+
+- [ ] Reformat session notes to contain what will/might happen -> agenda 
+- [ ] If they encounter [[Maroon 5]] maybe have Ayo say: "Mal schauen wer Alyxian zuerst fin
+
+- [x] Solve eve spells and what she did in her free time
+
+- [ ] maybe add item that lets artificers redo infusions once per long rest
+	- [ ] maybe inform jason that he could build it himself?!?
+- [x] big item for aurora: [All-Purpose Tool - DND 5th Edition](https://dnd5e.wikidot.com/wondrous-items:all-purpose-tool)
+	- [x] look into more artificer specific items
+
+- [ ] [[Galsariad Ardyth|Galsariad]] destroyed the gravity crystal and put a shard into the [[Wand der Unvergessenen]]
+
+- [ ] make some kind of table that decides how much hp [[Maroon 5|Maroon 5]] has, should depend amount of short/long rests in the dungeon
+
+- [x] more prep for Aurora
+	- Prepare full list of tools and examples you can do with them
+
+- Short rest
+	- [[Question]] überredet
+- [[Betrayers rise]]
+	- Connection 1:
+		- help from question, knew the way, knew the traps
+		- moving hallways
+	- R1:
+		- nobody went down
+		- opened door, showed [[Jewel of three prayers Abilties]] to question, revealed that its a [[Vestiges of Divergence]]
+	- R2:
+		- Ran away before meat monster could fully form
+	- Connection2: Roll: 16
+		- Steingang mit vrock und gloomstalker leiche, die in die wand gezogen wurden
+		- Einen Gang der schon verschlossen wurde
+		- Vrock auseinander genommen und Screwdriver gefunden
+	- Zerxzus room
+		- vorak and aurora stared into blood and gained exhaustion
+	- R3:
+		- immediatly [[Kenshi Takahashi (Til)|Kenshi]] opened room to [[Xal'thul]], signed contract,
+		- Sai wanted to sacrifice his book and revealed that his name is in der
+			- [ ] lore add he wrote his name in there since otherwise it doesnt make sense
+		- sai threatened black figure, melli tried to stop him but then [[Xal'thul]] revealed his name
+		- Threatened kenshi afterwards but kenshi reassured he is not against the party
+		- [ ] took fire resistance 
+	- R4:
+		- kenshi went through first -> disadvantage on death save + immune to frightenend
+			- everyone else either failed or didnt do it
+		- solved mute problem with eve->gojo jumping through 
+- [ ] when they come back the door from kenshi room no longer there and leads to other room -> tiamat room or R9
+- [ ] remove path to R5, maybe remove R8???
+	- [ ] actually let them continue and go straight to R9, could lead them in from the left, have the bottom closed off and the right lead to the spider room?.
+- Ended at flaming skull, undead presence is still there, add that they are very slowling regenerating
+- [ ] melli 2x healing potion
+- [ ] add way for kenshi to prove himself and help party? 
+- [ ] may nerf coin -> no char death?
+- [ ] make melli true strike bow
+- [ ] maybe make it so [[Xal'thul]] can only talk in [[Betrayers rise]] through the dagger 
+- [ ] add night thoughts to kenshi, he thinks over the impulse choice he made -> sacrificing the family hearloom passed down from his father to gain a foreign weapon trying to look the same
+- [ ] Let [[Xal'thul]] say: "Ich brauche keine Seelen mehr von dir, es reicht wenn du den Dolch bei dir trägst"
+- [ ] incorporate next connection abzweigungen so they can use their amulet
+- [ ] maybe let question try and get the group closer, comment on tense air between them, says they have to be honest, maybe pulls out alcohol -> later important for loss of comrades
+	- [ ] frägt wie sie sich kennen gelernt haben, was sie davor gemacht haben
