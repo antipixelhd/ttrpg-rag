@@ -170,8 +170,6 @@ def evaluate_retrieval(config, verbose: bool = False) -> dict:
     all_f1_10 = []
     all_mrr = []
     
-    individual_results = []
-    
     for i, q in enumerate(questions_with_gold, 1):
         if verbose:
             print(f"  [{i}/{len(questions_with_gold)}] Evaluating: {q.question[:50]}...")
@@ -191,20 +189,6 @@ def evaluate_retrieval(config, verbose: bool = False) -> dict:
         all_recall_10.append(r10)
         all_f1_10.append(f1_10)
         all_mrr.append(mrr)
-        
-        individual_results.append({
-            'qid': q.qid,
-            'question': q.question,
-            'gold_chunks': list(gold_ids),
-            'retrieved_chunks': retrieved_ids[:10],
-            'precision_at_5': p5,
-            'recall_at_5': r5,
-            'f1_at_5': f1_5,
-            'precision_at_10': p10,
-            'recall_at_10': r10,
-            'f1_at_10': f1_10,
-            'mrr': mrr,
-        })
     
     n = len(questions_with_gold)
     results = {
@@ -217,8 +201,7 @@ def evaluate_retrieval(config, verbose: bool = False) -> dict:
             'recall_at_10': sum(all_recall_10) / n,
             'f1_at_10': sum(all_f1_10) / n,
             'mrr': sum(all_mrr) / n,
-        },
-        'individual_results': individual_results,
+        }
     }
     
     print(f"Retrieval evaluation complete: {n} questions processed")
