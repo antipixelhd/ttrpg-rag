@@ -1,6 +1,5 @@
 
 import json
-import logging
 import yaml
 from datetime import datetime
 from pathlib import Path
@@ -35,8 +34,8 @@ def save_config(run_dir, config):
     
     print(f"Saved config to: {config_path}")
 
-def save_chunks(run_dir, chunks):
-    chunks_path = Path(run_dir) / 'chunks.json'
+def save_uploaded_chunks(run_dir, chunks):
+    chunks_path = Path(run_dir) / 'uploadedChunks.json'
     
     chunks_to_save = []
     for chunk in chunks:
@@ -49,7 +48,7 @@ def save_chunks(run_dir, chunks):
     with open(chunks_path, 'w', encoding='utf-8') as f:
         json.dump(chunks_to_save, f, indent=2, ensure_ascii=False)
     
-    print(f"Saved {len(chunks)} chunks to: {chunks_path}")
+    print(f"Saved {len(chunks)} uploaded chunks to: {chunks_path}")
 
 def save_embeddings(run_dir, chunks):
     embeddings_path = Path(run_dir) / 'embeddings.json'
@@ -74,10 +73,10 @@ def save_results(run_dir, query, results, query_number=None):
     results_dir.mkdir(exist_ok=True)
     
     if query_number is not None:
-        filename = f"query_{query_number:03d}.json"
+        filename = f"searchResult_{query_number:03d}.json"
     else:
         timestamp = datetime.now().strftime('%H%M%S')
-        filename = f"query_{timestamp}.json"
+        filename = f"searchResult_{timestamp}.json"
     
     results_path = results_dir / filename
     
@@ -119,33 +118,6 @@ def save_response(run_dir, question, response, retrieved_chunks=None, metadata=N
         json.dump(data, f, indent=2, ensure_ascii=False)
     
     print(f"Saved response to: {response_path}")
-
-def get_logger(run_dir, name='run'):
-    log_path = Path(run_dir) / 'run.log'
-    
-    logger = logging.getLogger(name)
-    logger.setLevel(logging.INFO)
-    
-    logger.handlers.clear()
-    
-    formatter = logging.Formatter(
-        '%(asctime)s - %(levelname)s - %(message)s',
-        datefmt='%Y-%m-%d %H:%M:%S'
-    )
-    
-    file_handler = logging.FileHandler(log_path, encoding='utf-8')
-    file_handler.setLevel(logging.INFO)
-    file_handler.setFormatter(formatter)
-    logger.addHandler(file_handler)
-    
-    console_handler = logging.StreamHandler()
-    console_handler.setLevel(logging.INFO)
-    console_handler.setFormatter(formatter)
-    logger.addHandler(console_handler)
-    
-    logger.info(f"Logging to: {log_path}")
-    
-    return logger
 
 def list_runs():
     runs_dir = get_project_root() / 'runs'

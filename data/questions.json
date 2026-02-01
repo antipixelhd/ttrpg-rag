@@ -152,5 +152,204 @@
     "answerable": true,
     "goldAnswer": "Visenya Telass (Eve's mother) and Callimar Despana attempted to assassinate him.",
     "goldChunks": [14002, 14005]
+  },
+  {
+    "qid": 23,
+    "question": "Did the party ever find out what was in Vurnir's leather bag?",
+    "answerable": true,
+    "goldAnswer": "Eve found out that nothing is in Vurnir's leather bag",
+    "goldChunks": [9001]
+  },
+  {
+    "qid": 24,
+    "question": "What did the Drow assassins want from Eve in Jigow?",
+    "answerable": true,
+    "goldAnswer": "They wanted to kill eve",
+    "goldChunks": [4003]
+  },
+  {
+    "qid": 25,
+    "question": "How did Perigee and Alyxian first meet before the Calamity?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 26,
+    "question": "What did The Wolf do after the Consortium was dismantled?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 27,
+    "question": "What happened to the mysterious person who left arcane flashes near the camp during the travel to Bazzoxan?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+
+  {
+    "qid": 28,
+    "question": "What was the name of Sylphie's father?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 29,
+    "question": "What was the Wheelchair Guy's name in the Hidden Hinge Society?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 30,
+    "question": "Who was following the party and leaving footprints near camp on the way to Bazzoxan?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 31,
+    "question": "What did the elfin woman Vrill inject into Melli's shoulder on day 7?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 32,
+    "question": "How did Galsariad create the Teleportation Circle when escaping the Betrayers Rise?",
+    "answerable": true,
+    "goldAnswer": "He created the teleportation circle by using the first tablet",
+    "goldChunks": [20003]
+  },
+  {
+    "qid": 33,
+    "question": "What were the other gods doing when Gruumsh threw his spear at Cael Morrow?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 34,
+    "question": "Who stole Melli's gold in Ank'Harel?",
+    "answerable": true,
+    "goldAnswer": "Melli got robbed by an unkown attacker",
+    "goldChunks": [41001]
+  },
+  {
+    "qid": 35,
+    "question": "What did Callimar see that made him claw his eyes out?",
+    "answerable": true,
+    "goldAnswer": "Callimar saw the realm of Tharizdun",
+    "goldChunks": [33002]
+  },
+  {
+    "qid": 36,
+    "question": "What was the outcome of J'mon Sa Ord's investigation into the Consortium?",
+    "answerable": true,
+    "goldAnswer": "Jamil A'alithiya wants to attack the Consortium diretly",
+    "goldChunks": [28002, 32003]
+  },
+  {
+    "qid": 37,
+    "question": "How did Galeokaerda actually die in Cael Morrow?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 38,
+    "question": "What did Kenshi write in his goodbye letter before leaving for Zadash?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 39,
+    "question": "Who was the spy in Cael Morrow that the Cobalt Soul wanted investigated?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 40,
+    "question": "Did the party ever find Question's lost friends inside the Betrayers Rise?",
+    "answerable": true,
+    "goldAnswer": "The party did not find Question's friends inside the Betrayers Rise, but question heard voices of her friends which could mean that they have already died",
+    "goldChunks": [15005, 19001, 20002]
+  },
+  {
+    "qid": 41,
+    "question": "What happened to the petrified humans found near the villa in Cael Morrow?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 42,
+    "question": "Did Sai ever talk to Lymmle Wist after he was captured by the Hands of Ord?",
+    "answerable": true,
+    "goldAnswer": "Sai did talk to Lymmle Wist in the Ord Bastion and threatened him",
+    "goldChunks": [35002, 38001]
+  },
+  {
+    "qid": 43,
+    "question": "What did Nummer 1 know about Ivella?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 44,
+    "question": "Who killed Ella in K'Var's hideout?",
+    "answerable": true,
+    "goldAnswer": "Ella was killed by Selene",
+    "goldChunks": [36004]
+  },
+  {
+    "qid": 45,
+    "question": "What happened to the Sentinels of Memory after their connection to the Consortium was revealed?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 46,
+    "question": "What was Isshkar the Burrowed doing in the Betrayers Rise?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 47,
+    "question": "What did Visenya's crystal ball lead her to find in the Betrayers Rise?",
+    "answerable": true,
+    "goldAnswer": "Visenya's crystal ball pointed towards Xal'thul",
+    "goldChunks": [20003]
+  },
+  {
+    "qid": 48,
+    "question": "Did the party ever figure out who was funding the Sentinels of Memory through The Sun Bear?",
+    "answerable": true,
+    "goldAnswer": "The party didnt find out specifically who funded it but it is heavily implied that the Consortium funded the Sentinels of Memory",
+    "goldChunks": [36002]
+  },
+
+  {
+    "qid": 49,
+    "question": "How did Croog Lynn learn blood magic?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
+  },
+  {
+    "qid": 50,
+    "question": "What did Selene's mysterious letter say?",
+    "answerable": false,
+    "goldAnswer": "",
+    "goldChunks": []
   }
 ]
+

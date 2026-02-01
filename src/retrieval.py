@@ -15,8 +15,7 @@ def generate_search_queries(question, config):
     client = OpenAI(api_key=secrets['openai_api_key'])
     
     prompt = f"""Given this question about a D&D campaign: "{question}"
-        Generate 4 short search phrases to find relevant information in session summaries.
-        Use different word variations (past tense, synonyms, etc.).
+        Generate 4 short search phrases using different word variations (past tense, synonyms, etc.), but be sure to keep the original meaning of the question!
         Return ONLY the search phrases, one per line, nothing else.
         """
 

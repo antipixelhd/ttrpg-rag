@@ -1,6 +1,6 @@
 
+import warnings
 from sentence_transformers import CrossEncoder
-
 _reranker_model = None
 _reranker_model_name = None
 

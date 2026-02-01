@@ -9,11 +9,8 @@ from src.retrieval import search
 from src.run_tracker import (
     create_run,
     save_config,
-    save_chunks,
-    save_embeddings,
     save_results,
     save_response,
-    get_logger,
 )
 
 def cmd_preprocess(args):
@@ -28,10 +25,6 @@ def cmd_preprocess(args):
         print("\nConfiguration:")
         print_config(config)
         print()
-    
-    if args.track:
-        run_dir = create_run(config, "preprocess")
-        save_config(run_dir, config)
     
     processed_files = preprocess_all(config, verbose)
     
@@ -59,18 +52,7 @@ def cmd_index(args):
             print("Failed to delete storage. Aborting.")
             return 1
     
-    if args.track:
-        run_dir = create_run(config, "index")
-        save_config(run_dir, config)
-    else:
-        run_dir = None
-    
     result = index_all(config, verbose)
-
-    if result and run_dir:
-        save_chunks(run_dir, result['chunks'])
-        if args.save_embeddings:
-            save_embeddings(run_dir, result['chunks'])
     
     if result:
         total = result['count']
@@ -242,50 +224,38 @@ def cmd_run(args):
         print()
     
     run_dir = create_run(config, "full_run")
-    logger = get_logger(run_dir)
     save_config(run_dir, config)
     
     print("=" * 50)
     print("STEP 1: Preprocessing")
     print("=" * 50)
-    logger.info("STEP 1: Preprocessing")
     
     if not args.skip_preprocess:
         preprocess_all(config, verbose)
     else:
         print("Skipping preprocessing (--skip-preprocess flag)")
-        logger.info("Skipping preprocessing (--skip-preprocess flag)")
     
     print()
     print("=" * 50)
     print("STEP 2: Indexing")
     print("=" * 50)
-    logger.info("STEP 2: Indexing")
     
     if not args.skip_index:
         if args.delete:
             print("Deleting Qdrant storage...")
-            logger.info("Deleting Qdrant storage...")
             success = delete_collection(config, verbose)
             if not success:
                 print("Failed to delete storage. Aborting.")
-                logger.error("Failed to delete storage. Aborting.")
                 return 1
         
         result = index_all(config, verbose)
-        if result:
-            save_chunks(run_dir, result['chunks'])
-            if args.save_embeddings:
-                save_embeddings(run_dir, result['chunks'])
     else:
         print("Skipping indexing (--skip-index flag)")
-        logger.info("Skipping indexing (--skip-index flag)")
     
     print()
     print("=" * 50)
     print("STEP 3: Searching")
     print("=" * 50)
-    logger.info("STEP 3: Searching")
     
     results = search(args.question, config, verbose)
     save_results(run_dir, args.question, results, query_number=1)
@@ -294,7 +264,6 @@ def cmd_run(args):
     print("=" * 50)
     print("STEP 4: Generating Response")
     print("=" * 50)
-    logger.info("STEP 4: Generating Response")
     
     from src.response import generate_response
     
@@ -307,13 +276,11 @@ def cmd_run(args):
     print("ANSWER:")
     print("-" * 50)
     print(response)
-    logger.info(f"ANSWER: {response}")
     
     print()
     print("=" * 50)
     print(f"Pipeline complete! Results saved to: {run_dir}")
     print("=" * 50)
-    logger.info(f"Pipeline complete! Results saved to: {run_dir}")
     
     return 0
 
@@ -343,11 +310,6 @@ def main():
         help='Path to custom config YAML file'
     )
     preprocess_parser.add_argument(
-        '--track', '-t',
-        action='store_true',
-        help='Create a run folder to track this operation'
-    )
-    preprocess_parser.add_argument(
         '--verbose', '-v',
         action='store_true',
         help='Print detailed progress information'
@@ -365,16 +327,6 @@ def main():
         '--delete', '-d',
         action='store_true',
         help='Delete entire Qdrant storage before indexing'
-    )
-    index_parser.add_argument(
-        '--track', '-t',
-        action='store_true',
-        help='Create a run folder to track this operation'
-    )
-    index_parser.add_argument(
-        '--save-embeddings',
-        action='store_true',
-        help='Save embedding vectors to run folder (large file!)'
     )
     index_parser.add_argument(
         '--verbose', '-v',
