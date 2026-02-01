@@ -1,6 +1,7 @@
 
 import json
 import re
+import time
 from pathlib import Path
 from dataclasses import dataclass
 from typing import List
@@ -8,6 +9,19 @@ from datetime import datetime
 
 from openai import OpenAI
 from src.config import resolve_path, get_secrets
+
+def retry_on_error(func, max_retries=5, delay=2):
+    for attempt in range(max_retries):
+        try:
+            return func()
+        except Exception as e:
+            if attempt < max_retries - 1:
+                print(f"    API error (attempt {attempt + 1}/{max_retries}): {e}")
+                print(f"    Retrying in {delay} second(s)...")
+                time.sleep(delay)
+            else:
+                print(f"    API error: Max retries ({max_retries}) exceeded. Aborting.")
+                raise
 
 GROUNDEDNESS_PROMPT = """
 You will be given a context and a question.
@@ -174,7 +188,9 @@ def evaluate_retrieval(config, verbose: bool = False) -> dict:
         if verbose:
             print(f"  [{i}/{len(questions_with_gold)}] Evaluating: {q.question[:50]}...")
         
-        retrieved = search(q.question, config, verbose)
+        retrieved = retry_on_error(lambda q=q: search(q.question, config, verbose))
+        #time.sleep(3)
+        
         retrieved_ids = [chunk.get('chunk_id') for chunk in retrieved]
         gold_ids = set(q.goldChunks)
         
@@ -231,27 +247,32 @@ def evaluate_response(config, verbose: bool = False) -> dict:
         if verbose:
             print(f"  [{i}/{len(questions)}] Evaluating: {q.question[:50]}...")
         
-        retrieved = search(q.question, config, verbose=False)
+        retrieved = retry_on_error(lambda q=q: search(q.question, config, verbose=False))
+        #time.sleep(3)
+        
         context = format_context(retrieved)
         
-        response_data = generate_response(q.question, retrieved, config, verbose=False)
+        response_data = retry_on_error(lambda q=q, retrieved=retrieved: generate_response(q.question, retrieved, config, verbose=False))
         total_generation_input_tokens += response_data['input_tokens']
         total_generation_output_tokens += response_data['output_tokens']
+        #time.sleep(3)
         
-        groundedness, g_in, g_out = evaluate_groundedness(q.question, context, config)
+        groundedness, g_in, g_out = retry_on_error(lambda q=q, context=context: evaluate_groundedness(q.question, context, config))
         all_groundedness.append(groundedness)
         total_eval_input_tokens += g_in
         total_eval_output_tokens += g_out
+        #time.sleep(3)
         
         if verbose:
             print(f"    Groundedness: {groundedness}/5")
         
-        correctness, c_in, c_out = evaluate_correctness(
+        correctness, c_in, c_out = retry_on_error(lambda q=q, response_data=response_data: evaluate_correctness(
             q.question, q.goldAnswer, response_data['answer'], config
-        )
+        ))
         all_correctness.append(correctness)
         total_eval_input_tokens += c_in
         total_eval_output_tokens += c_out
+        time.sleep(3)
         
         if verbose:
             print(f"    Correctness: {correctness}/5")

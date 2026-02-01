@@ -22,7 +22,7 @@ def generate_search_queries(question, config):
     response = client.chat.completions.create(
         model=model,
         messages=[{"role": "user", "content": prompt}],
-        temperature=0.3
+        temperature=0.2
     )
     
     queries = response.choices[0].message.content.strip().split("\n")
@@ -47,7 +47,8 @@ def search_with_multiple_queries(queries, config, verbose=False):
     client = create_qdrant_client(config)
     model = config['embedding']['model']
     
-    all_results = {}
+    chunk_scores = {}
+    chunk_hits = {}
     
     try:
         for query in queries:
@@ -59,11 +60,18 @@ def search_with_multiple_queries(queries, config, verbose=False):
             
             for hit in results:
                 chunk_id = hit.id
-                if chunk_id not in all_results or hit.score > all_results[chunk_id][0]:
-                    all_results[chunk_id] = (hit.score, hit)
+                if chunk_id not in chunk_scores:
+                    chunk_scores[chunk_id] = []
+                    chunk_hits[chunk_id] = hit
+                chunk_scores[chunk_id].append(hit.score)
     
     finally:
         client.close()
+    
+    all_results = {}
+    for chunk_id, scores in chunk_scores.items():
+        avg_score = sum(scores) / len(scores)
+        all_results[chunk_id] = (avg_score, chunk_hits[chunk_id])
     
     sorted_results = sorted(all_results.values(), key=lambda x: x[0], reverse=True)
     

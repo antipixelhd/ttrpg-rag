@@ -4,7 +4,7 @@ from openai import OpenAI
 from src.config import get_secrets
 
 SYSTEM_PROMPT = """
-You are an assistant that provides accurate, answers about a Dungeons & Dragons campaignusing only the information found in the supplied session summary sections
+You are an assistant that provides accurate, answers about a Dungeons & Dragons campaign using only the information found in the supplied session summary sections
 Each section is labeled, showing both the session number and the part number (e.g., "part 1/2/3"), conveying order within a session.
 This context is in form of a bullet point lists, conveying a hierarchy within a given event.
 You must:
