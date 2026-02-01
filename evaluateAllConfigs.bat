@@ -1,11 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
 
-echo ================================================================================
-echo              TTRPG RAG - Batch Configuration Evaluation
-echo ================================================================================
-echo.
-
 echo Select evaluation type:
 echo   1) Retrieval Evaluation (search --evaluate)
 echo   2) Response Evaluation (chat --evaluate)

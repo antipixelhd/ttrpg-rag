@@ -39,13 +39,13 @@ python main.py index
 Search for relevant chunks:
 
 ```bash
-python main.py search "What happened in session 5?"
+python main.py search "Who is Vaelistra?"
 ```
 
 Get an AI-generated answer:
 
 ```bash
-python main.py chat "Who is the main villain?"
+python main.py chat "Who did Selene kill?"
 ```
 
 ## Available Commands
